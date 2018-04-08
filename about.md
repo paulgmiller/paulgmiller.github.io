@@ -4,8 +4,5 @@ title: About
 comments: false
 ---
 
-New Site
+I'm paul miller. This blog will be about code, sci fi, beer, hiking, family and whatever else I feel like. 
 
-##To Do
-
-Edit this Markdown to add an about page
