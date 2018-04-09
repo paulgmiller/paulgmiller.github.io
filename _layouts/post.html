@@ -9,6 +9,8 @@ layout: layout
 			{% for tag in page.tags %}
 				<li><a href="/tag/{{ tag }}">{{ tag }}</a></li>
 			{% endfor %}
+			<!-- https://github.com/jekyll/jekyll-help/issues/5 -->
+			<a href="{{site.github.repository_url}}/blob/master/{{page.path}}">Edit this page</a>
 		</span>
 		{{ content }}
 	</div>
