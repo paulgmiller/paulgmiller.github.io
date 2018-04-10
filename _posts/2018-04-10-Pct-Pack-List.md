@@ -7,7 +7,7 @@ comments: true
 ---
 This is from a section k(?) hike. Stevens to Stehikin.
 
-###Pack 
+### Pack 
 [Go lite 50L](http://www.golite.com/Jam-50L-Pack-Unisex-P46812.aspx)
 
 ### Sleep
