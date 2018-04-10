@@ -1,0 +1,7 @@
+Code commnts shoudl say why not what. If your code doesn't say what it's probably bad. 
+```
+ // GET /keepalive
+        [HttpGet]
+        [Route("keepalive")]
+        
+```
