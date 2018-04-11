@@ -12,9 +12,9 @@ This is from a section k(?) hike. Stevens to Stehikin.
 
 ### Sleep
 - Hennesy Hammock (2, 10) 
- -stakes
- -REI Flash Sleeping bag 32. 
- -Sleeping mat. here (bought, optional if warm.) 
+- stakes
+- REI Flash Sleeping bag 32. 
+- Sleeping mat. here (bought, optional if warm.) 
 ### Cooking 
 -  Stove compatible with brad. 
 -  esbit cubes
@@ -60,4 +60,12 @@ This is from a section k(?) hike. Stevens to Stehikin.
 -  Camera
 - Bag for food in tree away from bears. Sleeping bag sack? 
 ### Food
-    -Jerky. Nuts. M&Ms (good for betting too). Ramen Mac and Cheese. Salami. Hard Cheese. 
+- Jerky 
+- Nuts. (macadamia)
+- M&Ms
+- Ramen 
+- Mac and Cheese. 
+- Cuscous
+- Parmesan Cheese. 
+- Olive oil.
+- Cliff bars
