@@ -2,7 +2,7 @@
 layout: post
 title: "PCT Pack list"
 author: "Paul Miller"
-tasgs: [hiking]
+tags: [hiking]
 comments: true
 ---
 This is from a section k(?) hike. Stevens to Stehikin.
