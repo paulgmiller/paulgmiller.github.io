@@ -70,6 +70,10 @@ li
 { 
 	font-size:2em;
 }
+#side .section ul ul
+{ 
+	font-size:.5em;
+}
 #content 
 {
 	width:auto;
