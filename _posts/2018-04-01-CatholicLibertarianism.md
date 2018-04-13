@@ -2,6 +2,7 @@
 layout: post
 title: "Catholic Libertarianism"
 author: "Paul Miller"
+tags: ["family"]
 comments: true
 ---
 
