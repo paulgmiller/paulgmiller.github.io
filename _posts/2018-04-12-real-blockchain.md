@@ -3,6 +3,7 @@ layout: post
 title: "Real Blockchain"
 author: "Paul Miller"
 tags: [tech]
+permalink: realblockchain
 comments: true
 ---
 
@@ -18,7 +19,7 @@ So yeah 98% of blockchain / smart contract idea/startups might be scams. That ha
   Dns isn't that big but seems like a template for some other areas. 
 - [Identity](https://medium.com/uport/different-approaches-to-ethereum-identity-standards-a09488347c87)
   I think facebook/google are too ensconsed here but who knows maybe a [hail mary](https://cloudblogs.microsoft.com/enterprisemobility/2018/02/12/decentralized-digital-identities-and-blockchain-the-future-as-we-see-it/) works from time to time.
-  A global identity seperate from government/companies has some real advantages.
+  A global identity seperate from government/companies has some real advantages. 
 - Interbank settlement. This may not be on bitcoin or ethereum but it seems like it's a giant mess today.
   So it seems like the big banks will just move to some distributed ledger to end around the government. 
   Maybe some reneging on the block chain will be the next bear sterns. 
@@ -35,4 +36,8 @@ So yeah 98% of blockchain / smart contract idea/startups might be scams. That ha
   I was kind of amazed how few of these I knew. Maybe I need to catch up or maybe it's mostly BS. 
   The #1 token by market cap [EOS](https://eos.io/faq) seems to be makign a lot of computing claims but I haven't really read any articles about it.
   This cracked me up Q:"What does EOS stand for?" A: "We believe that EOS means different things to different people.". W00f
-  [Golem](https://golem.network/) and [Filecoin](https://filecoin.io/) seem more real but do peoeple really want to airbnb their machines?
+- [Golem](https://golem.network/) and [Filecoin](https://filecoin.io/) seem more real but do peoeple really want to airbnb their machines? 
+
+## follow up  4/2
+- [uport](http://developer.uport.me/) seems like almost a real product. That's neat.
+- [ipfs](https://ipfs.io/) which seems like the filesystem that will back filecoing seem [pretty cool](https://github.com/ipfs/awesome-ipfs) git plus bit torrent == neat. 
