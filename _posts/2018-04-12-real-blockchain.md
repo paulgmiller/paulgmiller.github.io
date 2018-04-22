@@ -38,6 +38,6 @@ So yeah 98% of blockchain / smart contract idea/startups might be scams. That ha
   This cracked me up Q:"What does EOS stand for?" A: "We believe that EOS means different things to different people.". W00f
 - [Golem](https://golem.network/) and [Filecoin](https://filecoin.io/) seem more real but do peoeple really want to airbnb their machines? 
 
-## follow up  4/2
+## follow up  4/21
 - [uport](http://developer.uport.me/) seems like almost a real product. That's neat.
 - [ipfs](https://ipfs.io/) which seems like the filesystem that will back filecoing seem [pretty cool](https://github.com/ipfs/awesome-ipfs) git plus bit torrent == neat. 
