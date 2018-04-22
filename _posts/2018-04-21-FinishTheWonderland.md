@@ -7,6 +7,8 @@ comments: true
 ---
 ![trail profile]({{ "/img/wonderland2ndhalf.JPG" | absolute_url }})
 
+Apparently [reservations](https://www.nps.gov/mora/planyourvisit/wilderness-permit.htm) are already full so we just have to do day of.
+
 ## Trip Plan 1. (32 miles) (completionist)
 - Day 1: Longmire to Maple crek
 - Day 2: Maple Creek to Indian Bar 
