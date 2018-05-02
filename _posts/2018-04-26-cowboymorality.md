@@ -26,6 +26,7 @@ Adding explanations and hyperlinks at a later time. Also by no means final.
 - Cash - long black veil , i hung my head
 - Martina McBride - Independence Day 
 - Hany williams jr. - O.d in denver. 
+- Kenny Rodgers - Coward of the County
 
 ## Family
 - Loretta Lynn -  Coal miners daugher
