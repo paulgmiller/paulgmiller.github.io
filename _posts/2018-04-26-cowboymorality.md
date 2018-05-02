@@ -12,12 +12,13 @@ Adding explanations and hyperlinks at a later time. Also by no means final.
 - Marty Robbins - el paso
 - gretchen wilson - when i think about cheating  on the other hand
 - George Jones -  he stopped loving her today
-- Willie  - red headed stranger,  wurlitzer , good hearted woman, always on my mind,
+- Willie  - red headed stranger,   good hearted woman, always on my mind
+- Waylon - wurlitzer prize
 - Dolly Parton - jolene
 - Whitey - cheaters always lose 
 - Cash -  i walk the line,  if i give my soul
 - Wynette - Stand by your man. 
-- Randy travis - on the other hand, deeper than the holler
+- Randy travis - on the other hand
 
 ## Responsibility
 - Aaron tippin - Got to stand for something
