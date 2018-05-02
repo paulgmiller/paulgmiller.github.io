@@ -23,12 +23,12 @@ Adding explanations and hyperlinks at a later time. Also by no means final.
 - Aaron tippin - Got to stand for something
 - George Jones - Choices
 - Cash - long black veil , i hung my head
-- Martina McBride - "Independence Day' 
+- Martina McBride - Independence Day 
 - Hany williams jr. - O.d in denver. 
 
 ## Family
 - Loretta Lynn -  Coal miners daugher
-- hank williams jr the conversation / the ride / a country boy can survive
+- hank williams jr - the conversation / the ride 
 - Cash - a boy namd sue, highway patrolman
 - Tanya Tucker - what's your mama's name
 - Sturgill - Hero
@@ -49,9 +49,11 @@ Adding explanations and hyperlinks at a later time. Also by no means final.
 - Reba - Fancy
 - Charlie daniels - long haired country boy
 - david allan coe - long haired redneck, if that aint country
-- Cash - Man in Black
+- Cash - Man in Black, one piece at a time, oney. 
 - Alabama  - 40 hours a week. 
 - Garth brooks - friends in low places. 
+- Hank Williamns jr - a country boy can survive, what this world needs is a few more rednecks
+- Sturgill - You can have the crown. 
 ### Prison 
 - cash - folsom/sanquentin hurt, the mercy seat, greystone chapel, the wall
 
@@ -66,7 +68,7 @@ Adding explanations and hyperlinks at a later time. Also by no means final.
 ## Texas women
 - George Strait - All my exes live in texas
 - Hank Williams Jr. - Texas women. 
-- Little Texas, "God Blessed Texas" 
+- Little Texas - God Blessed Texas
 
 
 At a later time I will do drinking country songs. 
