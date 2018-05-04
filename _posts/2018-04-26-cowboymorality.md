@@ -6,7 +6,7 @@ tags: [family]
 comments: true
 ---
 
-Adding explanations and hyperlinks at a later time. Also by no means final.
+[Spotify Playlist](https://open.spotify.com/user/126772449/playlist/6rhFwlWnRaBjOZEvohDhLZ?si=EyW4sZGdQx-oRxk-ROUftg) missing 5 songs that are hyperlinked/* below. 
 
 ## Rigorous Monogomy
 - Marty Robbins - el paso
@@ -50,26 +50,26 @@ Adding explanations and hyperlinks at a later time. Also by no means final.
 
 ## Low class 
 - Reba - Fancy
-- Charlie daniels - long haired country boy
-- david allan coe - [long haired redneck](https://www.youtube.com/watch?v=bplt6CQ3MyE), [if that aint country](https://www.youtube.com/watch?v=OhEHB0a7Uyg)
+- Charlie daniels - long haired country boy,  what this world needs is a few more rednecks
+- david allan coe - [long haired redneck*](https://www.youtube.com/watch?v=bplt6CQ3MyE), [if that aint country*](https://www.youtube.com/watch?v=OhEHB0a7Uyg)
 - Cash - Man in Black, one piece at a time, oney. 
 - Alabama  - 40 hours a week. 
-- Garth brooks - friends in low places. 
-- Hank Williamns jr - a country boy can survive, what this world needs is a few more rednecks
+- Garth brooks - [friends in low places*](https://www.youtube.com/watch?v=mvCgSqPZ4EM). 
+- Hank Williamns jr - a country boy can survive
 - Sturgill - You can have the crown. 
 ### Prison 
-- cash - folsom/sanquentin hurt, the mercy seat, greystone chapel, the wall
+- cash - folsom/sanquentin hurt, the wall
 
 
 ## Bull Riding
 - Cash - bull rider
-- garth brooks - rodeo
+- garth brooks - [rodeo*](https://www.youtube.com/watch?v=8tppP__t-zA)
 - Marty Robbins - Continental suit
-- George Strait - Amarillo by Morning, Cheyenne
-- Willie/Waylon - mamas don't let your babies grow up to be cowboys,  my heroes have always been cowbys, ladies love outlaws
+- George Strait - Amarillo by Morning, I can still make Cheyenne
+- Willie/Waylon - mamas don't let your babies grow up to be cowboys,  my heroes have always been cowboys, ladies love outlaws
 
 ## Texas women
-- George Strait - All my exes live in texas
+- George Strait - [All my exes live in texas*](https://www.youtube.com/watch?v=lMNw_-yUm_0)
 - Hank Williams Jr. - Texas women. 
 - Little Texas - God Blessed Texas
 
