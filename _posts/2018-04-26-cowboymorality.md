@@ -9,10 +9,11 @@ comments: true
 [Spotify Playlist](https://open.spotify.com/user/126772449/playlist/6rhFwlWnRaBjOZEvohDhLZ?si=EyW4sZGdQx-oRxk-ROUftg) missing 5 songs that are hyperlinked/* below. 
 
 ## Rigorous Monogomy
+These songs are about loving someone but most of them are about murder or sadness. Love isn't easy but it's worth it. 
 - Marty Robbins - el paso
 - gretchen wilson - when i think about cheating  on the other hand
 - George Jones -  he stopped loving her today
-- Willie  - red headed stranger,   good hearted woman, always on my mind
+- Willie  - red headed stranger,  good hearted woman, always on my mind
 - Waylon - wurlitzer prize
 - Dolly Parton - jolene
 - Whitey - cheaters always lose 
@@ -21,6 +22,7 @@ comments: true
 - Randy travis - on the other hand
 
 ## Responsibility
+Sometimes you do good things. Sometimes you do bad things. You have to live with that. 
 - Aaron tippin - Got to stand for something
 - George Jones - Choices
 - Cash - long black veil , i hung my head
@@ -29,6 +31,7 @@ comments: true
 - Kenny Rodgers - Coward of the County
 
 ## Family
+They will form you and haunt you. 
 - Loretta Lynn -  Coal miners daugher
 - hank williams jr - the conversation 
 - Cash - a boy namd sue, highway patrolman
@@ -39,9 +42,10 @@ comments: true
 - David Allan Coe - the ride
 
 ## Simplicity 
+The things that are important aren't complicated. 
 - Lynyrd Skynryd - Simple man 
 - david davis - house of gold 
-- Merle Haggard - Okie from MUskogee
+- Merle Haggard - Okie from Muskogee
 - Waylon - Luchenbach texas
 - zack brown - chicken friend
 - Billy currington - God is good and people are crazy
@@ -49,6 +53,7 @@ comments: true
 - Drive by Truckers - Outfit
 
 ## Low class 
+People have inheirent worth and there is dignity in work. 
 - Reba - Fancy
 - Charlie daniels - long haired country boy,  what this world needs is a few more rednecks
 - david allan coe - [long haired redneck**](https://www.youtube.com/watch?v=bplt6CQ3MyE), [if that aint country**](https://www.youtube.com/watch?v=OhEHB0a7Uyg)
@@ -60,8 +65,8 @@ comments: true
 ### Prison 
 - cash - folsom/sanquentin hurt, the wall
 
-
 ## Bull Riding
+Sometimes it's okay to be dumb. 
 - Cash - bull rider
 - garth brooks - [rodeo**](https://www.youtube.com/watch?v=8tppP__t-zA)
 - Marty Robbins - Continental suit
@@ -69,6 +74,7 @@ comments: true
 - Willie/Waylon - mamas don't let your babies grow up to be cowboys,  my heroes have always been cowboys, ladies love outlaws
 
 ## Texas women
+There isn't a really good reason for this to be here. 
 - George Strait - [All my exes live in texas*](https://www.youtube.com/watch?v=lMNw_-yUm_0)
 - Hank Williams Jr. - Texas women. 
 - Little Texas - God Blessed Texas
