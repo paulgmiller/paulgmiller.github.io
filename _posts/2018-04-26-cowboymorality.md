@@ -51,10 +51,10 @@ comments: true
 ## Low class 
 - Reba - Fancy
 - Charlie daniels - long haired country boy,  what this world needs is a few more rednecks
-- david allan coe - [long haired redneck*](https://www.youtube.com/watch?v=bplt6CQ3MyE), [if that aint country*](https://www.youtube.com/watch?v=OhEHB0a7Uyg)
+- david allan coe - [long haired redneck**](https://www.youtube.com/watch?v=bplt6CQ3MyE), [if that aint country**](https://www.youtube.com/watch?v=OhEHB0a7Uyg)
 - Cash - Man in Black, one piece at a time, oney. 
 - Alabama  - 40 hours a week. 
-- Garth brooks - [friends in low places*](https://www.youtube.com/watch?v=mvCgSqPZ4EM). 
+- Garth brooks - [friends in low places**](https://www.youtube.com/watch?v=mvCgSqPZ4EM). 
 - Hank Williamns jr - a country boy can survive
 - Sturgill - You can have the crown. 
 ### Prison 
@@ -63,7 +63,7 @@ comments: true
 
 ## Bull Riding
 - Cash - bull rider
-- garth brooks - [rodeo*](https://www.youtube.com/watch?v=8tppP__t-zA)
+- garth brooks - [rodeo**](https://www.youtube.com/watch?v=8tppP__t-zA)
 - Marty Robbins - Continental suit
 - George Strait - Amarillo by Morning, I can still make Cheyenne
 - Willie/Waylon - mamas don't let your babies grow up to be cowboys,  my heroes have always been cowboys, ladies love outlaws
