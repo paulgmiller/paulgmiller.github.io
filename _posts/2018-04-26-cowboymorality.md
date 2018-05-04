@@ -20,6 +20,7 @@ These songs are about loving someone but most of them are about murder or sadnes
 - Cash -  i walk the line,  if i give my soul
 - Wynette - Stand by your man. 
 - Randy travis - on the other hand
+- Jack Green - there goes my everything 
 
 ## Responsibility
 Sometimes you do good things. Sometimes you do bad things. You have to live with that. 
