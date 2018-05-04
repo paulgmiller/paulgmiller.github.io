@@ -30,12 +30,13 @@ Adding explanations and hyperlinks at a later time. Also by no means final.
 
 ## Family
 - Loretta Lynn -  Coal miners daugher
-- hank williams jr - the conversation / the ride 
+- hank williams jr - the conversation 
 - Cash - a boy namd sue, highway patrolman
 - Tanya Tucker - what's your mama's name
 - Sturgill - Hero
 - Craig morgan - this ain't nothing.
 - Drive by Truckers - Decoration day
+- David Allan Coe - the ride
 
 ## Simplicity 
 - Lynyrd Skynryd - Simple man 
@@ -50,7 +51,7 @@ Adding explanations and hyperlinks at a later time. Also by no means final.
 ## Low class 
 - Reba - Fancy
 - Charlie daniels - long haired country boy
-- david allan coe - long haired redneck, if that aint country
+- david allan coe - [long haired redneck](https://www.youtube.com/watch?v=bplt6CQ3MyE), [if that aint country](https://www.youtube.com/watch?v=OhEHB0a7Uyg)
 - Cash - Man in Black, one piece at a time, oney. 
 - Alabama  - 40 hours a week. 
 - Garth brooks - friends in low places. 
