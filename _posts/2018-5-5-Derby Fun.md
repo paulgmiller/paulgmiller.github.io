@@ -42,13 +42,16 @@ odds taken from [here](12:38https://www.kentuckyderby.com/horses)
 * House bet $16.70
 ## Instilled Regard 99-1 
 * House bet $1
+* Brad $2
 ## Magnum Moon 13-1 
 * House bet $16.70
 ## Solomini 67-1 
 * House bet $7.70
 ## Vino Rosso 15-1 
 * House bet $6.60
+* brad $20
 ## Noble Indy 58-1 
 * House bet $1.70
 ## Combatant 77-1
 * House bet $1.30 
+* Brad $3
