@@ -23,13 +23,14 @@ odds taken from [here](12:38https://www.kentuckyderby.com/horses)
 ## Good Magic 9-1 
 * House bet $11.10
 * Rob $14
+* Rangan $1 
 ## Justify 3-1 
 * House bet $33.30
 * Rob $8
 * Kristen $5
-* Rangan $2 
 ## Lone Sailor 24-1 
 * House bet $4.10
+* Rangan $1 
 ## Hofburg 25-1 
 * House bet $4.00
 * Tim $10
