@@ -33,10 +33,12 @@ odds taken from [here](12:38https://www.kentuckyderby.com/horses)
 ## Hofburg 25-1 
 * House bet $4.00
 * Tim $10
+* Paul $2
 ## My Boy Jack 5-1 
 * House bet $20.00
 * Rob $8
 * Kristen $5
+* Wintana $5
 ## Bolt d'Oro 8-1 
 * House bet $12.50
 * Emily $10
