@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Derby Fun"
+title: "Norse fun"
 author: "Paul Miller"
 tags: ["reading"]
 comments: false
