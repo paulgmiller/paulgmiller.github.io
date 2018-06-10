@@ -10,12 +10,12 @@ tags: [ beer ]
 -  Cara-Pils/Dextrine, 2 ozs
 -  Roasted Barley, 1 ozs
 ## Hops
--  Centennial, 0.5 ozs
--  Centennial, 0.5 ozs
--  Nugget, 1.0 ozs
--  Tettnanger, 1.5 ozs
--  Tettnanger, 0.5 ozs
--  Goldings, 1.0 ozs
+-  Centennial, 0.5 ozs oz, 10080 min
+-  Centennial, 0.5 ozs oz, 60 min
+-  Nugget, 1.0 ozs oz, 60 min
+-  Tettnanger, 1.5 ozs oz, 30 min
+-  Tettnanger, 0.5 ozs oz, 10 min
+-  Goldings, 1.0 ozs oz, 1 min
 ## Yeast
 -  American Ale, Liquid
 ## Notes

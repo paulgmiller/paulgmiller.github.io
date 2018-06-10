@@ -12,12 +12,12 @@ tags: [ beer ]
 -  Crystal 60L, 4 ozs
 -  Roasted Barley, 2 ozs
 ## Hops
--  Cascade, 1.0 ozs
--  Chinook, 1.0 ozs
--  Magnum, 1.0 ozs
--  Saaz, 1.0 ozs
--  Willamette, 1.0 ozs
--  Amarillo, 1.0 ozs
+-  Cascade, 1.0 ozs oz, 10080 min
+-  Chinook, 1.0 ozs oz, 60 min
+-  Magnum, 1.0 ozs oz, 60 min
+-  Saaz, 1.0 ozs oz, 30 min
+-  Willamette, 1.0 ozs oz, 30 min
+-  Amarillo, 1.0 ozs oz, 1 min
 ## Yeast
 -  Wyeast American Ale (1056), Liquid
 ## Notes

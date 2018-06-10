@@ -11,7 +11,7 @@ tags: [ beer ]
 -  Munich Malt, 8 ozs
 -  Chocolate Malt, 2 ozs
 ## Hops
--  Mt. Rainier, 1.0 ozs
+-  Mt. Rainier, 1.0 ozs oz, 60 min
 ## Yeast
 -  Bavarian Wheat Yeast, Liquid
 ## Notes

@@ -11,9 +11,9 @@ tags: [ beer ]
 -  Roasted Barley, 8 ozs
 -  Chocolate Malt (US), 1 ozs
 ## Hops
--  Chinook, 0.5 ozs
--  Centennial, 0.25 ozs
--  Chinook, 0.5 ozs
+-  Chinook, 0.5 ozs oz, 60 min
+-  Centennial, 0.25 ozs oz, 30 min
+-  Chinook, 0.5 ozs oz, 30 min
 ## Yeast
 -  White Labs English Ale (WLP002), Liquid
 ## Notes

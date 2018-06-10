@@ -13,10 +13,10 @@ tags: [ beer ]
 -  Flaked Wheat, 4 ozs
 -  Flaked Rye, 4 ozs
 ## Hops
--  Columbus, 0.5 ozs
--  Columbus, 0.5 ozs
--  Centennial, 0.25 ozs
--  Centennial, 0.25 ozs
+-  Columbus, 0.5 ozs oz, 60 min
+-  Columbus, 0.5 ozs oz, 30 min
+-  Centennial, 0.25 ozs oz, 15 min
+-  Centennial, 0.25 ozs oz, 5 min
 ## Yeast
 -  Wyeast Dennys Favorite 50, Liquid
 ## Notes

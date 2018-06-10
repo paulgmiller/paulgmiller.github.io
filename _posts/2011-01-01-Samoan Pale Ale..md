@@ -11,10 +11,10 @@ tags: [ beer ]
 -  Vienna Malt, 4 ozs
 -  Munich Malt - 20L, 4 ozs
 ## Hops
--  Magnum, 1.0 ozs
--  Centennial, 0.5 ozs
--  Cascade, 1.0 ozs
--  Centennial, 0.5 ozs
+-  Magnum, 1.0 ozs oz, 60 min
+-  Centennial, 0.5 ozs oz, 30 min
+-  Cascade, 1.0 ozs oz, 10 min
+-  Centennial, 0.5 ozs oz, 1 min
 ## Yeast
 -  American Ale, Liquid
 ## Notes

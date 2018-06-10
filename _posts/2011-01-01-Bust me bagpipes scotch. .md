@@ -12,8 +12,8 @@ tags: [ beer ]
 -  Munich Malt - 10L, 8 ozs
 -  Peated Malt, 4 ozs
 ## Hops
--  Centennial, 1.0 ozs
--  Willamette, 0.5 ozs
+-  Centennial, 1.0 ozs oz, 60 min
+-  Willamette, 0.5 ozs oz, 15 min
 ## Yeast
 -  White Labs Pacific Ale (WLP041), Liquid
 ## Notes

@@ -11,8 +11,8 @@ tags: [ beer ]
 -  Roasted Barley, 4 ozs
 -  Peated Malt, 1 ozs
 ## Hops
--  Fuggles, 1.5 ozs
--  Fuggles, 0.5 ozs
+-  Fuggles, 1.5 ozs oz, 60 min
+-  Fuggles, 0.5 ozs oz, 30 min
 ## Yeast
 -  Northwest Ale, Liquid
 ## Notes
