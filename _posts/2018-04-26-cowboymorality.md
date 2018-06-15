@@ -51,7 +51,8 @@ The things that are important aren't complicated.
 - zack brown - chicken friend
 - Billy currington - God is good and people are crazy
 - Alabama - high cotton, song of the south
-- Drive by Truckers - Outfit
+- Drive by Truckers - Outfits
+- coat of many colors
 
 ## Low class 
 People have inheirent worth and there is dignity in work. 
