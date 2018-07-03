@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: No hard feeling Esb
+title: No Hard Feelings ESB
 tags: [ beer ]
 ---
 ## Malt
@@ -11,7 +11,8 @@ tags: [ beer ]
 -  Cascade 4 aau, 60 
 -  Chinook 8 aau at 0
 ## Yeast
--  British ale yeast ( wyeast 1989)
+-  [British ale yeast/ wyeast 1098](https://www.morebeer.com/products/wyeast-1098-british-ale.html
+)
 ## Water
 3 gallons at 152 sparge with 3.7g gallons
 ## Notes
