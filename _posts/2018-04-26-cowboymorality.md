@@ -52,13 +52,14 @@ The things that are important aren't complicated.
 - Billy currington - God is good and people are crazy
 - Alabama - high cotton, song of the south
 - Drive by Truckers - Outfits
-- coat of many colors
+- coat of many colors - dolly parton
+- we're not the jet set - George and Tammy
 
 ## Low class 
 People have inheirent worth and there is dignity in work. 
 - Reba - Fancy
 - Charlie daniels - long haired country boy,  what this world needs is a few more rednecks
-- david allan coe - [long haired redneck**](https://www.youtube.com/watch?v=bplt6CQ3MyE), [if that aint country**](https://www.youtube.com/watch?v=OhEHB0a7Uyg)
+- david allan coe - [long haired redneck](https://www.youtube.com/watch?v=bplt6CQ3MyE), [if that aint country**](https://www.youtube.com/watch?v=OhEHB0a7Uyg)
 - Cash - Man in Black, one piece at a time, oney. 
 - Alabama  - 40 hours a week. 
 - Garth brooks - [friends in low places**](https://www.youtube.com/watch?v=mvCgSqPZ4EM). 
