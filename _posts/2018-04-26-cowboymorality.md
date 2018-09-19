@@ -11,7 +11,7 @@ comments: true
 ## Rigorous Monogomy
 These songs are about loving someone but most of them are about murder or sadness. Love isn't easy but it's worth it. 
 - Marty Robbins - el paso
-- gretchen wilson - when i think about cheating  on the other hand
+- gretchen wilson - when i think about cheating 
 - George Jones -  he stopped loving her today
 - Willie  - red headed stranger,  good hearted woman, always on my mind
 - Waylon - wurlitzer prize
