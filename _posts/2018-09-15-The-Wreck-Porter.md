@@ -14,7 +14,7 @@ tags: [ beer ]
 -  Cascade 4 aau @ 60 min
 -  Cascade (whole cone) @ 90
 ## Yeast
--  LOngon ale  - Wyeast 1968 
+-  London ale  - Wyeast 1968 
 ## Water
 3.5 gallon mash at 152F for 90 min. 4 gallons sparge @ 168
 ## Notes
