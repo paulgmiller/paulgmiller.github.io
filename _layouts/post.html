@@ -13,6 +13,12 @@ layout: layout
 			<a href="{{site.github.repository_url}}/edit/master/{{page.path}}">Edit this page</a>
 		</span>
 		{{ content }}
+		{% for image in page.images %}
+			<li><a href="{{ image.src }}">
+			{{ image.caption }}<br/>
+			<img alt="{{ image.alttext }}" src="https://images.weserv.nl/?w=650&url={{ image.src }}"> 
+			</a></li>
+   		{% endfor %}
 	</div>
 </div>
 <div id="page-navigation"> 
