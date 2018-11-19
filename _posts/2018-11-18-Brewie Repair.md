@@ -19,6 +19,7 @@ Sure enough fuse was blown here's a blown one next to the other ones.
 Booted right back up but shortly after smelled a burning smell. Boil heater seemed on. Restarting and running a stanizing cleaning cycle didn't help. But again customer support was helpful (takes 24 hours they are in hungary). Said likely they SSR (solid state relay) was at fault. These are basically the high voltage electronic switches for the heaters. They shipped a new one but also when I asked linked to [where I could get one on amazon](https://www.amazon.com/Omron-G3NA-220B-DC5-24-Indicator-Phototriac-Isolation/dp/B003B2Z0N6/ref=sr_1_fkmr0_1?ie=UTF8&amp;qid=1542305128&amp;sr=8-1-fkmr0&amp;keywords=20+amp+omron+ssr). That's great because I like fixing things myself. I even found [another version](https://www.amazon.com/gp/product/B074FT4VXB/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) that was 10 dollars instead of 60 (buyer beware.)
 
 You can see the relay in the brewie on the lower right here:
+
 ![relay](https://images.weserv.nl/?w=650&url=https://o9lleg.dm.files.1drv.com/y4mRTSNZLRYP-82IKXuUj8CbQZL9Fo3LXbm0JNg2mhYqs3kC2rZiBMaWsIrM2bWlXYTacUVuPT9UwbMw37Ps7N-3KKIVIrKUlv6qZltLbm-z7wLyQEu3lvp7JIGLCJib_uRoO4Jk-D2s1F1v1gbwAOjJl_g3ljkPOuyHpYDlTiA1gD_f7jdp63wV62cG-VKlB10S3USuBsp_Wxn2vu4SmhVAw?width=4032&height=3024&cropmode=none)
 
 Still waiting on relays to show up. Will update after that. 
