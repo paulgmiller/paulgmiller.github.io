@@ -66,8 +66,9 @@ images:
 Been very happy with whay you can do with a cell phone camera and [Microsoft ICE](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/)
 
  {% for image in page.images %}
-      [{{ image.caption }}]({{ image.src }})
-
-      ![{{ image.alttext }}](https://images.weserv.nl/?w=650&url={{ image.src }})
+      <li><a href="{{ image.url }}">
+      {{ image.caption }}<br/>
+      <img alt="{{ image.alttext }}" src="https://images.weserv.nl/?w=650&url={{ image.url }}"> 
+      </a></li>
  {% endfor %}
   
