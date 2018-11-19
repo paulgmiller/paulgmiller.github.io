@@ -19,4 +19,4 @@ tags: [ beer ]
 3.5 gallon mash at 152F for 90 min. 4 gallons sparge @ 168
 ## Notes
 Edmund fitzgeral porter from great lakes brewing clone
-![pretty beer](https://9thvuw.dm.files.1drv.com/y4pJDyBCr3uwllCjBV0zvMxKRLjgoiCjNj9DcUVjAufImjnuIdvvNbOqarAGxxYfXpXkKDdZKrsyUXi7cdEa4a-3Ag4QxWcQWSWxKaxwo7nwwPGXlnVpeSi7dV-rOWVDlmmtxrlsMoPSf1WQXxabRjXIjrmsQQRPTl716KHPqrzaIXkCzwINMHEkb1i-Lw9xsuwtvfPbkuxCKDmqjTT9X9S7w/IMG_20181021_194652.jpg?psid=1)
+![pretty beer](https://images.weserv.nl/?w=900&url=https://9thvuw.dm.files.1drv.com/y4pJDyBCr3uwllCjBV0zvMxKRLjgoiCjNj9DcUVjAufImjnuIdvvNbOqarAGxxYfXpXkKDdZKrsyUXi7cdEa4a-3Ag4QxWcQWSWxKaxwo7nwwPGXlnVpeSi7dV-rOWVDlmmtxrlsMoPSf1WQXxabRjXIjrmsQQRPTl716KHPqrzaIXkCzwINMHEkb1i-Lw9xsuwtvfPbkuxCKDmqjTT9X9S7w/IMG_20181021_194652.jpg?psid=1)
