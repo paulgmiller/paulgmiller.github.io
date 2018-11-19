@@ -4,7 +4,7 @@ title: Brewie Repair
 tags: [ beer ]
 ---
 
-So follow up on the [Brewie Review]({{ site.baseurl }}{{% link _posts/2018-6-2-Brewie.md %}}). Was having a blast. Just orded a double recipe from [morebeer](https://morebeer.com). But while my sculpin clone was mashing, the whole brewie died. Changing outlets didn't help but unlike during ordering customer support was pretty helpful. Their first guess was a fuse so I grabbed a 15 amp ceramic microwave fuse (should be good for higher temps) at home depot and cracked open the case. (about 12 short screws and 4 feet have to be removed, not too bad)
+So follow up on the [Brewie Review]({{ site.baseurl }}{{% post_url 2018-6-2-Brewie %}}). Was having a blast. Just orded a double recipe from [morebeer](https://morebeer.com). But while my sculpin clone was mashing, the whole brewie died. Changing outlets didn't help but unlike during ordering customer support was pretty helpful. Their first guess was a fuse so I grabbed a 15 amp ceramic microwave fuse (should be good for higher temps) at home depot and cracked open the case. (about 12 short screws and 4 feet have to be removed, not too bad)
 ![brewie under the hood](https://pk70ha.dm.files.1drv.com/y4mDUSCLRR9-Wj1mi539ASJ8bDkeaPM9WUKqANL_IF7-bA3vO65d4IfEU7xVd7ZJVNOJSD0zhjKC8k6NTrgIa1T2a5hdMDTlCfA36XnlCNBqU4id9tUMed2OpQqfFj7xNnsK7t58__bvfVopwNEWAkp2C9blC672we7hyUMCP5N6eLoCzOYnB6UJ8KtDGvsn9O59OywtfkRVsr6ST69iHYiOA?width=4032&height=3024&cropmode=none)
 Some thoughts:
 * Circuit board is fairly accesible.
