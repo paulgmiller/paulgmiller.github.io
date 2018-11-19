@@ -54,5 +54,5 @@ Been very happy with whay you can do with a cell phone camera and [Microsoft ICE
 - Panhandle Gap and Summerland
 
   ![wanted to keep going](https://images.weserv.nl/?w=650&url=https://s42osg.dm.files.1drv.com/y4mS-K0RlhC1YDXIhi7x9igyrx7II5sixNKZCg9-pTMtNBQkL52nFDy49XQ80c0ze9IgbA8jVugJt5VU2bNWeRv20I-kndsF2AMIIj2IMRtNsUgwO52h2EmA44lvVgS271TvoV5i3O4MY2UC9TQ0-SZjjV8Vz_zukleEVqDVZlC-WJSDDQfeYDhnPJUlAjzUB8LOdOkw0iox5qg-eAtI1MdSQ)
-  ![summerland](https://images.weserv.nl/?w=650&url=https://s42osg.dm.files.1drv.com/y4mS-K0RlhC1YDXIhi7x9igyrx7II5sixNKZCg9-pTMtNBQkL52nFDy49XQ80c0ze9IgbA8jVugJt5VU2bNWeRv20I-kndsF2AMIIj2IMRtNsUgwO52h2EmA44lvVgS271TvoV5i3O4MY2UC9TQ0-SZjjV8Vz_zukleEVqDVZlC-WJSDDQfeYDhnPJUlAjzUB8LOdOkw0iox5qg-eAtI1MdSQ)
+  ![summerland](https://images.weserv.nl/?w=650&url=https://rezjhq.dm.files.1drv.com/y4m66t5BTJ-RoUrptQek-YqPSwimaAgY0ckVpCSHCZ6zEHemrsqddf2veJZkG-SGy-oVjaFI8Y8iasKaz0Wx8vZElWT-BVofYs9_SpcVKU1q2QCsDLQj6ozr_CCokcRCeADJ88nQja58IedDbMXzEIsGw2eR8D_dNGqWnGmPPpyL3FmOFK5cAyPsfdjcAOhggqeHiBOZ-zF-jeOrXwE37U4hg)
   
