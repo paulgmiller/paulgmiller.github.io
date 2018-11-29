@@ -28,7 +28,7 @@ You can see the relay in the brewie on the lower right here:
 
 Relays showed up and did fix the problem (amazon one also installed fine but holding for future). Removing and reinstalling the relay to the mount was pain since the electroics box is super small.
 Also customer serive told me the wrong one to replace so deduced it with a multimeter. Really want to draw up a circuit diagram and replace this with a rasberry pi and external relays, pumps and tubing.
-[This looks](https://www.raspberrypi.org/blog/homebrew-beer-brewing-pi/) [pretty](https://opensource.com/article/17/7/brewing-beer-python-and-raspberry-pi) [intersting](web.craftbeerpi.com/) 
+[This looks](https://www.raspberrypi.org/blog/homebrew-beer-brewing-pi/) [pretty](https://opensource.com/article/17/7/brewing-beer-python-and-raspberry-pi) [intersting](https://web.craftbeerpi.com/) 
 
 Either way trying to brew soon.
 
