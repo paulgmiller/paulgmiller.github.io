@@ -2,6 +2,7 @@
 layout: post
 title: Brewie Repair
 tags: [ beer ]
+
 ---
 
 So follow up on the [Brewie Review]({{ site.baseurl }}{% post_url 2018-6-2-Brewie %}). Was having a blast. Just orded a double recipe from [morebeer](https://morebeer.com). But while my sculpin clone was mashing, the whole brewie died. Changing outlets didn't help but unlike during ordering customer support was pretty helpful. Their first guess was a fuse so I grabbed a 15 amp ceramic microwave fuse (should be good for higher temps) at home depot and cracked open the case. (about 12 short screws and 4 feet have to be removed, not too bad)
@@ -24,7 +25,12 @@ You can see the relay in the brewie on the lower right here:
 
 ![relay](https://images.weserv.nl/?w=650&url=https://o9lleg.dm.files.1drv.com/y4mRTSNZLRYP-82IKXuUj8CbQZL9Fo3LXbm0JNg2mhYqs3kC2rZiBMaWsIrM2bWlXYTacUVuPT9UwbMw37Ps7N-3KKIVIrKUlv6qZltLbm-z7wLyQEu3lvp7JIGLCJib_uRoO4Jk-D2s1F1v1gbwAOjJl_g3ljkPOuyHpYDlTiA1gD_f7jdp63wV62cG-VKlB10S3USuBsp_Wxn2vu4SmhVAw?width=4032&height=3024&cropmode=none)
 
-Still waiting on relays to show up. Will update after that. 
+
+Relays showed up and did fix the problem (amazon one also installed fine but holding for future). Removing and reinstalling the relay to the mount was pain since the electroics box is super small.
+Also customer serive told me the wrong one to replace so deduced it with a multimeter. Really want to draw up a circuit diagram and replace this with a rasberry pi and external relays, pumps and tubing.
+[This looks](https://www.raspberrypi.org/blog/homebrew-beer-brewing-pi/) [pretty](https://opensource.com/article/17/7/brewing-beer-python-and-raspberry-pi) [intersting](web.craftbeerpi.com/) 
+
+Either way trying to brew soon.
 
 
 
