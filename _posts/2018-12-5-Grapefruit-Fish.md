@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Ur Marzen
+title: Grapefruit Fish
 tags: [ beer ]
 ---
 ## Malt
@@ -26,3 +26,4 @@ tags: [ beer ]
 3.5 gallon mash at 149F for 60 min. 4 gallons sparge @ 168
 ## Notes
 Grapefruit extract added after fermentation?
+Really stressing what hop cages in brewie can actually handle. 
