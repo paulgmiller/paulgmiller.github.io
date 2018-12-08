@@ -5,7 +5,7 @@ tags: [ beer ]
 
 ---
 
-![mspaint rox](https://images.weserv.nl/?w=500&url={{ "/img/brewingsetup.png" | absolute_url }})
+![mspaint rox]({{ "/img/brewingsetup.png" | absolute_url }})
 
 ## What
 Electric single infusion mash brewery driven by rasberry pi. No touch from start to yeast pitch. 
