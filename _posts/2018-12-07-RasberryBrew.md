@@ -39,5 +39,4 @@ https://www.instructables.com/id/Electric-Brewery-Control-Panel-on-the-Cheap/
 https://opensource.com/article/17/7/brewing-beer-python-and-raspberry-pi
 http://web.craftbeerpi.com/
 
-
-
+http://vjval1974.blogspot.com/?m=1
