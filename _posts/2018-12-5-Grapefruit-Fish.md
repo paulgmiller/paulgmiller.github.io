@@ -21,7 +21,7 @@ tags: [ beer ]
 ## additions
 - Clarrifier  @ 5 min
 ## Yeast
-- White labs WLP 051
+- White labs WLP 051. Dead. Repitched safale 02. 
 ## Water
 3.5 gallon mash at 149F for 60 min. 4 gallons sparge @ 168
 ## Notes
