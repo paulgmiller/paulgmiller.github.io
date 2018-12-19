@@ -5,7 +5,7 @@ tags: [ beer ]
 ---
 Right now I filter my water (also sadly my cooling water which is pretty wasteful). But I don't try and control salts. Leaving some more info here for later. 
 
-![2017 water quality](https://images.weserv.nl/?w=900&url={{ "/img/bellevuewater.jpg" | absolute_url }})
+![2017 water quality](https://images.weserv.nl/?w=900&url={{ "/img/bellevue_water.jpg" | absolute_url }})
 Stole this from https://www.brewersfriend.com/homebrew/water-profiles
 
 ## Resources
