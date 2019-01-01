@@ -2,7 +2,7 @@
 layout: post
 title: Lip reading        
 author: "Paul Miller"
-tags: ["tech "]
+tags: ["tech"]
 comments: true  
 ---
 
