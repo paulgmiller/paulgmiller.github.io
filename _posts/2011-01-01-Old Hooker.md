@@ -17,4 +17,4 @@ tags: [ beer ]
 ## Yeast
 -  Wyeast American Ale (1056), Liquid
 ## Notes
-
+I assume this was a 2.5 gallon batch? Was bottled. Had on 12/29/30 and still pretty good. 
