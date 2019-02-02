@@ -1,53 +1,14 @@
 ---
 layout: post
-title: Things we should tax. 
+title: Brunch is the worst
 tags: [ family ]
 ---
 
-## Should be taxed
-Things that don't really contribute to society but seem to make alot of money.
+## Caveat
+I know people that love brunch. They're great people and I still love them despite their wrongness. 
 
-### Alcohol 
-By percentage of alchohol. Session beers should be cheap. Vodka expensive.
+## Ugh Brunch. 
 
-### Video games, Movies, TV and Music?
-Progressively taxed once a certain number of people see them? Ballet gets a pass but mission impossible XL and Boy Bands gets hefty tax?
-Maybe we should even tax video games by avg hours played. 
-
-### Real estate.
-sq land / people inhabiting. Obviously different in different locales. 
-But zuckerberg and tech titans should pay out the wazoo for big places in the valley. 
-Second houses obviously again excepting areas that want people. 
-Empty land even higher tax. 
-
-### gas
-Still a pretty good proxy for miles driven and carbon pollution.
-Carbon should be taxed in a revenue neuteral way.
-
-### Noise
-Nobody likes that you cut off your muffler. 
-
-### Legal complexity.
-Contracts/Patents shoudl be taxed by complexity. 
-
-### Luxury
-Cars, Clothes, Materials, IPhones.
-Burn Gucci and Apple. 
-Could be a general progressive consuption tax.
-
-### Maybe sugar? 
-Are we certain this isn't a fad too? 
-
-### Policital donations, advertising and Lobbying. 
-I mean this crap is going to happen least we should get a cut. 
-
-## Shouldn't be taxed.
-###  Income & capital gains.
-###  Maybe non signaling learning 
-
-
-## Tax exmempt and maybe shouldn't be.
-###  Chuches real estate in downtown without a certin parishioner level.
-
-
-
+- 10 am destroys doing anything else in the morning. God forbid you have to get dressed 
+- Day drinking. 
+- Rate of food consumption. I eat fast. I am  

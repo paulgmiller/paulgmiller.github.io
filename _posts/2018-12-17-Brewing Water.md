@@ -9,7 +9,7 @@ Right now I filter my water (also sadly my cooling water which is pretty wastefu
 
 Stole this from https://www.brewersfriend.com/homebrew/water-profiles
 
-![brewie us water amount chart](https://images.weserv.nl/?w=900&url=https://brewie.org/uploads/media/2017/06/brewing_water_usa_2_1.jpeg)
+![brewie us water amount chart](https://images.weserv.nl/?w=900&url={{ "/img/brewiewater.jpg" | absolute_url }})
 
 ## Resources
 - [Actual water report](https://utilities.bellevuewa.gov/UserFiles/Servers/Server_4779004/File/Utilities/Reports/Water%20Quality%20Report/2018/2018%20Bellevue%20Water%20Quality%20Report%20-%20English.pdf). Doesn't have salts.
