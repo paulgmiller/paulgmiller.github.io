@@ -1,8 +1,12 @@
+---
 layout: post
-title: wintana wine
+title: Wintana Wine
 tags: [ beer ]
 ---
 
-* Dunham trutina
-* airfield lightning 
-* [chocolate](https://www.chocolatechocolate.com/category/Craft-Chocolate-Bars) 
+## Reds
+- Dunham trutina
+## Whites
+- Airfield lightning 
+## Chocolate
+- [chocolate choclate sea salt caramel](https://www.chocolatechocolate.com/category/Craft-Chocolate-Bars) 
