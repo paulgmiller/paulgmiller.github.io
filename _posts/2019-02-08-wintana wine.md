@@ -6,6 +6,8 @@ tags: [ beer ]
 
 ## Reds
 - Dunham trutina
+- Dunham Syrah
+
 ## Whites
 - Airfield lightning 
 ## Chocolate
