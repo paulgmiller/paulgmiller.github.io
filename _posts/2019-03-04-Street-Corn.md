@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Injera (Tibsi)
+title: Street Corn
 author: "Paul Miller"
 tags: ["recipes"]
 comments: true
