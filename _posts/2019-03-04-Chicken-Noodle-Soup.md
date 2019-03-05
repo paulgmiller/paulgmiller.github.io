@@ -8,7 +8,7 @@ comments: true
 
 From my mother:
 
-###You will need 
+### You will need 
 * carrots 
 * Celery,  
 * egg noodles (medium width),
@@ -16,7 +16,7 @@ From my mother:
 * chicken breast 
 * either chicken soup base or chicken bouillon.  You can also use canned chicken stock.  
 
-###Directions
+### Directions
 * Peal and chop up the 1 carrot and  1 stalk of celery. 
 * Rinse chicken breast and trim off any fat.  
 * Put about 3-4 cups of water in medium saucepan.  
