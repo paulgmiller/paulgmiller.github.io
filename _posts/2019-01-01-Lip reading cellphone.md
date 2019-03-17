@@ -21,8 +21,9 @@ Here are some resources:
 - https://developer.android.com/guide/topics/media/camera
 - https://developer.android.com/reference/android/inputmethodservice/Keyboard
 
-### Could try and do subvocalization.
+### Could try and do subvocalization or more crazy brain stuff
 - https://dam-prod.media.mit.edu/x/2018/03/23/p43-kapur_BRjFwE6.pdf
+- https://resnet.microsoft.com/video/42992
 
 
 
