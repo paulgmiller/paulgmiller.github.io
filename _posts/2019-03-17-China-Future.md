@@ -21,3 +21,14 @@ Still open to giving some one 2:1 odds that China  will not surpass US GDP. Let 
 * Sci fi! Cixin Liu in particular. I was impressed by [Three Body Problem](https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032/ref=sr_1_3?keywords=three+body+problem&qid=1552883733&s=gateway&sr=8-3) but the short story anthology [wandering earth](https://www.amazon.com/Wandering-Earth-Classic-Science-Collection-ebook/dp/B00CXUKNA2/ref=sr_1_2?keywords=wandering+earth&qid=1552883953&s=gateway&sr=8-2). There is just so much optimism and confident in china's ability to change the world. It is very remeniscent of 50/60's scifi. In particular china sun is an everyman conquering the solar system that felt very american.
 * Can do attitude. Some of the infrastructure china is [amazing](http://www.highestbridges.com/wiki/images/7/78/64Aizhai2013Wide.jpg). Part of this is disregard for individuals that goes hand in hand with a low red tape infra.
 * U.S. Trade policy is dumb and lets china get cement a lop of econimic allies (TPP failure for example)
+
+## Numbers.
+[Current GDP figures](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal))
+
+China 13 trillion at 6%
+13.4 *1.06^10=23.99
+
+US 24 trillion at 2%
+20.4 *1.02^10=24.86
+
+So I am betting china will average < 6% or the us will average > 2% (mostly the former)
