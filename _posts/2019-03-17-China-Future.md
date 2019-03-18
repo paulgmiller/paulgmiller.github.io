@@ -10,8 +10,8 @@ My boss' boss who I like and respect bandied about a popular claim that China wo
 Still open to giving some one 2:1 odds that China  will not surpass US GDP. Let me lay out an argument. 
 
 ## Reasons for china pesimism. 
-* Population: a huge part of gdp is actually raw population. While the US has obviously not in a baby boom it at least allows some immigration offset. China's seems to be trying to rollback the the one child policy but is not having much success. Sometime in the 2030-40's chinas population should invert with more old to support than young to support them. 
-* Catch up growth / historical precedent: Remember the 80's Japan was going blow right past us? Go watch some 80's movies/sci fi. Zaibatsu were unstoppable.  Turned out Japan was doing alot of catch up growth
+* Population: a huge part of gdp is actually raw population. While the US has obviously not in a baby boom it at least allows some immigration offset. China's seems to be trying to rollback the the one child policy but is [not having much success](https://en.wikipedia.org/wiki/One-child_policy#Relaxation). Sometime in the 2030-40's chinas population should invert with more old to support than young to support them. 
+* Catch up growth / historical precedent: Remember the 80's Japan was going blow right past us? Go watch some 80's movies/sci fi. Zaibatsu were unstoppable.  Turned out Japan was doing alot of catch up growth and now they dominate some industries but not everything like it seemed at the time. 
 * Rising costs: turns out a prosperous people start valueing thnings like a better environment, leisure time, and more consumption goods. Already real-estate prices skyrocketed and there's a parallel to that in Japan.
 * State sponsered entities: Some people see this as a positive but I think overtime these enities will rot and it will be too hard policically to let them be replaced. So while Baidu, Tencent, Hauwei, Alibaba seem new and fresh now how will they do in 20 years.
 * The great firewall of china: Long term this makes china dumber and bottles up resentment. 
