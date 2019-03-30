@@ -27,4 +27,4 @@ tags: [ beer ]
 ## Notes
 Grapefruit extract added after fermentation?
 Really stressing what hop cages in brewie can actually handle. 
-yeast seemed dead so addead safale 02. Really short fermenation but hydrometer reading was low after a week so gave up. Thought I got some fusel alcohol but might be early.
+yeast seemed dead so addead safale 02. Really short fermenation but hydrometer reading was low after a week so gave up. Thought I got some fusel alcohol but might be early. Nope was bad dumped it. 
