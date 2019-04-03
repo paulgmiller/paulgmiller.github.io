@@ -41,6 +41,7 @@ They will form you and haunt you.
 - Craig morgan - this ain't nothing.
 - Drive by Truckers - Decoration day
 - David Allan Coe - the ride
+- daddy never was the Cadillac kind - confederate railroad
 
 ## Simplicity 
 The things that are important aren't complicated. 
@@ -54,6 +55,7 @@ The things that are important aren't complicated.
 - Drive by Truckers - Outfits
 - coat of many colors - dolly parton
 - we're not the jet set - George and Tammy
+
 
 ## Low class 
 People have inheirent worth and there is dignity in work. 
