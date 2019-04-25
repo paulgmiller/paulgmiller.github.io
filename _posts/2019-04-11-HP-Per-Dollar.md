@@ -22,6 +22,7 @@ The f-150 ones are dumb because they way over optimize for torque (though so doe
 * Explorer ecoboost = 280 / 31.855 = 8.7
 * Explorer sport = 365 / 45.220 = 8.07
 * Toyota Tacoma = 278 / 32.195 = 8.6
+* Toyota Rav4 hybrid 219 / 27.7 = 7.9
 * F150 3.3 v6 = 290 / 35.54 = 8.16
 * F150 2.7L ecoboost = 325 / 36.535 = 8.9
 * F150 2.5L ecoboost = 375 / 38.135 = 9.8
