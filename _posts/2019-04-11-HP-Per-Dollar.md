@@ -32,7 +32,7 @@ The f-150 ones are dumb because they way over optimize for torque (though so doe
   
 For ranger wins. Of course most of the other options come with way better options at that trim level but whatever. Next excerise would be to divide this by weight in which case the ecosport porbably wins. Also there is no replacement for displacement.
 
-##Bonus hp/$/lb
+## Bonus hp/$/lb
 * escape titanium 7.72 / 3,603 = 2.14e-3
 * ford ranger 8.8 / 3922 = 2.24e-3
 * exploer econboost 8.7 / 4345 = 2.0e-3
