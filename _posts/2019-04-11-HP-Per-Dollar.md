@@ -31,3 +31,12 @@ The f-150 ones are dumb because they way over optimize for torque (though so doe
 * mustang v8 = 460 / 34.95 = 13.16
   
 For ranger wins. Of course most of the other options come with way better options at that trim level but whatever. Next excerise would be to divide this by weight in which case the ecosport porbably wins. Also there is no replacement for displacement.
+
+##Bonus hp/$/lb
+* escape titanium 7.72 / 3,603 = 2.14e-3
+* ford ranger 8.8 / 3922 = 2.24e-3
+* exploer econboost 8.7 / 4345 = 2.0e-3
+* Tacoma  = 8.6  / 3980 = 2.16e-3
+* rav4 = 7.9 / 3710 = 2.13e-3
+
+Ha can't believe the ranger still wins. 
