@@ -68,7 +68,7 @@ Jockey: Lanerie, Corey J
 * 22 - 1
 * House Bet: 4.54
 
-13 Code of Honor
+## Code of Honor
 Trainer: Mcgaughey Iii, Claude R
 Jockey: Velazquez, John R
 * 13 - 1
