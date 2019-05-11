@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Dunkel Shockode.
+title: Dunkel Schokolade.
 tags: [ beer ]
 ---
 ## Malt
