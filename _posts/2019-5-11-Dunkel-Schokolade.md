@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Dunkel Schokolade.
+title: Dunkel Schokolad
 tags: [ beer ]
 ---
 ## Malt
@@ -18,4 +18,5 @@ tags: [ beer ]
 ## Water
 4.5 gallon mash at 150F for 90 min. 3.1 gallons spage 
 ## Notes
-Yeast was already puffed on arrival
+Yeast was already puffed on arrival doesn't seem to have been an issue. Letting fermen a bit longer due to weekend.
+![ferment](https://images.weserv.nl/?w=900&url=https://tzuvwg.dm.files.1drv.com/y4mePXCZ5c-btA8mLIaVTW_Ju0J24LK-RDBoQ8-PeyiswkIZT3U1S8IiGH3gRLSW93j49gt0UEhC6ygd9yKl6eds3NSX8Y2fPmxGinn7NpM6AqwqvBlMDCI97HOYpmsrD57FhUKZc8sjM5KOYjZWunnQHYYqLKZNxNyDi3do83rjkj6raaZnX9Nhv6SiTZCHJEeMTKsdr1O2_lKEmOu-u1rYg?width=3024&height=4032&cropmode=none)
