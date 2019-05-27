@@ -20,3 +20,4 @@ tags: [ beer ]
 4 gallon mash at 149F for 90 min. 3 gallons sparge @ 170
 ## Notes
 Lightest beer I've ever made (3.5%) Should check water profile. Lancaster Black cat from Beer captured. 
+Fermented at too high of a temp. Dumped. 
