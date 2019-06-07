@@ -27,7 +27,7 @@ graph['i'] = ['h', 'e', 'f']
 ```
 
 Interviewee has to right this part. Whatever langage is fine.
-```
+```python
 def find_all(a_graph, test):
   for g in a_graph:
       dfs(g, '', test)
