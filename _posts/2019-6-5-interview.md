@@ -42,6 +42,8 @@ def dfs(node, visited, test):
 find_all(graph, print)  
 ```          
 
+Here's a coworker's [java solution](https://gist.github.com/maxormo/84fdbecbbf328544eaa5c3aa464b6674)
 
+I used to have an iterative solution but lost it. 
 
 
