@@ -14,6 +14,7 @@ tags: [ beer ]
 -  .6oz simcoe @ 1 min
 -  .6oz colubus @ dry hop
 -  .6oz simcoe @ dry hop 
+- .5-.8 old Cascade accidental @dry hop
 ## Yeast
 - Wyeast 1056
 ## Water
