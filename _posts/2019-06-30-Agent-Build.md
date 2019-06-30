@@ -16,18 +16,17 @@ Should be Faster than local and  Encourage rapid iteration.
 ## Awesomely awful agents
 
 ### BuildTracker / Jenkins / Vsts agents
-** I have some machines.
-** Give me a script to run
-** I’ll try and clean up. 
-** If I’m awesome I’ll do some caching
+* I have some machines.
+* Give me a script to run
+* I’ll try and clean up. 
+* If I’m awesome I’ll do some caching
 
-###I can do anything! Oh no so can anyone else!
+### I can do anything! Oh no so can anyone else!
 
-* base image bloat  
+* base image bloat  / install 
 * the sleep 100 task.
 * What size should these agents be?
 * How much parallelism is allowed?
-
 
 ## A Common Tragedy 
 
@@ -57,3 +56,4 @@ Paul doesn't really want to run a build lab. But here we ares. Vm's are so 2011 
 * Been here before.
 * Total control
 * Limitless parallelism. 
+* Agentless K8's? Agentless docker build? 
