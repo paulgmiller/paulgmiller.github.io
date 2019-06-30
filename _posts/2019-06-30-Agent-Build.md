@@ -56,4 +56,4 @@ Paul doesn't really want to run a build lab. But here we ares. Vm's are so 2011 
 * Been here before.
 * Total control
 * Limitless parallelism. 
-* Agentless K8's? Agentless docker build? 
+* Agentless K8's? Agentless docker build? Cloudbuild/test. 

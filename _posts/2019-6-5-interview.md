@@ -44,6 +44,17 @@ find_all(graph, print)
 
 Here's a coworker's [java solution](https://gist.github.com/maxormo/84fdbecbbf328544eaa5c3aa464b6674)
 
+Here's an iterative solution 
+```python          
+def dfs_iter(node,  test):
+  stack = [node]
+  while stack:
+    path = stack.pop()
+    test(path)
+    for neighbor in graph[path[-1]]:
+      if not neighbor in path:
+        stack.append(path + neighbor)
+```
 I used to have an iterative solution but lost it. 
 
 
