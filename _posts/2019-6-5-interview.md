@@ -55,6 +55,4 @@ def dfs_iter(node,  test):
       if not neighbor in path:
         stack.append(path + neighbor)
 ```
-I used to have an iterative solution but lost it. 
-
 
