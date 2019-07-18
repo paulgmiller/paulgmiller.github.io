@@ -44,13 +44,14 @@ Paul doesn't really want to run a build lab. But here we ares. Vm's are so 2011 
 * Autoscaling / Sizing. 
 * Pat Secret
 * Indrection
+* Health checks? 
 
 ### A yaml aside 
 * pipelines look pretty neat.
 * Nothing is hidden
 * Can change build/release atomically with change and put in pr
 * More secure/auditable / One branch overlap.
-* Waitin on approval tasks?
+* Waitin on approval tasks? Retries? 
 
 ## Agentless Tasks.
 * Been here before.
