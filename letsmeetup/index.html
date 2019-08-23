@@ -4,7 +4,7 @@ layout: nil
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Simple Map</title>
+    <title>Lets meet up</title>
     <meta name="viewport" content="initial-scale=1.0">
     <meta charset="utf-8">
     <style>
@@ -40,7 +40,6 @@ layout: nil
             var bounds = new google.maps.LatLngBounds();
             bounds.extend(paul)
             bounds.extend(me)
-            map.fitBounds(bounds)
             service.nearbySearch(
               //search in bounds? add a query from query parametr
               {location: middle, rankBy: google.maps.places.RankBy.DISTANCE, type: ['restaurant']},
@@ -65,7 +64,8 @@ layout: nil
                   title: place.name,
                   position: place.geometry.location
                 });
-                
+                bounds.extend(place.geometry.location)
+                map.fitBounds(bounds)
               });
         })
       }
