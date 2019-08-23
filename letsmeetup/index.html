@@ -62,10 +62,16 @@ layout: nil
                   map: map,
                   icon: image,
                   title: place.name,
+                  animation: google.maps.Animation.DROP,
                   position: place.geometry.location
                 });
                 bounds.extend(place.geometry.location)
                 map.fitBounds(bounds)
+                var infowindow = new google.maps.InfoWindow({
+                  content: place.name
+                });
+                infowindow.open(map, marker);
+                //marker.addListener('click', function() { alert(place.name) });
               });
         })
       }
