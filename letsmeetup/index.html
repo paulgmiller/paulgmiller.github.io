@@ -48,30 +48,32 @@ layout: nil
                   alert(status)
                   return; 
                 }
-                var place = results[0]
-                //this just makes a knife and fork
-                var image = {
-                  url: place.icon,
-                  size: new google.maps.Size(71, 71),
-                  origin: new google.maps.Point(0, 0),
-                  anchor: new google.maps.Point(17, 34),
-                  scaledSize: new google.maps.Size(25, 25)
-                };
-                //marker isn't clickable
-                var marker = new google.maps.Marker({
-                  map: map,
-                  icon: image,
-                  title: place.name,
-                  animation: google.maps.Animation.DROP,
-                  position: place.geometry.location
-                });
-                bounds.extend(place.geometry.location)
-                map.fitBounds(bounds)
-                var infowindow = new google.maps.InfoWindow({
-                  content: place.name
-                });
-                infowindow.open(map, marker);
-                //marker.addListener('click', function() { alert(place.name) });
+                for (var i = 0; i < results.length && i < 3; i++) {
+                  var place = results[i]
+                  //this just makes a knife and fork
+                  var image = {
+                    url: place.icon,
+                    size: new google.maps.Size(71, 71),
+                    origin: new google.maps.Point(0, 0),
+                    anchor: new google.maps.Point(17, 34),
+                    scaledSize: new google.maps.Size(25, 25)
+                  };
+                  //marker isn't clickable
+                  var marker = new google.maps.Marker({
+                    map: map,
+                    icon: image,
+                    title: place.name,
+                    animation: google.maps.Animation.DROP,
+                    position: place.geometry.location
+                  });
+                  bounds.extend(place.geometry.location)
+                  map.fitBounds(bounds)
+                  var infowindow = new google.maps.InfoWindow({
+                    content: place.name
+                  });
+                  infowindow.open(map, marker);
+                  marker.addListener('click', function() { infowindow.open(map, marker) });
+                }
               });
         })
       }
