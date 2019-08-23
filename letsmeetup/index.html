@@ -40,9 +40,18 @@ layout: nil
             var bounds = new google.maps.LatLngBounds();
             bounds.extend(paul)
             bounds.extend(me)
+            let urlParams = new URLSearchParams(window.location.search);
+            let query = urlParams.get('query');
+            search_request = {location: middle, rankBy: google.maps.places.RankBy.DISTANCE, type: ['restaurant']}
+            if( query != null)
+            {
+              //todo how do i modify
+              search_request = {location: middle, rankBy: google.maps.places.RankBy.DISTANCE, 
+                                type: ['restaurant'], keyword: query}
+            }
             service.nearbySearch(
               //search in bounds? add a query from query parametr
-              {location: middle, rankBy: google.maps.places.RankBy.DISTANCE, type: ['restaurant']},
+              search_request,
               function(results, status, pagination) {
                 if (status !== 'OK') {
                   alert(status)
