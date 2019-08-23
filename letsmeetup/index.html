@@ -28,16 +28,49 @@ layout: nil
       function initMap() {
         navigator.geolocation.getCurrentPosition(function(position) {
             var me =  {lat: position.coords.latitude, lng: position.coords.longitude};
-            var schlossmueller = { lat: 47.592610, lng: -122.158050 }
+            var paul = { lat: 47.592610, lng: -122.158050 }
+            //var paul = { lat: 48.0, lng: -122.158050 }
+            var middle = {lat: (me.lat + paul.lat) / 2, lng: (me.lng + paul.lng)/2 };
             map = new google.maps.Map(document.getElementById('map'), {
-                center: schlossmueller, zoom: 12
+                center: middle, zoom: 12
             });
-            var marker = new google.maps.Marker({position: me, map: map});
-            var muellermarker = new google.maps.Marker({position: schlossmueller, map: map});
+            var youmarker = new google.maps.Marker({position: me, map: map, title: "you"});
+            var paulmarker = new google.maps.Marker({position: paul, map: map, title: "paul" });
+            var service = new google.maps.places.PlacesService(map);
+            var bounds = new google.maps.LatLngBounds();
+            bounds.extend(paul)
+            bounds.extend(me)
+            map.fitBounds(bounds)
+            service.nearbySearch(
+              //search in bounds? add a query from query parametr
+              {location: middle, rankBy: google.maps.places.RankBy.DISTANCE, type: ['restaurant']},
+              function(results, status, pagination) {
+                if (status !== 'OK') {
+                  alert(status)
+                  return; 
+                }
+                var place = results[0]
+                //this just makes a knife and fork
+                var image = {
+                  url: place.icon,
+                  size: new google.maps.Size(71, 71),
+                  origin: new google.maps.Point(0, 0),
+                  anchor: new google.maps.Point(17, 34),
+                  scaledSize: new google.maps.Size(25, 25)
+                };
+                //marker isn't clickable
+                var marker = new google.maps.Marker({
+                  map: map,
+                  icon: image,
+                  title: place.name,
+                  position: place.geometry.location
+                });
+                
+              });
         })
       }
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAZjuEABwvBsrrd2LdB2eRfzYTh0T9KL3c&callback=initMap"
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAZjuEABwvBsrrd2LdB2eRfzYTh0T9KL3c&callback=initMap&libraries=places"
     async defer></script>
   </body>
 </html>
