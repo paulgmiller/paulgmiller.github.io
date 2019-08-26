@@ -23,71 +23,101 @@ layout: nil
   </head>
   <body>
     <div id="map"></div>
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script>
       var map;
+      //this is dumb
+      function uuidv4() {
+        return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+          var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
+          return v.toString(16);
+        });
+      }
+
       function initMap() {
+        let urlParams = new URLSearchParams(window.location.search);
+        let meetup = urlParams.get('meetup');
         navigator.geolocation.getCurrentPosition(function(position) {
-            var me =  {lat: position.coords.latitude, lng: position.coords.longitude};
-            var paul = { lat: 47.592610, lng: -122.158050 }
-            //var paul = { lat: 48.0, lng: -122.158050 }
-            var middle = {lat: (me.lat + paul.lat) / 2, lng: (me.lng + paul.lng)/2 };
-            map = new google.maps.Map(document.getElementById('map'), {
-                center: middle, zoom: 12
-            });
-            var youmarker = new google.maps.Marker({position: me, map: map, title: "you"});
-            var paulmarker = new google.maps.Marker({position: paul, map: map, title: "paul" });
-            var service = new google.maps.places.PlacesService(map);
-            var bounds = new google.maps.LatLngBounds();
-            bounds.extend(paul)
-            bounds.extend(me)
-            let urlParams = new URLSearchParams(window.location.search);
-            let query = urlParams.get('query');
-            search_request = {location: middle, rankBy: google.maps.places.RankBy.DISTANCE, type: ['restaurant']}
-            if( query != null)
-            {
-              //todo how do i modify
-              search_request = {location: middle, rankBy: google.maps.places.RankBy.DISTANCE, 
-                                type: ['restaurant'], keyword: query}
+            var guestid = Cookies.get('GuestId'); 
+            if(guestid === undefined)
+            {           
+              guestid = uuidv4()
+              Cookies.set('GuestId', guestid)
             }
-            service.nearbySearch(
-              //search in bounds? add a query from query parametr
-              search_request,
-              function(results, status, pagination) {
-                if (status !== 'OK') {
+            //guestid = Cookies.get('GuestId'); 
+            alert(guestid)
+            var me =  JSON.stringify({lat: position.coords.latitude, long: position.coords.longitude, GuestId: guestid});
+            
+            $.post('https://guestsapi.azurewebsites.net/api/meetups/'+meetup+'/guests', me, 
+                function(guests, status) {
+                if (status !== 'success') {
                   alert(status)
                   return; 
                 }
-                for (var i = 0; i < results.length && i < 3; i++) {
-                  var place = results[i]
-                  //this just makes a knife and fork
-                  var image = {
-                    url: place.icon,
-                    size: new google.maps.Size(71, 71),
-                    origin: new google.maps.Point(0, 0),
-                    anchor: new google.maps.Point(17, 34),
-                    scaledSize: new google.maps.Size(25, 25)
-                  };
-                  //marker isn't clickable
-                  var marker = new google.maps.Marker({
-                    map: map,
-                    icon: image,
-                    title: place.name,
-                    animation: google.maps.Animation.DROP,
-                    position: place.geometry.location
-                  });
-                  bounds.extend(place.geometry.location)
-                  map.fitBounds(bounds)
-                  var infowindow = new google.maps.InfoWindow({
-                    content: place.name
-                  });
-                  infowindow.open(map, marker);
-                  marker.addListener('click', function() { infowindow.open(map, marker) });
+                var guest;
+                var bounds = new google.maps.LatLngBounds();
+                map = new google.maps.Map(document.getElementById('map'), {});
+                for (guest of guests)
+                {
+                   var guestpos = { lat: parseFloat(guest.lat),  lng: parseFloat(guest.long)}
+                   var guestmarker = new google.maps.Marker({position: guestpos, map: map, title: "guest"});
+                   bounds.extend(guestpos)
                 }
-              });
+              
+              //var paul = { lat: 47.592610, lng: -122.158050 }
+               
+              var middle = bounds.getCenter()
+              var service = new google.maps.places.PlacesService(map);
+              
+              let query = urlParams.get('query');
+              search_request = {location: middle, rankBy: google.maps.places.RankBy.DISTANCE, type: ['restaurant']}
+              if( query != null)
+              {
+                //todo how do i modify
+                search_request = {location: middle, rankBy: google.maps.places.RankBy.DISTANCE, 
+                                  type: ['restaurant'], keyword: query}
+              }
+              service.nearbySearch(
+                //search in bounds? add a query from query parametr
+                search_request,
+                function(results, status, pagination) {
+                  if (status !== 'OK') {
+                    alert(status)
+                    return; 
+                  }
+                  for (var i = 0; i < results.length && i < 3; i++) {
+                    var place = results[i]
+                    //this just makes a knife and fork
+                    var image = {
+                      url: place.icon,
+                      size: new google.maps.Size(71, 71),
+                      origin: new google.maps.Point(0, 0),
+                      anchor: new google.maps.Point(17, 34),
+                      scaledSize: new google.maps.Size(25, 25)
+                    };
+                    //marker isn't clickable
+                    var marker = new google.maps.Marker({
+                      map: map,
+                      icon: image,
+                      title: place.name,
+                      animation: google.maps.Animation.DROP,
+                      position: place.geometry.location
+                    });
+                    bounds.extend(place.geometry.location)
+                    map.fitBounds(bounds)
+                    var infowindow = new google.maps.InfoWindow({
+                      content: place.name
+                    });
+                    infowindow.open(map, marker);
+                    marker.addListener('click', function() { infowindow.open(map, marker) });
+                  }
+                });
+             })
         })
       }
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAZjuEABwvBsrrd2LdB2eRfzYTh0T9KL3c&callback=initMap&libraries=places"
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDOFv6dJjvOaRnP8d3Vf9t9802bSEYGs7U&callback=initMap&libraries=places"
     async defer></script>
   </body>
 </html>
