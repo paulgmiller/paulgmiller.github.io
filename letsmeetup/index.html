@@ -43,10 +43,8 @@ layout: nil
             if(guestid === undefined)
             {           
               guestid = uuidv4()
-              Cookies.set('GuestId', guestid)
+              Cookies.set('GuestId', guestid) //don't think this is working
             }
-            //guestid = Cookies.get('GuestId'); 
-            alert(guestid)
             var me =  JSON.stringify({lat: position.coords.latitude, long: position.coords.longitude, GuestId: guestid});
             
             $.post('https://guestsapi.azurewebsites.net/api/meetups/'+meetup+'/guests', me, 
