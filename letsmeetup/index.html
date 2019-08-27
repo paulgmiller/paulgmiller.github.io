@@ -80,7 +80,22 @@ layout: nil
                 //search in bounds? add a query from query parametr
                 search_request,
                 function(results, status, pagination) {
-                  if (status !== 'OK') {
+                  if (status == "ZERO_RESULTS")
+                  {
+                    map.fitBounds(bounds)
+                    var marker = new google.maps.Marker({
+                      map: map,
+                      animation: google.maps.Animation.DROP,
+                      position: middle
+                    });
+                    map.fitBounds(bounds)
+                    var infowindow = new google.maps.InfoWindow({
+                      content: "NOTHING IS HERE"
+                    });
+                    infowindow.open(map, marker);
+                    return;
+                  }
+                  else if (status !== 'OK') {
                     alert(status)
                     return; 
                   }
