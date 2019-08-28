@@ -38,6 +38,16 @@ layout: nil
       function initMap() {
         let urlParams = new URLSearchParams(window.location.search);
         let meetup = urlParams.get('meetup');
+        if (meetup == null)
+        {
+            meetup = urlParams.get('m')
+        }
+        if (meetup == null)
+        {
+
+          meetup  = btoa(Math.floor(Math.random() * Math.floor(1000000)))
+          window.location.search += ('m=' + meetup)
+        }
         navigator.geolocation.getCurrentPosition(function(position) {
             var guestid = Cookies.get('GuestId'); 
             if(guestid === undefined)
