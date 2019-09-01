@@ -5,10 +5,9 @@ tags: [ beer ]
 ---
 ## Malt
 - 8 lbs 2 row pale
-- 5lbs Weyermann® Light Munich Malt 
 - 1 lb Munich
 - 8 oz Vienna
-- 1 lb Crystal 40 L
+- 8 lb Crystal 40 L
 - 4 oz chocloate malt.
 
 ## Hops
