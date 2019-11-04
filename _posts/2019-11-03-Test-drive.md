@@ -27,6 +27,6 @@ comments: true
 * Telluride 
 
 ## Mada
-* Cx-5
+* [Cx-5 Grand touring](https://www.mazdausa.com/shopping-tools/build-and-price/cx-5#s=5&tr=Automatic&d=AWD&f=&t=19CX5GTR%7C19CX5GTRXA&ex=45B&in=L_KD6&p=&ip=&o=&io=)- 36 K
 
 And I guess the subaru cause I live in seattle....
