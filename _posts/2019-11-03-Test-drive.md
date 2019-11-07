@@ -24,7 +24,7 @@ comments: true
 * Rav 4 
 
 ## Kia 
-* Telluride - length 196 inches 
+* [Telluride](https://www.kia.com/us/en/telluride/build?model=J4422&exterior=Ebony+Black&interior=Black+SOFINO+Seat+Trim&trim=LX) - length 196 inches 
 
 ## Mada
 * [Cx-5 Grand touring](https://www.mazdausa.com/shopping-tools/build-and-price/cx-5#s=5&tr=Automatic&d=AWD&f=&t=19CX5GTR%7C19CX5GTRXA&ex=45B&in=L_KD6&p=&ip=&o=&io=)- 36 K
