@@ -19,3 +19,4 @@ Whirfloc
 Ferment at 68 degrees
 More Beer best bitter recipe
 Bad fermenter seal first 2 days
+Pretty mediocre better temp control.
