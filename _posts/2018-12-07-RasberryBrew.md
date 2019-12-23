@@ -31,7 +31,8 @@ https://www.amazon.com/Solenoid-Normally-Crack-resistant-U-S-Solid/dp/B007N0DN3Q
 ## Relays
 https://www.amazon.com/Raspberry-Pi-Expansion-Module-XYGStudy/dp/B01G05KLIE
 
-## General Links
+## General Links to simialar projects:
+https://www.homebrewtalk.com/forum/threads/automation-with-arduino.633943/
 http://www.theelectricbrewery.com/the-complete-guide-to-building-your-brewery
 http://www.theelectricbrewery.com/FAQ#Why_didn_t_you_add_more_automation_using_BCS-460_or_similar_
 http://www.theelectricbrewery.com/forum/viewtopic.php?t=25382

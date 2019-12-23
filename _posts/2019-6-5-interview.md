@@ -4,8 +4,8 @@ title: My Interview quesition
 tags: [ tech ]
 ---
 
-Find all pass codes for the old android unlock scrren.
-More to come 
+Find all pass codes for the old android unlock screen. Can't pass over the same node. 
+
 
 ```
 # a - b - c
