@@ -68,24 +68,21 @@ layout: nil
                 map = new google.maps.Map(document.getElementById('map'), {});
                 for (guest of guests)
                 {
-                   var guestpos = { lat: parseFloat(guest.lat),  lng: parseFloat(guest.long)}
-                   var guestmarker = new google.maps.Marker({position: guestpos, map: map, title: "guest"});
-                   bounds.extend(guestpos)
+                  var guestpos = { lat: parseFloat(guest.lat),  lng: parseFloat(guest.long)}
+                  var guestmarker = new google.maps.Marker({position: guestpos, map: map, title: "guest"});
+                  bounds.extend(guestpos)
                 }
               
               //var paul = { lat: 47.592610, lng: -122.158050 }
-               
               var middle = bounds.getCenter()
               var service = new google.maps.places.PlacesService(map);
               
               let query = urlParams.get('query');
-              search_request = {location: middle, rankBy: google.maps.places.RankBy.DISTANCE, type: ['restaurant']}
-              if( query != null)
+              if( query == null)
               {
-                //todo how do i modify
-                search_request = {location: middle, rankBy: google.maps.places.RankBy.DISTANCE, 
-                                  type: ['restaurant'], keyword: query}
+                query = 'food'
               }
+              search_request = {location: middle, rankBy: google.maps.places.RankBy.DISTANCE, keyword: query}
               service.nearbySearch(
                 //search in bounds? add a query from query parametr
                 search_request,
