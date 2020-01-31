@@ -13,5 +13,5 @@ Elliot and i bet max(1 btc, $10k) that by december 2020 you can buy a self drivi
 10k is in 2014 dollars. If car is lease lease needs to be under what you would lease a 100k car for. 
 Both of us put a bitcoin in a coinbase vault.
 
-Also here is a hilarous email statemetn from dec 2014: "Clearly I'm just waiting for it hit it's true bottom before I move 50% of my net worth into bitcoin."
+Also here is a hilarous email statement from dec 2014: "Clearly I'm just waiting for it hit it's true bottom before I move 50% of my net worth into bitcoin."
 
