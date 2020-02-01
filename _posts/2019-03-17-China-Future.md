@@ -2,7 +2,7 @@
 layout: post
 title: China Future
 author: "Paul Miller"
-tags: ["tech"]
+tags: ["tech", "bets"]
 comments: true
 ---
 
