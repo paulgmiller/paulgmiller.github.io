@@ -26,7 +26,9 @@ graph['h'] = ['g', 'e', 'i']
 graph['i'] = ['h', 'e', 'f']
 ```
 
-Interviewee has to right this part. Whatever langage is fine.
+Interviewee has to write this part. Whatever langage is fine.
+If they're done we talk about using compute (parallism) or memory (memoizing) to speed it up. 
+
 ```python
 def find_all(a_graph, test):
   for g in a_graph:
@@ -54,5 +56,46 @@ def dfs_iter(node,  test):
     for neighbor in graph[path[-1]]:
       if not neighbor in path:
         stack.append(path + neighbor)
+```
+
+or golang
+
+```go
+package main
+
+import (
+	"fmt"
+	"strings"
+)
+
+var graph = map[string][]string{
+	"a": {"b", "d", "e"},
+	"b": {"a", "c", "e"},
+	"c": {"b", "e", "f"},
+	"d": {"a", "e", "g"},
+	"e": {"a", "b", "c", "d", "f", "g", "h", "i"},
+	"f": {"c", "e", "i"},
+	"g": {"d", "e", "h"},
+	"h": {"g", "e", "i"},
+	"i": {"h", "e", "f"},
+}
+
+func dfs(node, visited string, test func(string)) {
+	newvisted := visited + node
+	test(newvisted)
+	for _, neighbor := range graph[node] {
+		if !strings.Contains(newvisted, neighbor) {
+			dfs(neighbor, newvisted, test)
+		}
+	}
+}
+
+func main() {
+	for node := range graph {
+		dfs(node, "", func (t string) {
+			fmt.Printf(t + "\n")
+		})
+	}
+}
 ```
 
