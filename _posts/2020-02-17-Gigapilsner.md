@@ -19,4 +19,9 @@ tags: [ beer ]
 
 ## Notes
 -  Whirlock table @ 5 minutes
-- yeast nutrient?
+- yeast nutrient @ 5 minutes
+- Gypum at 10 minute? 
+
+- Failed to whirlpool. 
+- Pitched pretty high. 78.
+- Boilover
