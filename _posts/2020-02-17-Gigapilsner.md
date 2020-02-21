@@ -25,6 +25,7 @@ tags: [ beer ]
 - Failed to whirlpool. 
 - Pitched pretty high. 78.
 - Boilover
+- didn't start had to repitch with safale w-23 almost 5 days later. 
 
 ![prost](https://rpvokg.dm.files.1drv.com/y4mbOVwdiIaFV5_tk-wPifaQNHAvMoI4XfqKoMDOgkf7jEZCyMeB-r2IHCFIFCrg0r11KU2ngWyL5JYVI4UJ-LoVzr3m23ZB5bzX3eEJrlhLm2CTrL0K2DPBAKOLh4MxfJXRqzzlHN54xDPyoh4FnB932MKr6GKTjB6kwx7UDrddb_gdN5vbTgg5MHPtk1PgmYZTpCqt4KD3FOKRSgclmq_pw?width=3024&height=4032&cropmode=none)
 
