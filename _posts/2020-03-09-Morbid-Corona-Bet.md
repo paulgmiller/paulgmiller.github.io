@@ -30,7 +30,8 @@ Here's me talkign to my friends on whats app. about this Robin Hanson odds: [ #C
 
 2000 is far less than that. In  my favor it it's at 22 now and if it doubles every month we're looking at < < 1000 in August. We're also going into summer which isn't great for flu. Going against me is this trump administration might have no idea what they are doing. Luckily America is somewhat decentralized still.
 
-[This is still my favor map for triacking](https://coronavirus.jhu.edu/map.html)
+[This is still my favor map for tracking](https://coronavirus.jhu.edu/map.html)
+Guess we could use [WHO numbers though](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
 
 
 
