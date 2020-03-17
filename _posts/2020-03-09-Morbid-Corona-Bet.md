@@ -33,6 +33,6 @@ Here's me talkign to my friends on whats app. about this Robin Hanson odds: [ #C
 [This is still my favorite map for tracking](https://coronavirus.jhu.edu/map.html)
 Guess we could use [WHO numbers though](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
 
-
-
+[Us graphs](
+https://www.worldometers.info/coronavirus/country/us/)
 
