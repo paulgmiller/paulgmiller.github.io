@@ -36,3 +36,6 @@ Guess we could use [WHO numbers though](https://www.who.int/emergencies/diseases
 [Us graphs](
 https://www.worldometers.info/coronavirus/country/us/)
 
+[Washington Data](https://www.doh.wa.gov/Emergencies/Coronavirus)
+
+[Brad's co-worker's api](https://github.com/ExpDev07/coronavirus-tracker-api)
