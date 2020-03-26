@@ -39,3 +39,5 @@ https://www.worldometers.info/coronavirus/country/us/)
 [Washington Data](https://www.doh.wa.gov/Emergencies/Coronavirus)
 
 [Brad's co-worker's api](https://github.com/ExpDev07/coronavirus-tracker-api)
+
+[My King county spreadsheet](https://docs.google.com/spreadsheets/d/13nhWV4AdGMCpYAS-fCNarz1LD4kMbwQoGnI-VkMrJRQ/edit?usp=sharing)
