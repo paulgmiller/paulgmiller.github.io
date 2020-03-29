@@ -19,11 +19,21 @@ Figuring out a strategy for trying to return post lockdown but pre-vaccine is im
 * When you get tested you associate it with guid/public key on your phone presumably in an app
 * Testers publish guid, result and date of test to a database/block chain
 * Now you want to get a hair cut or go-to a bar
-*  You have to tap your phone against another phone on the entryway (nfc presumably)
-*  If your phone's guid is tested clear in n days you get a happy green
-*  If m's day then maybe a warning orange buzz to remind you
-*  no test or past m days red alarm and social pressure or a bouncer makes you leave
+ * You have to tap your phone against another phone on the entryway (nfc presumably)
+ * If your phone's guid is tested clear in n days you get a happy green
+ * If m's day then maybe a warning orange buzz to remind you
+ * no test or past m days red alarm and social pressure or a bouncer makes you leave
 
-N, M are configurable based on the establisments risk factor. A sporting event might require testing in last 2 days.  Also maybe testing for antibodies gets you a higher n, m.
+N, M are configurable based on the establishment's risk tolerance. A sporting event might require testing in last 2 days.  Also maybe testing for antibodies gets you a higher n, m.
 
-One of the goals here is to avoid facial or cell tracking and the draconian privacy envasion that entails. 
+One of the goals here is to avoid facial or cell tracking and the draconian privacy invasion that entails.
+The business's reviewer app could log/track who was where at what times and later warn people if they were the same place as person who later tested postive. This has some abuse potential though. 
+
+Pro's 
+* Android phones with nfc are cheap for a bussines to buy.
+* Can reset your guid and avoid bussiness that care.
+
+Con's:
+* Tapping might spread disease.
+* Hard to enforce at open areas like parks, playgrounds or malls
+* Leads to a national id and government databzase
