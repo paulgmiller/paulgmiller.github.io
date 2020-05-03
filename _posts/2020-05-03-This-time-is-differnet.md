@@ -15,6 +15,6 @@ In 1920 2.7% of population was over 70 in 2018 9.8%.  Over 55 was 8.2% in 1920 a
 We also I believe have increasingly compacted the 80 year olds into nursing homes which are exeptionally hard hit. While before they were exposed to immediate family they were fairly isolated there as opposed to being in high risk communal settings. Asia might not have moved as much to nursing homes as US/Europe?
  
 We are also richer which seems good but it means we are more risk averse this increases our willingness to lock down (nobody is starving yet) and make us less likely to triage and do human trials.
-
-Also I did mention I was worried about italy. New your essentially said "hold my beer and watch this".
+More on challenge testing from [david friedman](http://daviddfriedman.blogspot.com/2020/05/how-to-test-vaccine.html?m=1) and
+Also I did mention I was worried about italy. New your essentially said "hold my beer and watch this". Robin Hanson
 
