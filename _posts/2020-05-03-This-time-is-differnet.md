@@ -16,5 +16,5 @@ We also I believe have increasingly compacted the 80 year olds into nursing home
  
 We are also richer which seems good but it means we are more risk averse this increases our willingness to lock down (nobody is starving yet) and make us less likely to triage and do human trials.
 
-Also I did mention I was worried about italy. New your essentially said "hold me beer and watch this".
+Also I did mention I was worried about italy. New your essentially said "hold my beer and watch this".
 
