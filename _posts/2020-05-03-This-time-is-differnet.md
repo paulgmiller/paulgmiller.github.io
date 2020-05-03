@@ -17,4 +17,4 @@ We also I believe have increasingly compacted the 80 year olds into nursing home
 We are also richer which seems good but it means we are more risk averse this increases our willingness to lock down (nobody is starving yet) and make us less likely to triage and do human trials.
 More on challenge testing from [david friedman](http://daviddfriedman.blogspot.com/2020/05/how-to-test-vaccine.html?m=1) and [Robin Hanson](http://www.overcomingbias.com/2020/03/variolation-may-cut-covid19-deaths-3-30x.html)
 
-Also I did mention I was worried about italy. New your essentially said "hold my beer and watch this". 
+Also I did mention I was worried about italy. New York essentially said "hold my beer and watch this". 
