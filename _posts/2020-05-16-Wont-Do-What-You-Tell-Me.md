@@ -25,5 +25,5 @@ All Whole cone.
 - yeast nutrient @ 5 minutes
 - Gypum @ BOIL
 
-
+Accidentally drained alot of wort into a bucket. whoops. Had to put the bucket into before the boil. May be a pale ale. 
 
