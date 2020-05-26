@@ -2,7 +2,7 @@
 layout: post
 title: Corona Testing in a distributed republic.
 author: "Paul Miller"
-tags: ["bets"]
+tags: ["bets", "corona virus"]
 comments: true
 ---
 
