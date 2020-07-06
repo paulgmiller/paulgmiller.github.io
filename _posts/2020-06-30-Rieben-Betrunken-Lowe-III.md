@@ -6,8 +6,8 @@ tags: [ beer ]
 ## Malt
 - 6lbs  pilsner malt
 - 3 lb munich 
-- 2? lbs caramunich II
-- 1? lbs dark munich
+- 2 lbs caramunich II
+- 2 lbs dark munich
 - 4 oz englisth choclate
 
 ## Hops
@@ -23,5 +23,6 @@ tags: [ beer ]
 ## Notes
 -  Dry and remember ph nuetralizer
 - Yeast nutrient
+- really slow start as I cooked it too much
 
 
