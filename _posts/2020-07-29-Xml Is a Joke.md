@@ -36,7 +36,8 @@ and
 Okay those are better but certainly not consisteny. What does my old buddy powershell do
 
 
-```> @{foo="paul"} | ConvertTo-Xml -as string
+```
+> @{foo="paul"} | ConvertTo-Xml -as string
 <?xml version="1.0" encoding="utf-8"?>
 <Objects>
   <Object Type="System.Collections.Hashtable">
