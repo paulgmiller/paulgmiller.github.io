@@ -25,7 +25,7 @@ I got
     </Value>
   </Entry>
 </MyAwesomeMap>
-``
+```
 and 
 ```
 <maptype>
