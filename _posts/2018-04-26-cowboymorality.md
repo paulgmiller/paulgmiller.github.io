@@ -67,6 +67,7 @@ People have inheirent worth and there is dignity in work.
 - Garth brooks - [friends in low places**](https://www.youtube.com/watch?v=mvCgSqPZ4EM). 
 - Hank Williamns jr - a country boy can survive
 - Sturgill - You can have the crown. 
+- Jamey Johnson - lonely at the top
 ### Prison 
 - cash - folsom/sanquentin hurt, the wall
 
