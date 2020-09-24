@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: My Interview quesition
+title: My Interview question
 tags: [ tech ]
 ---
 
