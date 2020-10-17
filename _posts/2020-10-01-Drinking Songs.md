@@ -52,7 +52,7 @@ These are the sad ones. I'll get to the fun ones later..
 [Sunday Morning coming down - Johnny Cash](https://open.spotify.com/track/5yvnuEZmDBNH4uEhqdayCS?si=D7v69wT9QVCPEXOyOM3lJA)
 
 > Keep the glass, hand me the bottle  
-> I’m on that way highway to hell, full throttle
+> I’m on that highway to hell, full throttle
 
 [Me the Whiskey - Whitey Moragn and the 78's](https://open.spotify.com/track/6Bvh8a4YhNyqsafMVYlRrd?si=_qNenl8LQNGGWkj-t0elBw)
 
