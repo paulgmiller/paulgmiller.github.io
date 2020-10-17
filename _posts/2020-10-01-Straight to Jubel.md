@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Straight Jubel (2011-11-23 version)
+title: Straight to Jubel
 tags: [ beer ]
 ---
 ## Malt
