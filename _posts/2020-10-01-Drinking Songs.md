@@ -56,6 +56,13 @@ These are the sad ones. I'll get to the fun ones later..
 
 [Me the Whiskey - Whitey Moragn and the 78's](https://open.spotify.com/track/6Bvh8a4YhNyqsafMVYlRrd?si=_qNenl8LQNGGWkj-t0elBw)
 
+> I told him, I ain't drunk  
+> Hell, I've just been drinkin'  
+> I started five in the afternoon  
+> Lord, about three days ago  
+
+[I ain't drunk - Whitey Morgan](https://open.spotify.com/track/4Nd59WapL33xCNlxW7pEzQ?si=K4fYHzd8S6iMp0RWoSQZ_w)
+
 More to come....
 
 [hattip](https://hymiesrecords.com/10-depressing-country-drinking-songs/#:~:text=%2021%20Apr%2010%20Depressing%20Country%20Drinking%20Songs,Accent...%204%2006%20whiskey%20bottle.%20%20More%20)
