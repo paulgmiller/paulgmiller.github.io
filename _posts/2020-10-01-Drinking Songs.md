@@ -63,6 +63,13 @@ These are the sad ones. I'll get to the fun ones later..
 
 [I ain't drunk - Whitey Morgan](https://open.spotify.com/track/4Nd59WapL33xCNlxW7pEzQ?si=K4fYHzd8S6iMp0RWoSQZ_w)
 
+
+> How can you think like you think  
+> And turn around and drink like you drink?  
+> You can barely stand up when you kneel down to pray  
+
+[Think like you think - Cody Jinks](https://open.spotify.com/track/23ELdGMWL9lIAddrewdark?si=sFL86YlTRJaBbXILFTY3uw)
+
 More to come....
 
 [hattip](https://hymiesrecords.com/10-depressing-country-drinking-songs/#:~:text=%2021%20Apr%2010%20Depressing%20Country%20Drinking%20Songs,Accent...%204%2006%20whiskey%20bottle.%20%20More%20)
