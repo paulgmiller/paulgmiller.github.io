@@ -1,3 +1,9 @@
+---
+layout: post
+title: Drinking songs
+tags: [ family ]
+---
+
 ```
 I remember the night she sat down beside me
 She cried love was a ring that won't end, well I was handed a lie
@@ -32,7 +38,6 @@ For her
 ```
 [Lumberlung - Slobberbone](https://open.spotify.com/track/63rjOTVXfZxzyZLgpHlr6X)
 
-
 ```
 Whiskey bottle over Jesus
 Not forever, just for now
@@ -52,6 +57,7 @@ wasn't bad so I had one more for desert
 ```
 [Sunday Morning coming down - Johnny Cash
 
+More to come....
 
 [hattip](https://hymiesrecords.com/10-depressing-country-drinking-songs/#:~:text=%2021%20Apr%2010%20Depressing%20Country%20Drinking%20Songs,Accent...%204%2006%20whiskey%20bottle.%20%20More%20)
 
