@@ -70,6 +70,13 @@ These are the sad ones. I'll get to the fun ones later..
 
 [Think like you think - Cody Jinks](https://open.spotify.com/track/23ELdGMWL9lIAddrewdark?si=sFL86YlTRJaBbXILFTY3uw)
 
+> Last week he spent his whole paycheck on whiskey  
+> I know Friday night he'll do it all again  
+> Oh he'll drink till he falls down then he'll order one more round  
+> And then go home with that bottle in his hand  
+
+[This Bottle in my hand - David Allan Coe](https://open.spotify.com/track/68309kAiwyzLNlKshNo0GS)
+
 More to come....
 
 [hattip](https://hymiesrecords.com/10-depressing-country-drinking-songs/#:~:text=%2021%20Apr%2010%20Depressing%20Country%20Drinking%20Songs,Accent...%204%2006%20whiskey%20bottle.%20%20More%20)
