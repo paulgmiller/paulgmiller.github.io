@@ -6,7 +6,7 @@ tags: ["tech"]
 
 ![truck](https://dsm01pap002files.storage.live.com/y4mPdnKLnFeyGHnyUHpL-KpvfGUyTuOVVgEympxAYplIZnLKTV_QiEJIPl1XWzM7KM_ksEmD6GMeB4_tn0VC9HKNGnHLOljUmMH86Yytte1tkxcOImGUiWSYuw7ZvA97hpQYIv8Uwxs69V0wE9t-VQOT-XFF2j1OCxQZMdm5mjhqINX15srP9sDYz2xkAOVu75u?width=660&height=495&cropmode=none)
 
-So I bought a ranger and I cheaped out and didn't get the tech, bed utility, locking diff or running boards. But now I have extra money to buy what I want. 
+So I bought a ranger and I cheaped out and didn't get the tech, bed utility, locking diff or running boards. But now I have extra money to buy what I want. Amusing past extensive [research is here]({% post_url 2019-04-11-HP-Per-Dollart %})
 
 ## Mats
 [SMARTLINER Floor Mats 2 Rows and Truck Bed Liner Set Black for 2019 Ford Ranger SuperCrew Cab](https://www.amazon.com/dp/B081TNSBY4/ref=cm_sw_r_wa_apa_fabc_b2X0FbZ4S2YN9)
