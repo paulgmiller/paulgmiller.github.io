@@ -11,12 +11,12 @@ So I bought a ranger and I cheaped out and didn't get the tech, bed utility, loc
 ## Mats
 * [SMARTLINER Floor Mats 2 Rows and Truck Bed Liner Set Black for 2019 Ford Ranger SuperCrew Cab](https://www.amazon.com/dp/B081TNSBY4/ref=cm_sw_r_wa_apa_fabc_b2X0FbZ4S2YN9)
 * [DEE ZEE DZ87017 Bedmat](https://www.amazon.com/dp/B07N3293J8/ref=cm_sw_r_wa_apa_fabc_u2X0FbG3BYYZ2)
-* [MAXLINER Custom Fit Floor Mats](https://www.amazon.com/dp/B07TZT1WB4/ref=cm_sw_r_wa_apa_fabc_Z4X0FbFQV34CD)
-* [Bluesprings mat](https://www.bluespringsfordparts.com/oem-parts/ford-bed-mat-for-5-0-bed-kb3z99112a15a?c=bD0xJm49U2VhcmNoIFJlc3VsdHM%3D)
+* ~~[MAXLINER Custom Fit Floor Mats](https://www.amazon.com/dp/B07TZT1WB4/ref=cm_sw_r_wa_apa_fabc_Z4X0FbFQV34CD)~~
+* ~~[Bluesprings mat](https://www.bluespringsfordparts.com/oem-parts/ford-bed-mat-for-5-0-bed-kb3z99112a15a?c=bD0xJm49U2VhcmNoIFJlc3VsdHM%3D)~~
 
 ### From Ford: 
-* [liner](https://accessories.ford.com/bed-products/liners-and-mats/liner-load-compartment-12843.html)
-* [mat](https://accessories.ford.com/bed-products/liners-and-mats/liner-load-compartment-12135.html)
+* ~~[liner](https://accessories.ford.com/bed-products/liners-and-mats/liner-load-compartment-12843.html)~~
+* ~~[mat](https://accessories.ford.com/bed-products/liners-and-mats/liner-load-compartment-12135.html)~~
 
 ## Runners
 There are alot of these at alot of prices
