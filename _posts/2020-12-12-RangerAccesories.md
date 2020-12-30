@@ -28,6 +28,7 @@ There are alot of these at alot of prices
 ## Covers
 * [Truxedo](https://www.amazon.com/Truxedo-231001-Ranger-TruXport-Tonneau/dp/B07N99VCSV/ref=sr_1_1?crid=3NSUUA81DODOY&dchild=1&keywords=tonneau+cover&pd_rd_r=102b5440-2e0c-4387-812d-7966ff7a96d4&pd_rd_w=yUepz&pd_rd_wg=cDA9D&pf_rd_p=8a68efb9-a680-488c-88fe-8333519f00b7&pf_rd_r=8Y0P2V1ND0V6KJAQP82X&qid=1607729146&s=automotive&sprefix=tonne%2Cautomotive%2C221&sr=1-1&vehicle=2020-54-696-656-214-53-6--20822--8-1-5564-297-&vehicleName=2020+Ford+Ranger)
 * [BakFlip](https://www.amazon.com/BAKFlip-Folding-Tonneau-448332-Ranger/dp/B07J5CVWGD/ref=sr_1_1?dchild=1&keywords=bakflip&pd_rd_r=5299f95b-be08-4d61-92c2-987f87a1aa96&pd_rd_w=pXCHM&pd_rd_wg=eWsaZ&pf_rd_p=8a68efb9-a680-488c-88fe-8333519f00b7&pf_rd_r=R8B40NV0AQ05M1FVXE5W&qid=1609028467&s=automotive&sr=1-1&vehicle=2020-54-696-656-214-53-6--20822--8-1-5564-297-&vehicleName=2020+Ford+Ranger)
+* [Retrax](https://retrax.com/retraxpro-xr/2020/ford/ranger)
 * [ford 1](https://accessories.ford.com/bed-products/covers/cover-tonneau-12765.html)
 * [ford 2](https://accessories.ford.com/bed-products/covers/cover-tonneau-12804.html)
 * [ford 3](https://accessories.ford.com/bed-products/covers/cover-tonneau-12802.html)
