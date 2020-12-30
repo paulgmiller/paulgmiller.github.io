@@ -36,7 +36,7 @@ There are alot of these at alot of prices
 [Demon](https://www.amazon.com/Demon-Tailgate-Mountain-Mechanic-Pickups/dp/B071SF4845/ref=sr_1_2?dchild=1&keywords=tailgate%2Bmats%2Bfor%2Bbikes&qid=1607925495&sr=8-2&th=1&psc=1)
 
 ## bed organization
-* https://valhallaoffroad.com/all-products
+* [maps panels](https://valhallaoffroad.com/maps/2019-ford-ranger-4th-gen-short-box-60-maps-panel)
 * [Winching Tie downs](https://www.amazon.com/RHINO-USA-Ratchet-Down-Straps/dp/B07K3QD3JL/ref=sr_1_5?crid=20FGOKAU8OTEQ&dchild=1&keywords=rhino+ratchet+straps&qid=1609365471&sprefix=rhino+ratchet+st%2Caps%2C216&sr=8-5). Home depot had cheaper ones.
 * [2x8 redneck divider](https://www.ranger5g.com/forum/threads/board-across-the-back-of-the-bed.8843/)
 * [ratcheting bar](https://www.amazon.com/Reese-Explore-1390600-Ratcheting-Cargo/dp/B01414B9HI/ref=psdc_347985011_t1_B07VHLSFN2)
