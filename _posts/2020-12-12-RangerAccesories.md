@@ -35,9 +35,11 @@ There are alot of these at alot of prices
 ## Bike mat
 [Demon](https://www.amazon.com/Demon-Tailgate-Mountain-Mechanic-Pickups/dp/B071SF4845/ref=sr_1_2?dchild=1&keywords=tailgate%2Bmats%2Bfor%2Bbikes&qid=1607925495&sr=8-2&th=1&psc=1)
 
-##bed organization
+## bed organization
 * https://valhallaoffroad.com/all-products
 * [Winching Tie downs](https://www.carid.com/straps-tie-downs.html)
+* [2x8 redneck divider](https://www.ranger5g.com/forum/threads/board-across-the-back-of-the-bed.8843/)
+* [ratcheting bar](https://www.amazon.com/Reese-Explore-1390600-Ratcheting-Cargo/dp/B01414B9HI/ref=psdc_347985011_t1_B07VHLSFN2)
 
 ## More rediculous
 * Go Fast camper. 
