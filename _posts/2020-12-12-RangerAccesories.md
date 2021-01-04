@@ -42,6 +42,9 @@ There are alot of these at alot of prices
 * [2x8 redneck divider](https://www.ranger5g.com/forum/threads/board-across-the-back-of-the-bed.8843/)
 * [ratcheting bar](https://www.amazon.com/Reese-Explore-1390600-Ratcheting-Cargo/dp/B01414B9HI/ref=psdc_347985011_t1_B07VHLSFN2)
 
+## Other
+[keypad](https://accessories.ford.com/actuator-asy-kb3z-14a626-b.html#2020/Ranger)
+
 ## More rediculous
 * Go Fast camper. 
 * [Kayak racks](https://www.outsidepursuits.com/best-truck-kayak-rack/#:~:text=Truck%20Kayak%20Rack%20Comparison%20Table%20%20%20,4.6%20%2F%205.0%20%203%20more%20rows%20)
