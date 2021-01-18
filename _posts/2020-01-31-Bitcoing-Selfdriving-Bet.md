@@ -15,3 +15,8 @@ Both of us put a bitcoin in a coinbase vault.
 
 Also here is a hilarous email statement from dec 2014: "Clearly I'm just waiting for it hit it's true bottom before I move 50% of my net worth into bitcoin."
 
+## Update January 32020
+Elliot generously and manfully paid up .3 bitcoin in the first week of january. While I mdade 10k elliot technically made more. 
+
+Tesla was the closest thing but it was too hard to get on their Beta at the time (might have to buy 20-50 model 3's to get one). 
+
