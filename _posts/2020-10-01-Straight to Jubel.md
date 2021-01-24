@@ -18,3 +18,4 @@ tags: [ beer ]
 -  Imperial Yeast Joystick
 ## Notes
 Forgot to buy an ounce of tettengar.
+Way too astringent. Maybe chocolate malt was too much/old? Or too much crystal 150?
