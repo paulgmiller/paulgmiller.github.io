@@ -22,7 +22,6 @@ paul@millernuc:~$ ipfs add
 Welcome to distributed twitter
 added QmZruVCZVLKgMokmgr45CTMsYs8u2v1FgWraR32S1dHbLW QmZruVCZVLKgMokmgr45CTMsYs8u2v1FgWraR32S1dHbLW
 
-```
 paul@millernuc:~$ ipfs add
 prev: QmZruVCZVLKgMokmgr45CTMsYs8u2v1FgWraR32S1dHbLW
 ----
@@ -33,7 +32,7 @@ added QmbX8JVs8jWdLFroZ72y9ydK1aRimJoB3dYYTq55SmVAHR
 
 You can go edit past tweets by creating new versions of every tweet since but it won't remove them. Here I've used a header to point to the previous post. This could obviously be json/yaml to hold other metadata. The content below the ---- I would just store markdown.
 
-To point to the of the linked list you'd [ipns](https://docs.ipfs.io/concepts/ipns/) to point the hash of the key you own to  
+To update new content you'd use [ipns](https://docs.ipfs.io/concepts/ipns/) to point the hash of the key you own to your head post
 
 ```
 paul@millernuc:~$ ipfs name publish --key=wilkes /ipfs/QmbX8JVs8jWdLFroZ72y9ydK1aRimJoB3dYYTq55SmVAHR
@@ -41,8 +40,8 @@ Published to k51qzi5uqu5dl59p3uol4d71qpeapvvtc98napcdfehkavsquau1svu8xia8rs: /ip
 ```
 
 Here's the above 
-https://cloudflare-ipfs.com/ipns/k51qzi5uqu5dl59p3uol4d71qpeapvvtc98napcdfehkavsquau1svu8xia8rs
-https://cloudflare-ipfs.com/ipfs/QmbX8JVs8jWdLFroZ72y9ydK1aRimJoB3dYYTq55SmVAHR
+* https://cloudflare-ipfs.com/ipns/k51qzi5uqu5dl59p3uol4d71qpeapvvtc98napcdfehkavsquau1svu8xia8rs
+* https://cloudflare-ipfs.com/ipfs/QmbX8JVs8jWdLFroZ72y9ydK1aRimJoB3dYYTq55SmVAHR
 
 
 ## Finding People. 
