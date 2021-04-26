@@ -4,7 +4,7 @@ title: Distributed Twitter.
 tags: [ tech ]
 ---
 
-##Update:
+## Update
 Wrote this over here: https://github.com/paulgmiller/zebu
 
 ## Why 
