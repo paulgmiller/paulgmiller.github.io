@@ -8,7 +8,7 @@ tags: [ tech ]
 Wrote this over here: https://github.com/paulgmiller/zebu
 
 ## Why 
-* Should we be concerned with facebook/twitter massively booting people after the 1/6 resurrection, or aws booting Parler?  Maybe not?
+* Should we be concerned with facebook/twitter massively booting people after the 1/6 insurrection, or aws booting Parler?  Maybe not?
 * Should we worry about [Myanmar](https://www.engadget.com/myanmar-internet-instagram-twitter-shutdown-175341979.html) or the [great china firewall](https://www.technologyreview.com/2020/07/08/1004876/the-internet-is-changing-drastically-for-hong-kongs-citizens/#:~:text=The%20fallout:%20Effectively,%20this%20brings%20Hong%20Kong%20into,are%20permitted%20to%20operate%20only%20if%20they%20comply.)? Maybe yes? 
 * I think [futurama](https://theinfosphere.org/Old_Man_Waterfall) covered some of the tradeoffs pretty well.
 
