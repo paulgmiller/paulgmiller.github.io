@@ -88,3 +88,5 @@ For ENS to work you'd need some sort of ethereum light client to go find ipns/ip
 I'm not actually sure how national governments shut down the internet. I'm guessing they mostly block dns, but they could shut down incoming pipes. 
 I am really hoping satallite internet becomes cheap enough that when governments shutdown the pipes people just open connections to the stars and share. 
 
+### other projects
+https://github.com/jamescarlyle/wikid
