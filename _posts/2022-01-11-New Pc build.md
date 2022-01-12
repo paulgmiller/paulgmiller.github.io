@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows Arm
+title: New PC build
 tags: [ tech ]
 ---
 
