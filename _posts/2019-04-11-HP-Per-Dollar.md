@@ -29,6 +29,10 @@ The f-150 ones are dumb because they way over optimize for torque (though so doe
 * F150 v8 = 395 / 37.535 = 10
 * mustang ecoboost = 310 / 26.49 = 11.7
 * mustang v8 = 460 / 34.95 = 13.16
+
+#2022 updates
+* Ford Bronco Sport: 250 / 36.730 = 6.8 
+* Mustang v8: 460 / 37.4 = 12.2
   
 For ranger wins. Of course most of the other options come with way better options at that trim level but whatever. Next excerise would be to divide this by weight in which case the ecosport porbably wins. Also there is no replacement for displacement.
 
