@@ -30,7 +30,7 @@ The f-150 ones are dumb because they way over optimize for torque (though so doe
 * mustang ecoboost = 310 / 26.49 = 11.7
 * mustang v8 = 460 / 34.95 = 13.16
 
-#2022 updates
+### 2022 updates
 * Ford Bronco Sport: 250 / 36.730 = 6.8 
 * Mustang v8: 460 / 37.4 = 12.2
   
