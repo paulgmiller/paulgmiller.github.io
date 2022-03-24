@@ -12,3 +12,4 @@ Ryzen: https://pcpartpicker.com/list/dHt4t8
  REVISED: https://pcpartpicker.com/list/DFGV78
  
 Alder lake: https://pcpartpicker.com/list/fMk8F8
+  Revised: https://pcpartpicker.com/list/3dqWbK
