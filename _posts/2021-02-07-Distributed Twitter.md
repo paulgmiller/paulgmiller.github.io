@@ -6,6 +6,8 @@ tags: [ tech ]
 
 ## Update
 Wrote this over here: https://github.com/paulgmiller/zebu
+Also matrix.org seems to be doing this for chat? 
+https://github.com/ipfs/notes/issues/42#:~:text=The%203rd%20point%20is%20the%20most%20controversial%2C%20as,pubsub%20group%20messaging%3B%20IPFS%20currently%20optimised%20for%20files.
 
 ## Why 
 * Should we be concerned with facebook/twitter massively booting people after the 1/6 insurrection, or aws booting Parler?  Maybe not?
