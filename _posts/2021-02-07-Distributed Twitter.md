@@ -9,6 +9,8 @@ Wrote this over here: https://github.com/paulgmiller/zebu
 
 Also [matrix.org](http://matrix.org) seems to be doing this for chat? [briar](https://briarproject.org/) and [status](https://status.im) too? 
 
+ENS seeing more people do this but the sites are not connected. https://discuss.ens.domains/t/ipfs-nodes-for-pinning-eth-websites/12662
+
 
 ## Why 
 * Should we be concerned with facebook/twitter massively booting people after the 1/6 insurrection, or aws booting Parler?  Maybe not?
