@@ -9,13 +9,18 @@ tags: [ tech ]
 ## Update
 Wrote this over here: https://github.com/paulgmiller/zebu
 
+Been alot of movement in this space.
 Also [matrix.org](http://matrix.org) seems to be doing this for chat? [briar](https://briarproject.org/) and [status](https://status.im) too? 
 
 ENS seeing more people do this but the sites are not connected. https://discuss.ens.domains/t/ipfs-nodes-for-pinning-eth-websites/12662
 
 [Bluesky actually published something](https://github.com/bluesky-social/adx/blob/main/architecture.md). Using [did](https://w3c.github.io/did-core/) of which there is an [ens implementation](https://github.com/veramolabs/did-ens-spec)
 
-Also tbd web node
+Also tbd web node on web5. Ha!
+
+other etheereum identity things
+[sign in with ethereum](https://docs.login.xyz/)
+[erc725](https://erc725alliance.org/)
 
 ## Why 
 * Should we be concerned with facebook/twitter massively booting people after the 1/6 insurrection, or aws booting Parler?  Maybe not?
