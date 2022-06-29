@@ -14,7 +14,7 @@ Also [matrix.org](http://matrix.org) seems to be doing this for chat? [briar](ht
 
 ENS seeing more people do this but the sites are not connected. https://discuss.ens.domains/t/ipfs-nodes-for-pinning-eth-websites/12662
 
-[Bluesky actually published something](https://github.com/bluesky-social/adx/blob/main/architecture.md). Using [did](https://w3c.github.io/did-core/) of which there is an [ens implementation](https://github.com/veramolabs/did-ens-spec)
+[Bluesky actually published something](https://github.com/bluesky-social/adx/blob/main/architecture.md). [more](https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol). Using [did](https://w3c.github.io/did-core/) of which there is an [ens implementation](https://github.com/veramolabs/did-ens-spec)
 
 They did a [competetive landscape too](https://gitlab.com/bluesky-community1/decentralized-ecosystem/-/blob/master/README.md)
 
