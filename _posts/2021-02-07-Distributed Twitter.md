@@ -13,7 +13,7 @@ Also [matrix.org](http://matrix.org) seems to be doing this for chat? [briar](ht
 
 ENS seeing more people do this but the sites are not connected. https://discuss.ens.domains/t/ipfs-nodes-for-pinning-eth-websites/12662
 
-[Bluesky actually published something](https://github.com/bluesky-social/adx/blob/main/architecture.md)
+[Bluesky actually published something](https://github.com/bluesky-social/adx/blob/main/architecture.md). Using [did](https://w3c.github.io/did-core/) of which there is an [ens implementation](https://github.com/veramolabs/did-ens-spec)
 
 Also tbd web node
 
