@@ -13,6 +13,8 @@ Also [matrix.org](http://matrix.org) seems to be doing this for chat? [briar](ht
 
 ENS seeing more people do this but the sites are not connected. https://discuss.ens.domains/t/ipfs-nodes-for-pinning-eth-websites/12662
 
+[Bluesky actually published something](https://github.com/bluesky-social/adx/blob/main/architecture.md)
+
 Also tbd web node
 
 ## Why 
