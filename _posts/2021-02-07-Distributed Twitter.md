@@ -16,6 +16,8 @@ ENS seeing more people do this but the sites are not connected. https://discuss.
 
 [Bluesky actually published something](https://github.com/bluesky-social/adx/blob/main/architecture.md). Using [did](https://w3c.github.io/did-core/) of which there is an [ens implementation](https://github.com/veramolabs/did-ens-spec)
 
+They did a [competetive landscape too](https://gitlab.com/bluesky-community1/decentralized-ecosystem/-/blob/master/README.md)
+
 Also tbd web node on web5. Ha!
 
 other etheereum identity things
