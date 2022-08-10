@@ -5,18 +5,19 @@ author: "Paul Miller"
 tags: [hiking]
 comments: true
 ---
-This is from a section k(?) hike. Stevens to Stehikin.
+
+Plan is to do [Olallie lake](https://www.wta.org/go-hiking/hikes/talapus-and-olallie-lakes) then later [Cascade pass](https://www.wta.org/go-hiking/hikes/cascade-pass) to Stehkin. 
 
 ### Pack 
 [Go lite 50L](http://www.golite.com/Jam-50L-Pack-Unisex-P46812.aspx)
-[Benji Pack]
+[Venture Pal](https://www.amazon.com/dp/B07PWWVRGZ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
 ### Sleep
 - 2 Person Sumberjack tent? (setup )
 - stakes
 - REI Flash Sleeping bag 32. 
-- Benji Sleeping bag
-- 2  Sleeping mats
+- [Coolzon for Benji](https://www.amazon.com/dp/B07PWWVRGZ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+- 2 Sleeping mats?
 ### Cooking 
 -  Stove compatible with brad. 
 -  esbit cubes
@@ -24,11 +25,9 @@ This is from a section k(?) hike. Stevens to Stehikin.
 -  tiny lighter.
 -  spork
 ### Clothes
--  Three pair of compression shorts. 
--  one pair shorts
--  pants/long johns?
--  one long sleeve (warm!) 
--  rain jacket 
+-  Extra pair of underwear
+-  long johns? 
+-  rain jacket? (probably not)
 -  garbage bag.
 ### Feet
 -  2 pairs of socks each
@@ -40,7 +39,6 @@ This is from a section k(?) hike. Stevens to Stehikin.
 - gatorade/koolaid mixes
 ### Cleaning
 - wet naps. 
-- Hand sanitizer
 - detergent. 
 - 1/2 sponge
 - Towel 
