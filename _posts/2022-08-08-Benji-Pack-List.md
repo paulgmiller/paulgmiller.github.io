@@ -9,8 +9,8 @@ comments: true
 Plan is to do [Olallie lake](https://www.wta.org/go-hiking/hikes/talapus-and-olallie-lakes) then later [Cascade pass](https://www.wta.org/go-hiking/hikes/cascade-pass) to Stehkin. 
 
 ### Pack 
-[Go lite 50L](http://www.golite.com/Jam-50L-Pack-Unisex-P46812.aspx)
-[Venture Pal](https://www.amazon.com/dp/B07PWWVRGZ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+- [Go lite 50L](http://www.golite.com/Jam-50L-Pack-Unisex-P46812.aspx)
+- [Venture Pal](https://www.amazon.com/dp/B07PWWVRGZ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
 ### Sleep
 - 2 Person Sumberjack tent? (setup )
@@ -58,3 +58,6 @@ Plan is to do [Olallie lake](https://www.wta.org/go-hiking/hikes/talapus-and-ola
 - Mac and Cheese. 
 - Cuscous
 - oatmeal
+
+Notes. Needed warmer clothes than just long undewear.
+Benji sleeping bag too big and backback doesn't have hip support.
