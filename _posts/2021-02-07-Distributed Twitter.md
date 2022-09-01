@@ -18,11 +18,12 @@ ENS seeing more people do this but the sites are not connected. https://discuss.
 
 They did a [competetive landscape too](https://gitlab.com/bluesky-community1/decentralized-ecosystem/-/blob/master/README.md)
 
-Also tbd web node on web5. Ha!
+zlso tbd web node on web5. Ha!
 
 other etheereum identity things
 [sign in with ethereum](https://docs.login.xyz/)
 [erc725](https://erc725alliance.org/)
+https://dm3.network/
 
 ## Why 
 * Should we be concerned with facebook/twitter massively booting people after the 1/6 insurrection, or aws booting Parler?  Maybe not?
