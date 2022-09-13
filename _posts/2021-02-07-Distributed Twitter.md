@@ -30,6 +30,8 @@ https://en.m.wikipedia.org/wiki/Twister_(software)
 Use metamask to sign an ipns record directly?
 https://github.com/ipfs/js-ipns
 https://github.com/libp2p/specs/blob/master/peer-ids/peer-ids.md#ecdsa
+https://discuss.ipfs.tech/t/ethereum-signining-of-ipns/15173
+
 
 
 ## Why 
