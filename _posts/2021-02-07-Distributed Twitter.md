@@ -18,6 +18,8 @@ ENS seeing more people do this but the sites are not connected. https://discuss.
 
 They did a [competetive landscape too](https://gitlab.com/bluesky-community1/decentralized-ecosystem/-/blob/master/README.md)
 
+Need to check out https://github.com/farcasterxyz/protocol that vitalik mentioned https://vitalik.ca/general/2022/12/05/excited.html
+
 zlso tbd web node on web5. Ha!
 
 other etheereum identity things
