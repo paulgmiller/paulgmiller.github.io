@@ -1,3 +1,13 @@
+---
+layout: post
+title: chatgpt designs kured.
+tags: [ tech ]
+---
+
+Raw test below will summarize latter. 
+
+----
+
 Design a kubernetes application that will reboot nodes when a file appears at /var/run/reboot/required
 
 Here is one possible design for a Kubernetes application that will reboot nodes when a file appears at /var/run/reboot/required:
