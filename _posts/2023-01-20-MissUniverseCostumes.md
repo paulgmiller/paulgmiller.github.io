@@ -1,53 +1,57 @@
 ---
 layout: post
-title: chatgpt designs kured.
+title: miss universe costumes
 tags: [ tech ]
 ---
 
 My wife and I really enjoy watching this display of.... something.
 Here's our list of "winners" 
 
-###Good
-Angola
-ecuador.
+##Good
+### Tier 1
+* Angola
+* ecuador.
 
-Cameroon
-Columbia
-Great Britain
-jamica 
-nepal
+### Tier 2
+* Cameroon
+* columbia
+* Great Britain
+* jamica 
+* nepal
 
-Aruba
-Ghana
-British virgin islands.
-Cambodia
-equitorial ghuneia 
-france?
-iceland
-mexico
-nigeria
+### Tier 3
+* Aruba
+* Ghana
+* British virgin islands.
+* Cambodia
+* equitorial ghuneia 
+* france?
+* iceland
+* mexico
+* nigeria
 
-### Too much 
-Trididad and tobago
-Bahamas
-Guatemala
-argentina 
-belize
-bolivia
-cayman islands
-costa rica
-indonesia
-malaysia 
-netherlands
-panama
+## Too much 
+* Trididad and tobago
+* Bahamas
+* Guatemala
+* argentina 
+* belize
+* bolivia
+* cayman islands
+* costa rica
+* indonesia
+* malaysia 
+* netherlands
+* panama
 
-### laughable.
-Trididad and tobago
-Germany
-Greece
-Italy
-USA ? 
-Venezuela 
+## laughable.
+* Trididad and tobago
+* Germany
+* Greece
+* Italy
+* USA ? 
+* Venezuela 
 
 ###own category
+
 Ukraine
