@@ -36,6 +36,8 @@ https://discuss.ipfs.tech/t/ethereum-signining-of-ipns/15173
 ipns supportting this directly: https://github.com/ipfs/specs/issues/323#issuecomment-1349619822
 ucans: https://ucan.xyz/
 
+https://github.com/nostr-protocol/nostr
+
 
 
 ## Why 
