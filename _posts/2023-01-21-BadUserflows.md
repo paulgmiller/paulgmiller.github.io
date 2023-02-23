@@ -1,4 +1,9 @@
-Bad User flows.
+---
+layout: post
+title: Bad User Flows
+tags: [ tech ]
+---
+
 
 ### Turbo tax
 
