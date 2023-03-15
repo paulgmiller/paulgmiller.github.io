@@ -4,11 +4,11 @@ title: No Direction Home
 tags: [ family, books ]
 ---
 
-I watched No Direction home over a couple of days. It's 4 hours but its great mostly becasue of the other artists you get to see/hear. 
+I watched No Direction home over a couple of days. It's 4 hours but its great mostly because of the other artists you get to see/hear. 
 
-I was reminded never meet your heroes. Liek many artists, athletes, CEOs he's not necessarily a good person. See Michael Jackson, Aaron Rodgers,  Jack Welch.
+I was reminded to never meet your heroes. Like many artists, athletes, CEOs, he's not necessarily a good person. See Michael Jackson, Aaron Rodgers,  Jack Welch.
 
-Dylan flaked on the Suze Rotolo and Joan Baez and the film doesn't dwell on it. He also doen't really feel like he owes anythign to the protest movement, civil rights movement after they pushed him forward. Asked if he'll attend some vietnam protest he responds "nah I'm busy". He just seems be a musical sponge who wants to make music and play with words. 
+Dylan flaked on the Suze Rotolo and Joan Baez and the film doesn't dwell on it. He also doesn't really feel like he owes anything to the protest movement, civil rights movement after they pushed him forward. Asked if he'll attend some vietnam protest he responds "nah I'm busy". He just seems be a musical sponge who wants to make music and play with words. 
 
 On electrifcation it's interesting how much people felt he owed them. Booing at concerts they paid to attend. Never saying "I didn't like that as much", but callign him hypocrite traitor sellout. 
 
