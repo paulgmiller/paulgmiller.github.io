@@ -14,23 +14,28 @@ On electrifcation it's interesting how much people felt he owed them. Booing at 
 
 But the best part is dylan playing with the media.
 
-* A talk show host calls him a genius and dylan almost loses it.
-* reporter: as a person over 30 I know your not into labels but could you label your self.
+* A talk show host calls him a genius and dylan almost loses it laughing.
+* reporter: as a person over 30 I know you're not into labels but could you label your self.
+    Dylan: I'd label myself as well under 30 and trying to stay there as long as I can
+* reporter: "Of the lyrical vineyard you work, how many other artists consider them protest song-writers.
+    <em>dylan thinks for a while </em>.... 134
 
-  Dylan I'd label mywself as well under 30 and trying to stay there as long as I can
-* reporter: "Of the lyrical vineyard you work, how many other artists consider them protest song writers.
+    reporter: 134 about or precisely
 
-  <dylan thinks for a while >.... 134
-  reporter: 134 about or precisely
-  Dylan: it's eiether 134 or 148.
+    Dylan: it's eiether 134 or 148.
 
 * reporter: do you view your self as a beatnik? 
-  dylan: I don't know what yo you think about me? 
-  reporter: I don't know I haven't listed to your songs
-  Dylan: You haven't listed to my songs why the fuck are you asking me questions 
+    dylan: I don't know what yo you think about me? 
+
+    reporter: I don't know I haven't listed to your songs
+
+    Dylan: You haven't listed to my songs why the fuck are you asking me questions 
 
 * reporter: can you suck on your glasses. 
-  <Dylan considers it for a moment>... ah no... do you want to suck on my glasses?
-  <Hands glasses to reporter who proceeds to stick them in his mouth.>
-* <Dylan surronded by people taking is picture proceeds to take out a camera an snap pictures back>
+    
+    <em>Dylan considers it for a moment</em>.. ah no... do you want to suck on my glasses?
+
+    <em>Hands glasses to reporter who proceeds to stick them in his mouth.</em>
+
+* <em>Dylan surronded by people taking is picture proceeds to take out a camera an snap pictures back</em>
 
