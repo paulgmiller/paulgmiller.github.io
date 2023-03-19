@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Concert formulas
-tags: [ family, books ]
+tags: [ family ]
 ---
 
 I have opinions about concerts.

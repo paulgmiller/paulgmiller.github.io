@@ -2,7 +2,7 @@
 layout: post
 title: "Kulturekampf"
 author: "Paul Miller"
-tags: [hiking]
+tags: [work]
 comments: true
 ---
 
