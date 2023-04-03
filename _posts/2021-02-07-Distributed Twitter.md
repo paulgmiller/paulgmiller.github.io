@@ -22,6 +22,9 @@ Need to check out https://github.com/farcasterxyz/protocol that vitalik mentione
 
 zlso tbd web node on web5. Ha!
 
+(ens level2)
+https://docs.ens.domains/dapp-developer-guide/ens-l2-offchain
+
 other etheereum identity things
 [sign in with ethereum](https://docs.login.xyz/)
 [erc725](https://erc725alliance.org/)
