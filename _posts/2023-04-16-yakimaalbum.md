@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yakima sprint
+title: Yakima spring break
 tags: [ family ]
 ---
 
