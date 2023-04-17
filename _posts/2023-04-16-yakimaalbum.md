@@ -7,7 +7,7 @@ tags: [ family ]
 Attempt to  do a public album in jeykll no idea if this will work. But it's sprint break in yakima.
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+<div class="pa-gallery-player-widget" style="width:75%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/BKhiAaagvcmTRZU5A"
   data-title="almost spring yakima"
   data-description="19 new items added to shared album">
