@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yakima spring break
-tags: [ family ]
+tags: [ family, photos ]
 ---
 
 Attempt to  do a public album in jeykll no idea if this will work. But it's sprint break in yakima.
