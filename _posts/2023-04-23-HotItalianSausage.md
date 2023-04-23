@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Pan Sauce
+title: Sage Hot Italian Sausge Pasta
 author: "Paul Miller"
 tags: ["recipes"]
 comments: true
 ---
-Make meat more delicious!
+A blue apron favorite.
 
 ## Indgredients
 * 10 oz Hot Italian Port Sausage
