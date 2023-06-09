@@ -7,7 +7,7 @@ tags: [ family, photos ]
 Got above the clouds for early mt si victory and got family stuck on highway 2 after wallace falls
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+<div class="pa-gallery-player-widget"  style="width:75%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/QGJ7Xfoq6RhM9W7h8"
   data-title="memorial day hikes"
   data-description="6 new items added to shared album">
