@@ -1,7 +1,7 @@
 ---
 layout: post
 title: memeorial day hiking
-tags: [ family, photos ]
+tags: [ family, photos, hiking]
 ---
 
 Got above the clouds for early mt si victory and got family stuck on highway 2 after wallace falls
