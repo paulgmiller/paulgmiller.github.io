@@ -12,7 +12,7 @@ I have opinions about concerts.
                  Ticket Price * Size of Venue * Price of Beer * Artist Ubiquity
 ```
 
-Why? I think he numerator is pretty un objectionable. Lets
+Why? I think he numerator is pretty un objectionable. Lets look at the denominator.
 * Artist Ubiquity is probably the weirdest term. I am using this as a combination of 
     * saturation: is the music everywhere? have you already heard most of this? are there already multiple live albums
     * wealth: long popular artists are generally wealthy. Do you want to feed the hyper wealthy class and give them more power in the industry
