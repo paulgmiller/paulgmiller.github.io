@@ -1,7 +1,7 @@
 ---
 layout: post
 title: miss universe costumes
-tags: [ tech ]
+tags: [ family ]
 ---
 
 My wife and I really enjoy watching this display of.... something.
