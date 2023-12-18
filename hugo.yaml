@@ -1,0 +1,9 @@
+baseURL: https://paulgmiller.github.io
+disablePathToLower: true
+languageCode: en-us
+title: The gyrations of a pointless and uncaring universe
+theme: 'ananke'
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

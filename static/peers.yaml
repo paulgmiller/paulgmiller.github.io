@@ -1,0 +1,19 @@
+phone:
+  PublicKey: 1eUjZq08jSmJMcIZ8BfVaJ88DyIGy5nvIBfAzr0zqy8=
+  AllowedIPs: 10.0.0.10/32
+work:
+  PublicKey: Zh6Nn3sFtJM1Ip+GL14BAJJCXgGktEwdP5XtsV4oyx8=
+  AllowedIPs: 10.0.0.4/32
+home:
+  PublicKey: amMRWDvsLUmNHn52xer2yl/UaAkXnDrd/HxUTRkEGXc=
+  AllowedIPs: 10.0.0.2/32
+cloud:
+  PublicKey: RlH8upANjeAqaRBW89rKKEY9OeYhxSbd8lqdWP8k5EE=
+  AllowedIPs: 10.0.0.1/24
+  Endpoint: 20.59.30.249:46566
+devbox:
+  PublicKey: 42WrrqpvtxNpcdIdqgMp/aR7A3nPjPJGVX/+1yGBtiY=
+  AllowedIPs: 10.0.0.5/32
+laptop:
+  PublicKey: iuq3+g28ydEh5zixjirYErDs4D8clDQiQ+BCda+hxWI=
+  AllowedIPs: 10.0.0.3/32
