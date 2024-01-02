@@ -21,14 +21,16 @@ My first cruise ever.  An incomplete pro/con list after the photos.
 
 
 ## Pros: 
-Jamaica
-Coconut drink
-Water slide
-Ice rink
+* Jamaica
+* Coconut drink
+* Water slides
+* Ice rink show.
+* Amazing sauna!
 
 ## Cons: 
-Too much food.
-Pool small
-Miami weather 
-Too much casino
-Beer selection
+* Too much food.
+* Pool too small
+* Miami weather
+* Nassau closed bussiness and murderous waves. 
+* Too much casino
+* Beer selection terrible
