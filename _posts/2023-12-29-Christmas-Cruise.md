@@ -32,3 +32,4 @@ Pool small
 Miami weather 
 Too much casino
 Beer selection
+got covid.
