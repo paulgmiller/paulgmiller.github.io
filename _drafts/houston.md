@@ -1,46 +1,42 @@
 ### **Houston Vacation Itinerary (April 7th - April 11th)**
 
-#### **Day 1: April 7th - Arrival and Local Exploration**
+#### **Day 1: April 7th - Arrival**
 
-- **Morning:**
-  - Arrival and check-in at your accommodation.
-  - Relax and get settled in.
-- **Afternoon:**
-  - Visit the **[Children's Museum Houston](https://www.cmhouston.org/)** - A great start for the kids to enjoy interactive exhibits.
 - **Evening:**
-  - Dinner at a family-friendly restaurant.
-  - Explore a local ice house like **[West Alabama Ice House](http://www.westalabamaicehouse.com/)** for a casual outdoor evening.
+  - Arrival at Houston airport at 8:34 PM.
+  - Check-in at your accommodation and unwind after the flight.
 
 #### **Day 2: April 8th - Eclipse Viewing and Space Center Houston**
 
-- **Morning to Afternoon:**
-  - Head towards the area west of Houston for the best eclipse viewing experience or stay at **[Space Center Houston](https://spacecenter.org/)** to view the partial eclipse. Ensure to have eclipse glasses for safe viewing.
-- **Late Afternoon:**
-  - Explore Space Center Houston, the official visitor center of NASA Johnson Space Center.
+- **Morning:**
+  - Depending on your interest, you can choose to view the eclipse west of Houston or from Space Center Houston for a partial view. Be prepared with eclipse glasses.
+- **Afternoon:**
+  - Explore **[Space Center Houston](https://spacecenter.org/)**, a must-visit for space enthusiasts and an educational experience for all ages.
 - **Evening:**
-  - Return to Houston and relax or explore local dining options.
+  - Return to Houston. Dinner at a local restaurant or explore downtown Houston.
 
-#### **Day 3: April 9th - Museum District and Brewery Visit**
+#### **Day 3: April 9th - Museums and Rodeo Experience**
 
 - **Morning:**
-  - Visit the **[Houston Museum of Natural Science](https://www.hmns.org/)** - Offers a variety of exhibits that the whole family can enjoy.
+  - Visit the **[Houston Museum of Natural Science](https://www.hmns.org/)**.
 - **Afternoon:**
+  - Head to the **[Houston Livestock Show and Rodeo](https://www.rodeohouston.com/)** (if in season) or another local rodeo event for an authentic Texas experience.
+- **Evening:**
+  - Enjoy a BBQ dinner at **[Killen's BBQ](https://www.killensbarbecue.com/)**, renowned for its Texas-style barbecue.
+
+#### **Day 4: April 10th - Museum District and Brewery**
+
+- **Morning:**
   - Explore the **[Museum of Fine Arts, Houston](https://www.mfah.org/)**.
-  - Adults can take turns visiting a local brewery like **[Saint Arnold Brewing Company](https://www.saintarnold.com/)**, Houston's oldest craft brewery, while others can enjoy nearby parks with the kids.
+- **Afternoon:**
+  - Visit **[Saint Arnold Brewing Company](https://www.saintarnold.com/)** for a brewery tour and tasting. Alternately, visit a park or another child-friendly attraction.
 - **Evening:**
-  - Dinner at a restaurant that caters to both adults and children.
+  - Leisurely dinner and pack for departure.
 
-#### **Day 4: April 10th - Local Exploration and Relaxation**
+#### **Day 5: April 11th - Departure**
 
-- **Morning to Afternoon:**
-  - Explore local attractions, parks, or additional museums depending on group preferences.
-- **Evening:**
-  - Pack and prepare for departure the next day or enjoy a leisurely evening.
-
-#### **Day 5: April 11th - Beach Day and Departure**
-
-- **Morning to Afternoon:**
-  - Head to **[Galveston Beach](https://www.visitgalveston.com/beaches/)** for a relaxing day by the sea.
-  - Enjoy seaside activities and maybe a picnic lunch.
-- **Late Afternoon:**
-  - Return to Houston and prepare for departure.
+- **Early Morning:**
+  - Check out from your accommodation.
+  - Depending on your preferences and available time, enjoy a brief morning walk or a quick visit to a local cafe.
+- **Morning:**
+  - Depart for the airport. Flight at 7:45 AM.
