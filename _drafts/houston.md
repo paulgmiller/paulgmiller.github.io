@@ -31,7 +31,7 @@
 - **Afternoon:**
   - Relax and enjoy the local vibe at an ice house. A recommended spot is **[West Alabama Ice House](http://www.westalabamaicehouse.com/)**, which is family-friendly during the day.
 - **Evening:**
-  - Leisurely dinner and pack for departure.
+  - pizza at Kathy's house
 
 #### **Day 5: April 11th - Hermann Park and Departure**
 
