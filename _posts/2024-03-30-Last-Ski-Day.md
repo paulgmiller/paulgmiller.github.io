@@ -5,7 +5,7 @@ tags: [ family, photos ]
 ---
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+<div class="pa-gallery-player-widget" style="width:75%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/bQpmNDWg1ikN7sibA"
   data-title="Last Day of Ski 2024"
   data-description="8 new items added to shared album">
