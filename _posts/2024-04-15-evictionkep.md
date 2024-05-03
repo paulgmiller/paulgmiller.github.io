@@ -32,7 +32,7 @@ Events are much noisier. I theory deployment controller could watch events but I
 Since its based on labels the knowing does this pdb just apply to this deployment is hard. 
 
 
-## This may also help with not dropping traffic 
+### This may also help with not dropping traffic 
 [Endpoints controller tries to remove terminating pods](https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/)
 but again if you're current replicas are handling all the traffic they can handle (aggressive hpa settings or jsut currently running hot) then you may need surged nodes to be ready to  handle existing traffic. 
 
