@@ -13,6 +13,8 @@ Value of a developer is features / (lines of code + number of dependenceis)
 * Config flags/flighting while normally great can baloon code size if not cleaned aggressively.
 * Yagni is importnant. Arictect Astronaughts not needed. Refactor to be general when you have > 2 users of code.
 * Beware the young competent developer who goes and creates a whole new system from scratch
-* microservices really need to have little boiler plate. This is part of the appeal of lambda/functions. 
+* microservices really need to have little boiler plate. This is part of the appeal of lambda/functions.
+
+update:a brief coworker shares the same https://dev.to/fermyon/it-took-me-20-years-to-learn-this-lesson-about-dev-1mep
 
 
