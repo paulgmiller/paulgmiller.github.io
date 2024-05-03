@@ -7,7 +7,7 @@ tags: [ tech ]
 Need to actually fit thisin this format
 https://github.com/kubernetes/enhancements?tab=readme-ov-file#is-my-thing-an-enhancement
 
-##Problem
+## Problem
 THere are often situtions where users are unwilling to overprovision deployments. But they are willing to surge pods for deployments to avoid unncessary disruptions. However there is no surge during maitnance events so that either creates downtime or 
 
 The simplest example of this is a replica count of 1 and max surge 1 on a deployment but also a Pod Distription Budge with a MinAvailable:1. I can now never do mainence on the node in question. But this app is different from one who says maxunavailble : 0 indicating it needs special handling its max surge already shows intention it can be disrupted as long as a new pod is surged in first. 
@@ -16,7 +16,7 @@ Why would someone do this? Why not just overprovision?  Well they may be offerin
 
 You could also have cases where you have 2 replicas but one of them is unready for reasons specific to it (was hit by a ramdom cosmic ray) and in that case the its actually better to surge in new pods to replace the unready one. 
 
-##Proposal
+## Proposal
 
 Eviction attempts/failures actually recorded to pods as a status field.  (they are already events see below)
 Then deployment controller has leeway to surge a new pods for each pod it sees with failed evictions.
