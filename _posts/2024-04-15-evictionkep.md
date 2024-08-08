@@ -3,6 +3,7 @@ layout: post
 title: Evictions KEP 
 tags: [ tech ]
 ---
+Update: Had an intern try this: https://github.com/javier090/k8s-pdb-autoscaler
 
 Need to actually fit thisin this format
 https://github.com/kubernetes/enhancements?tab=readme-ov-file#is-my-thing-an-enhancement
