@@ -2,7 +2,7 @@
 layout: post
 title: "Lesser Known Romans"
 author: "Paul Miller"
-tags: ["reading", "history"]
+tags: ["books", "history"]
 comments: false
 ---
 
