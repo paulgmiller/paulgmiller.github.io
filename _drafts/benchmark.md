@@ -29,3 +29,21 @@ go build ./...
 31.69s system 
 826% cpu 
 39.171 total
+
+## With go clean --cache and go build -a 
+pmiller@millercloud4 [06:06:53] [~/aks-rp6/resourceprovider/server] [pmiller/cvebreakdown]
+-> % time go build -a ./...
+go build -a ./...  
+958.86s user
+76.35s system 
+1062% cpu 
+1:37.42 total
+
+pmiller@millerarmcloud [06:07:10] [~/aks-rp/resourceprovider/server] [master]
+-> % time go build -a ./...
+go build -a ./...  
+630.92s user 
+70.19s system 
+940% cpu 
+1:14.52 total
+
