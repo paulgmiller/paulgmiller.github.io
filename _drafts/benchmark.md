@@ -11,3 +11,11 @@ pmiller@millerbuntu:~/aks-rp/resourceprovider/server$ time go build ./...
 real    2m40.956s
 user    20m7.778s
 sys     4m51.363s
+
+
+millerarmcloud
+-> % time go build ./...
+go build ./...  
+629.53s user 
+68.39s system 918% 
+cpu 1:16.00 total
