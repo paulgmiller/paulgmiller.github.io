@@ -47,3 +47,10 @@ go build -a ./...
 940% cpu 
 1:14.52 total
 
+##with 32 arm cores
+
+go build -a ./...  660.47s user 81.14s system 734% cpu 1:41.03 total
+Trying again to see if cahing was in play
+go build -a ./...  662.80s user 80.33s system 1233% cpu 1:00.25 total
+
+
