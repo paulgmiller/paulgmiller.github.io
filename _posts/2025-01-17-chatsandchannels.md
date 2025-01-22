@@ -33,7 +33,8 @@ Chats also will try and cross topics over time and become even more confused. (t
 
 1. Knowing where the right channel is. 
 1. Notifications
-1. Cross org work.   
+1. Cross org work.
+1. Meetigns goto chats not channels. 
 1. NO way to turn a chat into a thread. 
 
 ## Ways to make this better.
