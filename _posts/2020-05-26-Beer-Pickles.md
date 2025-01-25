@@ -21,20 +21,20 @@ Throw everythign but the cucumber and dill into pan. Simmer at boil for 3 minute
 
 
 *Update 2025*
-These habenero pickles were very popular. 
-1 cup beer (light or medium-bodied)
-1 cup distilled white vinegar
-1 tbsp sugar (optional, balances the beer’s bitterness)
-1 tbsp salt (non-iodized)
+These [habenero pickles](https://chatgpt.com/share/67942e6f-5730-8009-a2c7-4d55cbef8b14) were very popular. 
+* 1 cup beer (light or medium-bodied)
+* 1 cup distilled white vinegar
+* 1 tbsp sugar (optional, balances the beer’s bitterness)
+*1 tbsp salt (non-iodized)
 
 heat till disolved by not boiling?
-10-12 small cucumbers (preferably pickling cucumbers or Persian cucumbers, 3-4 inches long)
-3-4 fresh habanero peppers, left whole or sliced for more spice infusion
-2 cloves garlic, whole
-1/2 tsp black peppercorns
-1/2 tsp mustard seeds
-1/2 tsp dill seeds
- https://chatgpt.com/share/67942e6f-5730-8009-a2c7-4d55cbef8b14
+* 10-12 small cucumbers (preferably pickling cucumbers or Persian cucumbers, 3-4 inches long)
+* 3-4 fresh habanero peppers, left whole or sliced for more spice infusion
+* 2 cloves garlic, whole
+* 1/2 tsp black peppercorns
+* 1/2 tsp mustard seeds
+* 1/2 tsp dill seeds
+ 
 I didn't have mustard seeds or dill seeds so I did corriander, dill weed and celery salt (proportions unknown)
  
 
