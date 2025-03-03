@@ -3,6 +3,7 @@
 
 import logging
 import re
+import sys
 
 import requests
 
@@ -17,6 +18,14 @@ def get_photos_from_html(html):
     # first and last elements are the album cover
     return re.findall(REGEX, html)[1:-1]
 
+# todo cache all locally
+header = """<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> <!-- 33 KB -->
+<!-- fotorama.css & fotorama.js. -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet"> <!-- 3 KB -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js></script> <!-- 16 KB -->
+
+<!-- 2. Add images to <div class="fotorama"></div>. -->
+<div class="fotorama">"""
 
 def get_photo_urls(album_url):
     logger.info('Scraping Google Photos album at: {}'.format(album_url))
@@ -28,14 +37,21 @@ def get_photo_urls(album_url):
         photo_urls = [url + "=s0" for url in photo_urls]
         if not len(photo_urls):
             raise Exception('No photos found.')
-        logger.info("# of images: {}".format(len(photo_urls)))
-
         photo_urls.reverse()  # makes the order appear the way it does on the website
 
+        #logger.info("# of images: {}".format(len(photo_urls)))
+        
+        
         return photo_urls
     except Exception as err:
         logger.error('Google Photos scraping failed:\n{}'.format(str(err)))
     return []
     
 if __name__ == "__main__":
-  print(get_photo_urls('https://photos.app.goo.gl/NH5ew4L5zAdgp8nh8'))
+# examplle 'https://photos.app.goo.gl/NH5ew4L5zAdgp8nh8'
+  photo_urls = get_photo_urls( sys.argv[1])
+  print(header)
+  for url in photo_urls:
+    print('    <img src="{}">'.format(url))
+  print("</div>")
+        
