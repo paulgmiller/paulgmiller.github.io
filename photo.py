@@ -19,12 +19,10 @@ def get_photos_from_html(html):
     return re.findall(REGEX, html)[1:-1]
 
 # todo cache all locally
-header = """<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> <!-- 33 KB -->
-<!-- fotorama.css & fotorama.js. -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet"> <!-- 3 KB -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js></script> <!-- 16 KB -->
+header = """<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" /> 
+<link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" />
 
-<!-- 2. Add images to <div class="fotorama"></div>. -->
 <div class="fotorama">"""
 
 def get_photo_urls(album_url):
@@ -38,7 +36,7 @@ def get_photo_urls(album_url):
         if not len(photo_urls):
             raise Exception('No photos found.')
         photo_urls.reverse()  # makes the order appear the way it does on the website
-
+        photo_urls = set(photo_urls)
         #logger.info("# of images: {}".format(len(photo_urls)))
         
         
