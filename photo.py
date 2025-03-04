@@ -19,6 +19,7 @@ def get_photos_from_html(html):
     return re.findall(REGEX, html)[1:-1]
 
 # todo cache all locally
+# more fun options here https://fotorama.io/customize/
 header = """<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" ></script>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
@@ -46,7 +47,7 @@ def get_photo_urls(album_url):
     return []
     
 if __name__ == "__main__":
-# examplle 'https://photos.app.goo.gl/NH5ew4L5zAdgp8nh8'
+  # example 'https://photos.app.goo.gl/NH5ew4L5zAdgp8nh8'
   photo_urls = get_photo_urls( sys.argv[1])
   print(header)
   print("    <!--"+ sys.argv[1] +"-->")
