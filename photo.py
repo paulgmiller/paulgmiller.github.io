@@ -23,7 +23,7 @@ header = """<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jqu
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
 
-<div class="fotorama">"""
+<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native">"""
 
 def get_photo_urls(album_url):
     logger.info('Scraping Google Photos album at: {}'.format(album_url))
@@ -49,6 +49,7 @@ if __name__ == "__main__":
 # examplle 'https://photos.app.goo.gl/NH5ew4L5zAdgp8nh8'
   photo_urls = get_photo_urls( sys.argv[1])
   print(header)
+  print("    <!--"+ sys.argv[1] +"-->")
   for url in photo_urls:
     print('    <img src="{}">'.format(url))
   print("</div>")
