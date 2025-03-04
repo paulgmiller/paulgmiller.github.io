@@ -5,20 +5,20 @@ tags: [ family, photos ]
 ---
 My first cruise ever.  An incomplete pro/con list after the photos.
 
-<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:640px; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/BuhKDKLxpzjb9VjJA"
-  data-title="Christmas cruise"
-  data-description="7 new items added to shared album">
-  <object data="https://lh3.googleusercontent.com/pw/ABLVV87Gk9Xpc-FRTAWZFKm4AlBe2yB0oyHVMNWp-PDmQL015D6BVNEsmR8LDVbAKQesegIfJrTMxez4Dwt9hEEo_YN28kERGV2skWzWVSL_aTgOffcMs8Yu=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/ABLVV86aKv8cWqmkh1buSPgPBAkGSdKfo7MyJ_gdhJ6CYcoeRu7eSiRcfSs_YsgytwSGt2JK4quuAixEOWa-N5DsxUrggMt93q1QZ9uzYYooIGBYAVQcN2DS=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/ABLVV87wkOpWDbgIpwMkzOoNC5lplfJZodBhsDqSBiylWO1JEGvX5zRbIcNzqlfVdqeOpHiMRSrxWCPGoyLlNiVHWKOjS6J2qeDF59yFBGJn-y7Z4WPYZT5E=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/ABLVV87V1rbBdnTWAyjHDYupl7avQ170tMA3a9vEY10UyesWUO32-gn3PDfCx4s_hP73ra8UwnGHOsSprGg9JZ6hDpcogCSoeCEj3IzRkWohV4HicOVNhwPv=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/ABLVV86NgWPMIC3dolpYu4gcHyVvgSqyWXfQJUXy3Ez7Vfn9j4-gQjqTrQcCVMc6XdfMMmEuQSRXrjotA73D0WoTbkjaQGcfXCbbPfWpBgHhSb-fGs6PCcGC=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/ABLVV86L7FCB2pjJmvJsQuRFeD67U4EkRIIduifSZEQIx6gtcqKcCgNtd5ltkdBDi4vFUrK-xdtITxporrm66jM4gPDrTdAZiWWVC6D-MRhOK6WOi3jONu9w=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/ABLVV87vFjT6jVruekS2he2Y_HAHBw0mK60L48apOK6BzCx76BNAxR22SOsElE48sLOb0LvhMVoRu3q8oJqAMgWYwlrevMEXV8s2s-gtuRhJGAVlMths25zx=w1920-h1080"></object>
-</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" ></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
 
+<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native">
+    <!--https://photos.app.goo.gl/BuhKDKLxpzjb9VjJA-->
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczP8-G1DSBOLCRJpcAMDoVJg3hjN94xl1EebbDqw0pyJwzO7xoo7OQvaYcvewxwCxL9NkNvZUcQKSyT8J2XkC_aRJB36L2VWQLl_J61WDPwqovmh6Bvp=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczNhtZGNXdqRoJT-HUArxofJKTRAOGkFpByI2VHzYKLV9RT-4prFY92bSUe-L_lwdtGmDkAQd6_rm-GKr1B4KMCfkn7c7RgEnm6msUY83lBtbDvtAsVs=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczPavHrl-UdEO_-8YjRh3QEMKZpG2O20SleRb8O8iDM1AlVk-MjPTlrOLKBEIiGf3esJAdBKlx5Lzm5ZvSQMgIiETnkqhN3P2Oz9Ekn0LiHAOrdAGO-C=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczPPhe-O7h3_XSGHYp7uj6yCgA1O3kZ0tq15-IFplJpZkbs25WGrrtk_nsAVkae3wEVEtVRBRJwR1pZE3t0ukaqIq8m9wNmmp2OK40JqNgHG0XanR5Ms=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczMbhpbTgfjdKrC-NFNn0M-EE_TDesgqkNPS9RAm58ArTDH2WicgM0owkY6YrW2dBgSq1Rsz5bkyAKV5Q6Cq5DX0qeoC2opuVhc5FkhPDsHlkDpOsSx3=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczNhtIjJGBqSXBvxec9J8tcr4lB5KfwyU85Xb7QHGTcHngy8sSndcNEaIcxHh-BhB_gKRvxtHgL9tbSg6LBzA-LTnYkjywl_jY8rnNLxNCQr5xwLo_Pb=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczNN2p6uzZ3KffvjDEkV_n6NN3QJFIbv42y35gQbRDeQbBis-Zi8SqABOvXehTUNvJ4QaCqe4hbRMYL0ERAkKgdHn-rQIxJJlKah00lvf6bwgLwI-v1j=s0">
+</div>
 
 ## Pros: 
 * Jamaica

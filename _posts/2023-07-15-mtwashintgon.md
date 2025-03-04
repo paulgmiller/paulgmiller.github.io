@@ -5,17 +5,18 @@ tags: [ family, photos ]
 ---
 
 Not Mt Granite yet but moving that direction.
-<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:640px; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/mL5twL3NLhf4gLCx8"
-  data-title="Mt washington"
-  data-description="8 new items added to shared album">
-  <object data="https://lh3.googleusercontent.com/pw/AIL4fc8YxZ2vNfVZxgw2HtYy9z5RoZV0tGKpZtcSIFyuI_xyBHkd8nL7ReAQEaqf1waEGUSbaGXBNpmR3_fOyHA2BhTZNDD15TOqVx6gmoHogbOMWSHTmZjS=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AIL4fc_P3Uf9skmR0zsprlFwI3D2VRIyLzCsFaGTIHkHUGWO9JpQr9a4joY-UwGnxcOk7qS262PtIdLul-Xj1aI6D775eSlW7L5FdABAqPsTgCss9XJzI_hC=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AIL4fc_-Vve-tRuiF3TCJOJYbIHJ57UaLoMe8slRvyvAENtg4qxcgVkKtQA0b-flrkJQH3UY-rlvjmk98vtpMrh5LtpswfX7zngEQJIhVpHMWa6KPoaas4qu=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AIL4fc-Ja18rV1d1tkmPVhQuEo2ksgStiaPdX1FEZC9VMUhmaecXL09svHhMM_ofwvNE84AhuGN2WYLrWBfQXwAtnHBNEPx3-xzh1ay3YnefYgNOSyLf5H0A=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AIL4fc_j07UdR1fJ0aCZGEHkg7gNlTezwloCBADN4d9ZU3HMkW-TZtj6hBNnsIuabzWfNPxJmWs4hvRnohk9pyBwuA90rU19Hy-2CNZ1WQMa_fEiO6Cjh87P=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AIL4fc-walmI70UJQxrkGKaKlc0UYaoaywS0tqXc8oeY2cbamD-TL_plm1tZ3NEaSUZbYd0HuoQ9TVzBK5fBTEK__lA47UrUJi-sp5TPozpBFdFFgWzg8Zra=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AIL4fc93wOCfp15hgjf5dGddVETBDAsad-V0n6p4AcVTHQYOdPTMpQ23otC6QpD5n5rYcADR3VG8ddefMFd12XihXogGJEbQiiwppadhFg-UkqAc56qdXUAW=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AIL4fc-rYm9q57ZbVb4o7q5e7P1naIRDFmt-r270MphzIOK2wG2LT5d_1nX2ECcLB9hlxPv-zTpIZCWdTIGNVRBxVIRUEoBGFN6gUua5UdH0DYzlTDn8tj-4=w1920-h1080"></object>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" ></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
+
+<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native">
+    <!--https://photos.app.goo.gl/mL5twL3NLhf4gLCx8-->
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczN1bBBMltsJeGPdOaWtRAYyCPLLJHe56O3l5k9ojjmsqcOQ7ZfZ9bUNuwWJ5rJyyh1e_hpuYPAuyY697SoytLs5cansP24rS40CgsXBrokMyK5SOkCb=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczOLizK-N0nVdB_dP4xvZYUQlMZPg3Vwr9TUFmGRxl8o1AJDg36Xr-k7a46dkBIyTk29DZEYlkafiy22cBBJNd3TU9bgOgg_mGnAVbY7bHE57bUy7CHK=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczOm2gzaiP4bfagvR9giGOPOO0ArF7jJvtT8PQkF4V0g-XCAzdVOPC_dBT3qfskq9zHO9ZE2U0BIekvpcW74wEB3Ah5uiqjpgNNJaTRuj_78nTGT37HG=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczMFlD5apbPg37KEGPNGEIQt8ySESTx__jaNIDfs1XtoWPem05lCagX3ikzfb9bQJ9GuoqRKcktVoTW8avgQQynmBE23uRv80ee29tQBpdKcp0UkaCOZ=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczPV_yu3zjm74Js0c4cFPG0dsPRrpAktExBctrwHSlun_Zg5yNsl06ZbZhrh8EM2qDJKYl5mWIqLgl-1iNdGb_-3g1e06xnEHfGBIlv2QDbPxFEu7Kuu=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczM0y6w496d2TUJupY8ye7o1QTqWwOu5bBkIJ-D15TuxYVgDuXpxc9u6NAttmVt4V_5AJno7Ck6OlJIEnIThE4C2j-qMxoi6emrdUzJix2yK1HGiSNFL=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczO08DgYdxccEmrDS4KLnWwlvnGpmT4H-icyyZajvv2pZn_TAcwjG8nH1g0ObcSd66FwYdqgfLeb6ZQ5Y8Q5tsbIjK1jCsfv_CieNmOqkG_9S_aWASXk=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczNo0opEa_HXpb87gr2dMOf31Ue3cgniXUTlFdMxwi54m3Pxpkw3DG6jI7MjlDhTueIvlQ76ZpTCKv6h3lA-_nZ1l1rnTp_WzWR5V1j3J7DGOy-wMujw=s0">
 </div>

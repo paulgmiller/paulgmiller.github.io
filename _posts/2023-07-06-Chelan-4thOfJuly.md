@@ -7,47 +7,41 @@ tags: [ family, photos ]
 Summer is off to a good start
 
 
-<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:640px; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/yyg9PKRaR8ZQvGHD8"
-  data-title="lake tallapus"
-  data-description="5 new items added to shared album">
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaW3jqLMsVjlnwRUzjjTkp-CnB84qfwCz3HrvhMRH7MndgciMr4t-7QdClUBZwyW6N9Dinf3L9H4jnu5mW5ZrQbLzs9Uuxw5UVYAp6JMDOa2yujKJIxA=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaWQebK19oX-vrppO8q0LNYKp50aWB3O4AwY6-QSfYIYUtCTvCJHFo6w6iDjcErV5_ZO0pvsYul6BuQHhmtWiry0SoXE_fCfEdgSBqWybyJBxfkDRR6H=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaVxopFXLOoMU4wYbK7JdLz5_PsPDo3O3FP3v7stVsAH3MyEgXNUS_4FJIdDidwINXo-xs2MgvKmdVzPUkdcs2KoDEROwKM-Or3pgqF43sa9uJufIu_T=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaUDzNgB8JPIm7pIlY4Nq48I16CTPwi-bMlJdfVi32ZnQAS2-xphUVSttxF46l3huRbllv9cSPAGKi-XMNufLsi-gzch-Tj9sKWbeg_YiQQy4-gUQvtO=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaWG0Q-wPyyif4-65xkJGLQ6gWi6drtzZgcQxoaEZCksuMKhddWEztKzxTVRh0b5TpUEalRT-PCMRfnxm8ZloriLIJp3vAWxVEPb2P8FHAzx0u7pATU_=w1920-h1080"></object>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" ></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
+
+<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native">
+    <!--https://photos.app.goo.gl/yyg9PKRaR8ZQvGHD8-->
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczN34V4dF7TauCFYr8Cd1FnxswHwMa8IGKUy3DNy76iUg-Cm2RL6Y7kdgikbInug_5NeFxP7hmwAlifKYgTPRHEETnrKrwqSI5hznmCWBrujszk4XQde=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczNm43KfW8odSn6EXKLT8Fzx_ZK2CRNy67MnTp_GDt511F4SIWt1PPddNUX7SXbgsKRK5Rw5bABYzZByUHfKaRtyqJ11zsHn3ZF7s2mENOntcxm_w2eC=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczMR8hktxNiKVE4o2X-BXk929MmuFDtJC_81zrjgWIbc9miiKrNVzxDc06EtL7XGVpGkyq2sy78VEJwygy88hskR-89YDN_ZMAg24PnAeM0xF9XQHtE9=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczNYc0XxG3AXlQmgS5DkBzDMkkuqcD_DxUM5C-DUogOLYx9kQ6aNWLGfdvAn6sS3XeeAgc1VJgpYYsk_penoKz_IfLhjZ6Emwj7ekWsQxIumSZi9GzOn=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczMnsZPg21ErUH0oE86sG0TNBB3Go5UwAtHkEyUURsC2nKscrh6qeFKhdYRxUCWOeoITn_PDFIJRgalPXuzu_lQOcMmmtb5pp85LczOl4tR5WAtpcLbU=s0">
 </div>
 
 Tiger 2 has nice views since they logged it off.
-<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:640px; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/74hC4cUSxngsjxs46"
-  data-title="Tiger #2"
-  data-description="6 new items added to shared album">
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaWmEKqt4-M8q_3OlRppi3Mz4FE6QIbnjWqqwlsiRMmJTbSMoRGr3S-HZ7uJ8_CQ13BWMZxeR7TdXOWHUk3po7_UhE76y6WFm1E9x1W34HTNWcLCaKYd=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaU5x8aTGmUsc4D3ASV6ASoPZbh0Bx5WOOjlVDneegOVHDmKJCTL5mpaLpcrqtIPYEKUiP0YSilWUWxOc0B9qpz73mV_WnoFY32exxroIZveNIQ5Cmii=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaXp7wuZmvzkg8mLhOGkt4EOksHQRN-yJGMhjnUsxWF_08aLZSkNa26OHGvL1ewpKaOqGJeV8-_4ZBISoaivtRq7aVp0Ygomb_SRJ2HA8y67wIEnkAKj=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaVioSutCrA3KrO_UTHOYSklandb4SBLqIQh0gr0wi4WX2IgNvUkCOrisN1crx7NWtoWsWgdCpuUIFt_5mW3iNHHQulKFQarrAu0UgYQs6UMlYwSF_e9=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaWeiCjc7PE8HOh1HyJcZk8vI9_5GBvtbGiDydJKFg28N4zfS-1Te6YZHxtohKWzxU4UpN9FWwgdUqICdDtUMRjRg0RR-mLXkeGEgg1yPet8hyMs3RPU=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaXinMlVT3UMB7B2y2LC6QmZ4d-pAwZ-rcli_26SLmODctUfclW9pjjqYMwv7w9Gl1ha9dUqSTwAKN0-BIqIySu8dcB5glwujqR84KqZTBYxJKv3W0AP=w1920-h1080"></object>
+<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native">
+    <!--https://photos.app.goo.gl/74hC4cUSxngsjxs46-->
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczPcYOVIzvYrWU3ZjpTZHPolW3JcB_fFOXKiXniQQcqUMzbsG8jjSYMVX4vqmMPvMl5hS3YHZAtpsROaA_DjGpzlLTIGWGSkQdh9NVmm9Kn0ftAfh-fi=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczO8pII-lgrv5L4xnKF0qOAGV5UL-brgbY5UHBwvKUiUSDzA4o46l8WidEIZEDgAeHJmXdljBS9xllJO4nbDROuKxO9j6llRxxxe2QLv_sNlf2J8qOqR=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczOMTf2iFfBtb7qb2nNtwm0PdOIDZiLc9G4gafahOZqkH2syCJWtmiqH4AqvuuW-7bq4wkd9CrcOc-c9bPSoQcKUt_Da75Y1s3guXyi9k3JWRsMWiUxE=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczPcKOCOsTFawQjv76wX8KtxBevE1pSjKFUiRG8xRESvEJOTCAHl3b3ZZJXYCAB1YH2x_TPOHiwD6Ksc8pmNwK_PoI7tcvm7OWutXXlSV_yZlKxDtraC=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczMw4IKmSkONGw_68hbw00x4e0O4BntmCAF7VA7N2m7lC0kPvjULbnwM58rwsc6i8gxJlyfdVWkmMSsZqiyswz-Wr3na0ymzHEg0WkMgTPWiuZ46orXC=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczMtYVUNSCTRxH7BZQergIcaiRxYNIr0ebnl78Tbc7aEA4XLgsFmMZIdhNIFQ6t3wOt0mITT_7tRoEUzl8jlhxmQKTwlglhkbcAXtMPMiSGlmx_NQWc5=s0">
 </div>
-
 And friends and wine
 
-<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/EETBGgLRiq4N1G8i7"
-  data-title="Chelan"
-  data-description="9 new items added to shared album">
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaVZA-9wMy5Cnzyx_PAz4Q-NCo3FQ1aRHCCy2AJ_cKK838zCzSGymU5Z3JCXp6IOdFVdtSPnNNUMAsSD9hHG5eYbhxuAEj2ADEYw2GQMrLz73o7g2rKU=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaU32RF6ktCl9L1feJZokUtEP3lzMAmtb3nONGqukKVUyjSYw583UEBOw_y0b9OklJquHnK-K1OrX8_RGdBb2LyXQ5WMr-GFV__kmVqPIiPrCH61mB3T=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaXPjJwl91R6ZtUul-8iRs3_nQUJPIauBnLwMZkQz2s7w-BqLiAflFvG_gqwHXJEIsfaJgcU3UwytG1_JX0AF_8ATRwdL2q0-T7wF8pmkfJCF6y2y3Dc=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaWAZ7mZvsj_LT_PbwmRuYyUaayegvV8bcMRXf0Awowxcz8GUwVHbz_fp4EWT5yeT8_K_mYm-ng_G7PzozcEBfKtCx378cr4RA7tAPkCLs0tSugC2E2A=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaVR2mHNEaz9IraXAcevNghgJFE4jLHWqqBXbQF-lmjgqewI6fXaOI9SwzfVVJcL60d-sa35l4RgYASRiaYHJkcqMJd8m4kMPfInNE_INdr-Sey1bqHu=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaWFXLhxKYZeFBq0Sv2OBP1hpJ73lB9qyNR4VqsmOcyeavzNTCuBdypqlSVNTa8dVOAEjFP0nEm6Dpjcrp4WXCZhjKez7EA0yhQjdzEoUoH0ys9vthlF=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaU1Yhjrt9WrNTkRjQQmpIJFs6Yu9PW5-4DHKYqnbdGUhfx7Y0bxdZtJsm_4santuXtXJRTMMt2s1blv9rdM9FHb87WSDTsyDmn2He33n-oVlJaN3Sq_=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaUmcDhomuv9mUS6-p4OitVYrigVvE3yeCmMAwYCGBRZMdyvFUcEeChoaxy4Rokz-aQwapxOR0HzG0sTrwAp4aNPZ6RTQRWirXQngJMQpPbjaAzd_J3F=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaXZ6Xu2NawdsRg9nFJv9iwqegIh0sHkMGu7pZ8P7MxcOMKAXpZagVt12MltuyHzMg07mO663KzjsISxM6TCRa7NDL-o9btq_o0T0vGwl2f_3zt_Kppf=w1920-h1080"></object>
-</div>
 
+<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native">
+    <!--https://photos.app.goo.gl/EETBGgLRiq4N1G8i7-->
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczOFQ8mzB3HaimSWXV7Uft__LGieb_d52lQS5acSGq8UtEhEKELJaKV-11ON-VgkaXb-uWzVk-LFbxdHaj0bGX-jfDPked12ViTWIJZEt1F56tapmUkH=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczPp26dyoiU5TFjhPb-xl_RIGtQC5fgvoEIpAZ_30jm9c0lsvIaCBsJqgI700Xt9hWtL3wx8xNXifVZpxyLX9AWTqUz3rJJn7e3rb8k8bgzQ7IznJIaZ=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczPxC-vyrEZzVPg9Fc-0i5ucel2TKnCgfzxTEuS6IhFpmZKCcbCBAXlSJbFJYD25KfyU0g8nhz_Mt8ghc3-GxpStmwH6P7uDJILJVSSP9M0dL2oxNy_n=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczM3abCYSOc1vJ4EZ0ReUTRt-WW00ezK5Qx9RLWCgwtCi6Kg3U3JDv_N9q09NA68Ho4In0lJHz266hOmIhdFwO4zRXYiLLjJK1cY247kmXl0hhSjdOiN=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczNmmn_tABmgFn96-CGUzRlJz9o4r6_20HMQm_1bIp07YcLFmjfskAVcdrXbSVEGtVG5QzYNO0TgQtRwsKBAL7ga-9yZcDqk2atMAPad3VWIp4nBXIXF=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczPIPf9BID2MqG5FdgH_PtcEP_veyflMGl52go5CcJhN_SH3HQg0LMkfNwBeC5o3I_DkRYBny4DkjCZPnsL7ZnEkZ7DccQqOyRGZqWKlnR6VGZL1xW7G=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczPAl5i0LDDBxDFwaSqQGVnLWuU4tzd-qyKXNeSfAimp7FZvzb0X3F22Hc8eZGLLeueM9DGfzcJWg53axcHaZqxCDkV3wVhfHxwKzrGvu4PtqrGdtNSn=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczOotodCigy58_sBpa8K9FYjp8WBiHl6dOImbgoofNlMtTZt3e-pYrMqjMdz7-1tNK9PDI3rG5InwLtq9YebKub2DzKHB9yX4dJ38CUXGcre-YYCoth_=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczPlSak2vaRypywu5wSY0vNgbgyKBprYzgqWlhGZ5vOj0ciNrjEfMEdf4-DO8TjJy4j0C2uWDNdWcW1f0IlF1RTaKigfPbl1Jt5nsK1xKm6FcUS_89Y4=s0">
+</div>

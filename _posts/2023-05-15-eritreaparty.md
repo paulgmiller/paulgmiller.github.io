@@ -6,15 +6,16 @@ tags: [ family, photos ]
 
 They sure can throw one. 
 
-<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget"  style="width:75%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/3GATNYG8nEk6fRZF8"
-  data-title="Party Eritrean style"
-  data-description="6 new items added to shared album">
-  <object data="https://lh3.googleusercontent.com/dsvszsyh_U6W-AEjy2jsNZAgGK_JjnHVD-PiNuK1aTatzoT9F5WgN0Kw77hYm4cxEO9ZCy9FIOCKGpZkfZQP5gUCOUbxGCAWYrLUDTIXIjuPz8V8nqoOUL0siQ2dskpSLqvspu7NAaY=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/yQPB2ltKVTUlG4rA4kCAN35RxyO4Jp6s_m0H6MaDmsnnJhTb5tAytn2XmpUIeVe3Qw5ucTMPwfL_45Ujo_PIpMVqIapT617qV-xGJ64Cx8u_DXTDL9PHu-xGo5oLR8P__KvjRWslK-U=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/r3sjI5usGwVBrpc3UIYo-rwVnDTt2LOpJtplwu7dW643r6wcT7TCbiotQ-fIjVozVQLU4Glfp67Ve74F8_xCBHG2x57zvFtvEAx4JyxzwmqkrszWPRV5rPUnPW2NPr-pILIoT4oHg5k=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/Zs6Ap1LbmN9fLUeqrIhwR4bedEwW3506b7DXb3DgwIr2QGIJxHzKnGk43NZ0iNg9TDlclmVoDCZKEWf6NSkPHSa-GJ-HzROPe7MhEjWQexwfrI0ZbjhJG8H48HLVUeKEa1tcNoWsXkA=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/SKAKF6jF1hoQQg54MswP8OTVVWaJPHhwyoPW9s52Rkpi0I26XRqsKcYVICOrajc3GMjB9eYWLLCvUnLNC5kpZanJg6BgVQk5YDDqqkNWDaNOysPpBki1Ancq6uroKveoRVLrMpBX2T4=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/ExVCuHRi4KXxh2zZs0HdkQ1qUlvxpoJ2sR6uXOxijZuADDtnILpAE--h6s4WHPcDwZKc5I1Ml67Kx5LxcIXg0vxwcru6cau-IgjIAK3gQ70YEs2on3dToMWCzIqrPQKevCY8cdcpGBg=w1920-h1080"></object>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" ></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
+
+<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native">
+    <!--https://photos.app.goo.gl/3GATNYG8nEk6fRZF8-->
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczOleI7XYYu7ak-KMu3VjgIb8MxuSTDtzBxo6jbYelTLdHH9bMQhVsaFAhYyjAlgQ2mScKrzrz-4Y5_YyyI4DzdcNhVJTOiq_hqQ3bxV-kynpX7y3x65=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczM0IyWlj_aROa7khXqVJQXezqNX9IG04vazgenAPrxfCWzT93R9XqkmimCRQ-LhVcG2J4DELej-iBuZmW9r0SoMIUqAyCiJo1aKi7dCnaWVI84lFKLb=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczOG_9uWZy7Bvmch2hGnK_CQBErz1GXxnaniZJNPLhzEQPZQO_JVNCwFKeajELiqkKFPjjkla56tlsFYMAUKxhUJss8BB4kr-HbqgqoxYdB4H9L7ZPAM=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczO7lRTltB-kd2weNIrrN6vEIsVPKPvY39L9zuS6HJhJKdms1Eh58AwExaGj587D3SHY6K8RUSesOABxHpNdHZ1z3-JVBbBQW8vVKSmJOcR7dyF6dlH_=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczM_bF4P8owUjBfCI6Q1EOZdYicDIAxpuNMXpeRsDakz2KsJWx5VE9jpnAtK3mE59oI98nJEfZDRntlSo5BFdVjoHjrVlT_W_oZ7LDhwS4O23r48Fa_w=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczMgr1k8fzyatm8E6cAWdWmxGHLjnTMng1cIONdtM1DaivbBq-u1u-_KDHCaqjJITrCDic76Ug_cYnCFAv_KOM4YJcfrnKjeg7JgWlpl1JzA9_2bR4dC=s0">
 </div>

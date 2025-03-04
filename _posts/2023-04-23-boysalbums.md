@@ -4,15 +4,16 @@ title: single dad weekend with the boys
 tags: [ family, photos ]
 ---
 
-<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:75%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/VQELQLe7j1L2k4rF9"
-  data-title="dad single parent weekend"
-  data-description="6 new items added to shared album">
-  <object data="https://lh3.googleusercontent.com/CIHiYCUWq51eOvAcVYIxD2WOQkVfxSpdjApqemKGGlCG4zdhkaLmrMpn3h5tX-zsuHLUHtG9wtDs9uDIpeeHhRU-fkXjPyN-IFKKPlOIediozisDm_WyE5Yl3WuWU3derGFYR5m-Hsw=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/dRK_kHZw4zSAeltRqhPEZfLBgCiud8tB1YGM42eJ-HpN9r5UHBLyGz1OEmItoJ5v-RmT57JpQ1qIgWxcD1qjq3cJG4YmYquicTiY26wUUf9M_DhuTG5aFacP5jy71NpkwlyVhN2tLrE=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/LIjpPQsxpU0PdSE_YrDNvREwKCxkZdW7rMbkwqtuk9T3hFLgAoKCMT5q6EeKVAp4x8VhFpLlrxuIOvZgwfYAlcz4PXW-iMyKIlXPZ5LVCxlIUIQbIa3DEh0Vabzwztl1yWT37aMHzz4=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/3N7Ja5Y1tnJR8TzQdh1xls5OKIB63wZuZnZl1dPYAdR4qNbyalZenIUgsKhaSaPADtUXjl5yUOvjiG7qsXPpiRKmQXBRgGVLm7i_7uGtNWsZtnuaqsmkKyb8DRD6Uy1U65dPzlPhQn8=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/X8msOb3zqgcsi4mur_FD5PcW9_sXC_SzAGUEw8aQggKaGAIRl7sh-geO7c7Pun-5Ixi3daP4pQx8RJPbNxpa_PeelXhz0fGDEr63yBB8ToLb1oJZpq6s3AoEKqXihI6ht-e0Ig3m1hQ=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pS2M0PD-kxQh-cXp-JPxM77cP7e8Rb3aLo844hEUoK68tmP_YD9busyiCC8KrvE5LrLYEYq-bVtDb33Cn5GiALaGYp_TN9Vy-MtaPgEkyJjKlG0Ohv6Oc_xPY4KAoRBCa09MvQrCOAo=w1920-h1080"></object>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" ></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
+
+<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native">
+    <!--https://photos.app.goo.gl/VQELQLe7j1L2k4rF9-->
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczO9-pyIa3m-hag5RfjdWhy7Y2xpAn4pa4VOcqvzM0WQcfJrS6KRMptuRnlyqzeFZ-sslWE2XJKIDBGavVEL-Zj96RvPgsAa_Tr9S0Jc1Wgt991hElzO=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczO4uMcc5KNmvaG9laWQ7ufYNQ3EABEU2W54M7PyjvPZK5eP0mVU320KglWxUCsjgvw1jkFp2hs2zGd0H9P34ybh96RwzQd36I96fZFdmhQwzD-2exj8=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczMCHGMii4a08Aq7KhkfqU45CC83Bt--GONfJIZwiWEtUAx-m1BrUn9bCG0GIrWJOewjWwCbJ-khdrhGvclUgWgEGv-codFR0Ov_MLwBgojYXH6KprsA=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczPurI3aP7x9-tUttku7_WooZvVHwIALQFWvq9lhvqczeSOv0Rqgi0CRkWOfL71zpqwpEztG6M4IGURh6hjqxuIgQHrB6X4kwGxX5fKXG4bXr0ejVs-M=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczPBWjDbehqD-Qa97FmgDszqycROFlKY78BDdb0c4SXFNVQHYOx9A7HA_xLFR34DMjH86-w_Gf5SDk8VizCKBX-oLALm7e7q9YqUb_GFHZYpWo2Zrvlu=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczPHb5Vq1VVu-PRxufyKncqfAuGKlViZv0Gnl3aZfxBrbhm7iM2T0AtZGeLqFu9PqIyS4yfIZHKhV447GseY5aQpc8vNm_YYWAT6F4xLkSBnxa5T5hx0=s0">
 </div>

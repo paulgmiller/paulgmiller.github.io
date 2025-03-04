@@ -6,19 +6,20 @@ tags: [ family, photos ]
 
 Some quality time with the majumders. Stolen kids shoes but not as much rain as I thought
 
-<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget"  style="width:75%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/Wh26jD7YgEn9xjKo9"
-  data-title="Oahu West side february"
-  data-description="8 new items added to shared album">
-  <object data="https://lh3.googleusercontent.com/7l9HbK0Z2iQWhvjIymSs_JG8-PCOQkcW7EmgzUI2ytnc_hANyFBK4SL0sYmqrEeMX75nSMvHnFGouDVc4K641nsbj1PBhIefuYMsZlWvDuLUr8_cWnUKtUB3ys5lx7LHyRCdTSkf7zk=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/-ibht-m_-iRzR9EDuPmKOv-wxKZTh4jiXr_ibbj3Gbmr4Gppa-7HzzJDG2aqafIj716_hIlGj33MlijIzdPgdrWJh6W7c6i2oNJSyn8HTa7Tj-YE0295eunGAw1wzxOqGM6Mm6Sod5I=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/uQ82PKWyKPX90sYUk2Q4tsmK_qmmVHNxMPFHhQZgb63Gv0eStFKcqxUtLv2cPyESanTbG_QztEekSqLDvCGLKiHajykQDXIBImDHvOvryoVtVvUUrmKwWj_wr2tsHahfl5sLhs2KsD4=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/qJHshT4_pm9PA4DTYo0YUwjYB6KQya0jkB3Qc4K6pymggkSSsr-eWKnhYuwaqKp1XzM3I2fx94F4GJufFDUh6lmuC8iRomi6kCSmT3WG-cvw00PxvpfzYflb7iogT41iewahmjLcHuI=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/bpNcNOvz2k2KQv54YUspWMHHsjWG5jw7n_ZWWP6d6QPiUOXV7UD7Gu6zEiv9KXPL90pHBEURTVGo7PFt_joQXz0L31Yq5xvOmOdDNgm89h_05_GAZbTWgKqZ6x6IH4SHdSR6NXiRTLY=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/bij_zUPL4l8wip_-Q23dfOCUnULxaATagCGlB4bNSf5bt10XzB74NGTZWQlCMUvk2SWL9xaIgSwRAsHiRZs9wUesCe-n9pr_f45Radh_DiHn2_6YUnRD4Aibe9eE8f7oBEwJ8tKwg1I=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/DmzAzF6AzP9Z6qXdolbX3PvSXxf7oEpbZrKCX_4vJwt56e9KrPSi3LcmmXinkS1pASbLh35jsMUktJeuFxGNcPyJCtdLXLT2HNydtgk3oi3BSBNeMlv3DGNopNPuGV2Fv8ewSZ45oAE=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/LWdRCG_KGZRXl-1s2d-_WOp5d4jASC3ErYxQw0qskeh2DpRhkPnHB4dnqoE_QCx9y6xnZgMi7CN-YocvJseCRledRWoyUQzo0yKZjjXRsmkBkYCzktRBfPxoDHvayLrM7FqugnmWyP0=w1920-h1080"></object>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" ></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
+
+<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native">
+    <!--https://photos.app.goo.gl/Wh26jD7YgEn9xjKo9-->
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczOFx-zfmQ_aud5z2RsgUz8aSWsa-NqmS3ZnDxIMcWTqjqjJzuLsbiU58DPVo2T_JlZ2V_L0TW6RvvNZLQv6GoUU3uuFdUpoLTVWuWahL6ZrUljkJGdp=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczOCprYzoNEHdwOwFvBnSjAH0YE8LVuRscK-MwKzUZBzPvf8B5S66VF8y5cLnK4XbTxMqt3EJuLruUXx8iCsIo6elKPnTDbsSKNxapLznnhzToCFJNm6=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczNf-bIa2syROUMOLVQ9-d5IUgeGUSsdg69JMzVuQUAcm6us4iwHr3OjPsp3GkAarfBkegrDJbetcF5n6f8JrXJXboWwSi-xTScro_K4fXQlbeJqLrCI=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczMe9NhmeneIG5tr8-2BfoxcGylH64laI0kywZcfHTklhJpzpw22T96K1H0hC_ZV79ziPrYD64CuFTEu0bt7t6J9UZrCnY0iON6Y30EXliixZ4tuYYg6=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczMpg8OZLYojQ_8MKUkqde6AtfXES0VAHRrW5z0wneMqo3q5iIwnxNz-c483KTIbU3np0qXcGZBePCfCNwM0MPnuKFoVNnbprunh4MFq3uV--PLMbQhn=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczM2cZl-Ssxlg2R_hXRJ1W1bzsfPadCNmdflHoDFqgwnYWKEgb3f4UwXufxWQz2BB1W1uZrSgmcdSwkGxRmKtTiXTRjlI_NFuQa1V68c2arZVnUo7R5T=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczNsV70yPLwxs31qh1_0TPr3kGlGOH2Zf1fbABDYIG7hAoVgbVKpBDCvLM_B6ZJr0l71CWIz414a_4lJMiBiaDfuOu1oh0pQW5uHUD6aJ1i8XmcP8dWo=s0">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczOYstw1rH9Xbv4JVAd9hOLBc63mQjmabszEGIQxuMNPDKAPYZd1so_Kl1w5sbZ1MWwRAzaPd11CAGxiev4XNvDEiZ0VIe9W7GqKtKnyx5a5UUOPLLSj=s0">
 </div>
 
 
