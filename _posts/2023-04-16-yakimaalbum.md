@@ -10,7 +10,7 @@ Attempt to  do a public album in jeykll no idea if this will work. But it's spri
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
 
-<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native">
+<div class="fotorama"  data-allowfullscreen="native">
     <!--https://photos.app.goo.gl/BKhiAaagvcmTRZU5A-->
     <img src="https://images.northbriton.net/AP1GczO8BZly_i5vnwddk-Z5Kx_r_CByMeA8PHfyiUf23mEguWhs_uovPHPN_kNbX1i0PeYJRvmha_C3q8RBL1AtMQ0tKk2r4NS7Un-9iIROl5Qmq4CchvA3">
     <img src="https://images.northbriton.net/AP1GczNfdqeGeDryK0TOwSE-egTkuBwYx5zcw6tfWGPi7j8mbVs3F6qGYR5TCFAwxc10xEE4bqINSh-2z88_vLbduECVG10XYJDWFuitaWKdIQDOyZ5ZK3xY">

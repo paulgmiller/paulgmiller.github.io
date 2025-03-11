@@ -10,7 +10,7 @@ Some quality time with the majumders. Stolen kids shoes but not as much rain as 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
 
-<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native">
+<div class="fotorama"  data-allowfullscreen="native">
     <!--https://photos.app.goo.gl/Wh26jD7YgEn9xjKo9-->
     <img src="https://images.northbriton.net/AP1GczOFx-zfmQ_aud5z2RsgUz8aSWsa-NqmS3ZnDxIMcWTqjqjJzuLsbiU58DPVo2T_JlZ2V_L0TW6RvvNZLQv6GoUU3uuFdUpoLTVWuWahL6ZrUljkJGdp">
     <img src="https://images.northbriton.net/AP1GczOCprYzoNEHdwOwFvBnSjAH0YE8LVuRscK-MwKzUZBzPvf8B5S66VF8y5cLnK4XbTxMqt3EJuLruUXx8iCsIo6elKPnTDbsSKNxapLznnhzToCFJNm6">

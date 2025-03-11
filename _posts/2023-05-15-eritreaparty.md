@@ -10,7 +10,7 @@ They sure can throw one.
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
 
-<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native">
+<div class="fotorama"  data-allowfullscreen="native">
     <!--https://photos.app.goo.gl/3GATNYG8nEk6fRZF8-->
     <img src="https://images.northbriton.net/AP1GczOleI7XYYu7ak-KMu3VjgIb8MxuSTDtzBxo6jbYelTLdHH9bMQhVsaFAhYyjAlgQ2mScKrzrz-4Y5_YyyI4DzdcNhVJTOiq_hqQ3bxV-kynpX7y3x65">
     <img src="https://images.northbriton.net/AP1GczM0IyWlj_aROa7khXqVJQXezqNX9IG04vazgenAPrxfCWzT93R9XqkmimCRQ-LhVcG2J4DELej-iBuZmW9r0SoMIUqAyCiJo1aKi7dCnaWVI84lFKLb">

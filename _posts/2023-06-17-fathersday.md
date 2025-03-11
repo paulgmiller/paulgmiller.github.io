@@ -10,7 +10,7 @@ Father's day weather stunk so decided walking the boys to get breakfast was a be
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
 
-<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native">
+<div class="fotorama"  data-allowfullscreen="native">
     <!--https://photos.app.goo.gl/HPWw9JhsDVPP3Pmt6-->
     <img src="https://images.northbriton.net/AP1GczPG_XaN-JHYMmIBv-IoZ2_0h9r_vz9D51hWLiOBfTlTddxJLSEoUE7I3tPt_xZxnRoAhYvkZHPXZTL5zXRQtdbHznlMUU5vwg7Hnljntz2sD0uFgoyd">
     <img src="https://images.northbriton.net/AP1GczN9MHDKNAszqGHJhnvltue9HgVVigIZCZpVfG56rk6Tgaqc5pF_O2-9N2g7wIyXL97ICEFUL9-tc3Gwdb1XYJ4kFgFG19ikBRkUa9U39WDlSibHxRnd">
