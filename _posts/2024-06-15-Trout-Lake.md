@@ -11,7 +11,7 @@ Could have made it further if we woke up earlier. Also highway return is a disat
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
 
-<div class="fotorama"  data-allowfullscreen="true">
+<div class="fotorama"  data-allowfullscreen="true" data-width="800" data-height="600">
     <!--https://photos.app.goo.gl/5r93X2fQZchuyTBN7-->
     <img src="https://images.northbriton.net/AP1GczMfNbxcR5-0ByiDaVrLy1kQHelG_bmGoyJHXDJAYCJ8k1nOuqUtrTbtuytvJWiByBW5C8YnAvBZRBXFV-Ajs0l7f-ROoMiTO2vXx0viGKn7svxUbyYW">
     <img src="https://images.northbriton.net/AP1GczO-MpjzH_9EnJj-PXZ5H1fYaeUTNL6n1Ib25UYbPVmmPHSVSlu8IIL9k3gtYVv5jZGC76xSU1hhvsYwsndVvQ0HS5bZGC4ky3EApcIJa1MAYuOqLrwC">

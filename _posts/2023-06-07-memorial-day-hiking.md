@@ -10,7 +10,7 @@ Got above the clouds for early mt si victory and got family stuck on highway 2 a
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
 
-<div class="fotorama"  data-allowfullscreen="true">
+<div class="fotorama"  data-allowfullscreen="true" data-width="800" data-height="600">
     <!--https://photos.app.goo.gl/QGJ7Xfoq6RhM9W7h8-->
     <img src="https://images.northbriton.net/AP1GczPHhpe_sTflGsnityr-erfupD4qe7E9Qk-Y1jwZjoyPJrEFMlAxo9DqDrZT5dwhOrV_wEfEuIiPQ5wi21W1Q9d0CcCrTPKvKDvJkPLGjlDwRxSIRZYz">
     <img src="https://images.northbriton.net/AP1GczMom9dNV5il002AK_E8q6jWYmb9lOpKsif5eNFR711p7Wg8IB03YzWr0cGgaUytkpsnZclcOj2HaNY76UwYWs26XuY6KOhM10Tsh0UzPFkVktlT0J30">

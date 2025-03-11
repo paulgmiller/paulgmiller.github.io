@@ -10,7 +10,7 @@ Not all hikes are great sometimes you make 3 false starts, end up on a muddy inc
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
 
-<div class="fotorama"  data-allowfullscreen="true">
+<div class="fotorama"  data-allowfullscreen="true" data-width="800" data-height="600">
     <!--https://photos.app.goo.gl/DZVWv7XWk4tBKZSc7-->
     <img src="https://images.northbriton.net/AP1GczN8Qv9z7dtiH2BjvsOAS56gwF5jdPFs-HZQtHIKauIG8z1GZjmUeuPPVtj-tYfvy8qDo73tcNOk8A--jKcl6BuvDVmLUpg4r7pBTfnEFnOQseElyrLV">
     <img src="https://images.northbriton.net/AP1GczMTaRSg021Sie8ksIHRgVatvDzZ0p1mgY7E2hCprofiqsLB26aP-rBRyfnwWvWY5ay2hC3Ysmgutg07AV8ShFm-_fWWbsQm069HbO1ESIESF4yVgTxy">

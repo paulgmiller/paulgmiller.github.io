@@ -9,7 +9,7 @@ script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" >
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
 
-<div class="fotorama"  data-allowfullscreen="true">
+<div class="fotorama"  data-allowfullscreen="true" data-width="800" data-height="600">
     <!--https://photos.app.goo.gl/rgjWeq5vbxXetz5c7-->
     <img src="https://images.northbriton.net/AP1GczNo7tGnewhlI3_i4WHqk_fqo1ATIp-ODaLmokAQoxOadp9rf4g1n2O0FuaukkY9QAnm6XcOL9XM2pNPhiFUKY6S7S-DbYSinHmjHOGiDvMBFzAX3oom">
     <img src="https://images.northbriton.net/AP1GczO9rInvpAav9_NBYuhs_gxYNxPd3ry2w5053t70s6woZZPMpGXMkddImNpGzU6dw983SMnqfz_wXH7Y19_B_0eVppgNw9w9XADzLt5E_raorm3umlGz">
