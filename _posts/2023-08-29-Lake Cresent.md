@@ -8,7 +8,7 @@ Lake time
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
 
-<div class="fotorama"  data-allowfullscreen="true" data-width="800" data-height="600">
+<div class="fotorama"  data-allowfullscreen="true" data-width="100%"  data-ratio="800/600">
     <!--https://photos.app.goo.gl/coD2PdmF1FeSq4H19-->
     <img src="https://images.northbriton.net/AP1GczPvjm9k_yXEUltiZ3_doNZVNDByiXpOxwzqbshv1rg6cs_QkmuRJetn7cuyiutKYhU7Z6K2iOtIsR0WLyH-TF0PiShIgkCO9TOQHJ-FLDSpL2u1PpR9">
     <img src="https://images.northbriton.net/AP1GczNyR14Bq_-S5Z_CN-Ow6rUh9qSawQ2Okqauo6GLAwwzEo3llEMpKzUu5BCYTx9LxQ82oYjO12f02n0PhaLGyIlen5J91gfU7FE0LSxeLKN6q4gXkO0D">

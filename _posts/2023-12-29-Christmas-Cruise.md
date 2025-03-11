@@ -9,7 +9,7 @@ My first cruise ever.  An incomplete pro/con list after the photos.
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
 
-<div class="fotorama"  data-allowfullscreen="true" data-width="800" data-height="600">
+<div class="fotorama"  data-allowfullscreen="true" data-width="100%"  data-ratio="800/600">
     <!--https://photos.app.goo.gl/BuhKDKLxpzjb9VjJA-->
     <img src="https://images.northbriton.net/AP1GczP8-G1DSBOLCRJpcAMDoVJg3hjN94xl1EebbDqw0pyJwzO7xoo7OQvaYcvewxwCxL9NkNvZUcQKSyT8J2XkC_aRJB36L2VWQLl_J61WDPwqovmh6Bvp">
     <img src="https://images.northbriton.net/AP1GczNhtZGNXdqRoJT-HUArxofJKTRAOGkFpByI2VHzYKLV9RT-4prFY92bSUe-L_lwdtGmDkAQd6_rm-GKr1B4KMCfkn7c7RgEnm6msUY83lBtbDvtAsVs">

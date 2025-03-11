@@ -8,7 +8,7 @@ tags: [ family, photos ]
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
 
-<div class="fotorama"  data-allowfullscreen="true" data-width="800" data-height="600">
+<div class="fotorama"  data-allowfullscreen="true" data-width="100%"  data-ratio="800/600">
     <!--https://photos.app.goo.gl/VQELQLe7j1L2k4rF9-->
     <img src="https://images.northbriton.net/AP1GczO9-pyIa3m-hag5RfjdWhy7Y2xpAn4pa4VOcqvzM0WQcfJrS6KRMptuRnlyqzeFZ-sslWE2XJKIDBGavVEL-Zj96RvPgsAa_Tr9S0Jc1Wgt991hElzO">
     <img src="https://images.northbriton.net/AP1GczO4uMcc5KNmvaG9laWQ7ufYNQ3EABEU2W54M7PyjvPZK5eP0mVU320KglWxUCsjgvw1jkFp2hs2zGd0H9P34ybh96RwzQd36I96fZFdmhQwzD-2exj8">
