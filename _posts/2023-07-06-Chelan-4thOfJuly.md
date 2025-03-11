@@ -11,7 +11,7 @@ Summer is off to a good start
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
 
-<div class="fotorama"  data-allowfullscreen="native">
+<div class="fotorama"  data-allowfullscreen="true">
     <!--https://photos.app.goo.gl/yyg9PKRaR8ZQvGHD8-->
     <img src="https://images.northbriton.net/AP1GczN34V4dF7TauCFYr8Cd1FnxswHwMa8IGKUy3DNy76iUg-Cm2RL6Y7kdgikbInug_5NeFxP7hmwAlifKYgTPRHEETnrKrwqSI5hznmCWBrujszk4XQde">
     <img src="https://images.northbriton.net/AP1GczNm43KfW8odSn6EXKLT8Fzx_ZK2CRNy67MnTp_GDt511F4SIWt1PPddNUX7SXbgsKRK5Rw5bABYzZByUHfKaRtyqJ11zsHn3ZF7s2mENOntcxm_w2eC">
@@ -21,7 +21,7 @@ Summer is off to a good start
 </div>
 
 Tiger 2 has nice views since they logged it off.
-<div class="fotorama"  data-allowfullscreen="native">
+<div class="fotorama"  data-allowfullscreen="true">
     <!--https://photos.app.goo.gl/74hC4cUSxngsjxs46-->
     <img src="https://images.northbriton.net/AP1GczPcYOVIzvYrWU3ZjpTZHPolW3JcB_fFOXKiXniQQcqUMzbsG8jjSYMVX4vqmMPvMl5hS3YHZAtpsROaA_DjGpzlLTIGWGSkQdh9NVmm9Kn0ftAfh-fi">
     <img src="https://images.northbriton.net/AP1GczO8pII-lgrv5L4xnKF0qOAGV5UL-brgbY5UHBwvKUiUSDzA4o46l8WidEIZEDgAeHJmXdljBS9xllJO4nbDROuKxO9j6llRxxxe2QLv_sNlf2J8qOqR">
@@ -33,7 +33,7 @@ Tiger 2 has nice views since they logged it off.
 And friends and wine
 
 
-<div class="fotorama"  data-allowfullscreen="native">
+<div class="fotorama"  data-allowfullscreen="true">
     <!--https://photos.app.goo.gl/EETBGgLRiq4N1G8i7-->
     <img src="https://images.northbriton.net/AP1GczOFQ8mzB3HaimSWXV7Uft__LGieb_d52lQS5acSGq8UtEhEKELJaKV-11ON-VgkaXb-uWzVk-LFbxdHaj0bGX-jfDPked12ViTWIJZEt1F56tapmUkH">
     <img src="https://images.northbriton.net/AP1GczPp26dyoiU5TFjhPb-xl_RIGtQC5fgvoEIpAZ_30jm9c0lsvIaCBsJqgI700Xt9hWtL3wx8xNXifVZpxyLX9AWTqUz3rJJn7e3rb8k8bgzQ7IznJIaZ">

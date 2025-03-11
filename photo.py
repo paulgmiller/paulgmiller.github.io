@@ -28,7 +28,7 @@ header = """<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jqu
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
 
-<div class="fotorama"  data-allowfullscreen="native">"""
+<div class="fotorama"  data-allowfullscreen="true">"""
 
 def get_photo_urls(album_url):
     logger.info('Scraping Google Photos album at: {}'.format(album_url))

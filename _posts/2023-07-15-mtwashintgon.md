@@ -9,7 +9,7 @@ Not Mt Granite yet but moving that direction.
 <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
 
-<div class="fotorama"  data-allowfullscreen="native">
+<div class="fotorama"  data-allowfullscreen="true">
     <!--https://photos.app.goo.gl/mL5twL3NLhf4gLCx8-->
     <img src="https://images.northbriton.net/AP1GczN1bBBMltsJeGPdOaWtRAYyCPLLJHe56O3l5k9ojjmsqcOQ7ZfZ9bUNuwWJ5rJyyh1e_hpuYPAuyY697SoytLs5cansP24rS40CgsXBrokMyK5SOkCb">
     <img src="https://images.northbriton.net/AP1GczOLizK-N0nVdB_dP4xvZYUQlMZPg3Vwr9TUFmGRxl8o1AJDg36Xr-k7a46dkBIyTk29DZEYlkafiy22cBBJNd3TU9bgOgg_mGnAVbY7bHE57bUy7CHK">
