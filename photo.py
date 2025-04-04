@@ -1,5 +1,10 @@
-# inspired by https://medium.com/p/d49f037c8e3c/responses/show (hopefully the regex is updated there when this one breaks)
-# also exists as a django-cms plugin at https://github.com/k-funk/djangocms-scrape-google-photos-album
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#     "boto3",
+#     "requests",
+# ]
+# ///
 
 import logging
 import re
@@ -83,9 +88,9 @@ if __name__ == "__main__":
   # example 'https://photos.app.goo.gl/NH5ew4L5zAdgp8nh8'
   photo_urls = get_photo_urls( sys.argv[1])
   mirror(photo_urls)
-  #print(header)
-  #print("    <!--"+ sys.argv[1] +"-->")
-  #for url in photo_urls:
-  #  print('    <img src="{}">'.format(url))
-  #print("</div>")
+  print(header)
+  print("    <!--"+ sys.argv[1] +"-->")
+  for url in photo_urls:
+    print('    <img src="{}">'.format(url))
+  print("</div>")
         
