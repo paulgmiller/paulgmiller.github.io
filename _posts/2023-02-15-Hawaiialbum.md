@@ -7,8 +7,7 @@ tags: [ family, photos ]
 Some quality time with the majumders. Stolen kids shoes but not as much rain as I thought
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" ></script>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
+
 
 <div class="fotorama"  data-allowfullscreen="true" data-width="100%"  data-ratio="800/600">
     <!--https://photos.app.goo.gl/Wh26jD7YgEn9xjKo9-->

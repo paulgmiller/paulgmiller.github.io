@@ -7,8 +7,7 @@ tags: [ family, photos ]
 Not all hikes are great sometimes you make 3 false starts, end up on a muddy include and freezing rain to get to a summit that's a post-apocolyptic deforestation and there's no view because you're are in a cloud. Still new trail close by I'll be back.
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" ></script>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
+
 
 <div class="fotorama"  data-allowfullscreen="true" data-width="100%"  data-ratio="800/600">
     <!--https://photos.app.goo.gl/DZVWv7XWk4tBKZSc7-->

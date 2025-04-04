@@ -7,8 +7,7 @@ tags: [ family, photos ]
 Attempt to  do a public album in jeykll no idea if this will work. But it's sprint break in yakima.
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" ></script>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css" rel="stylesheet">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js" ></script>
+
 
 <div class="fotorama"  data-allowfullscreen="true" data-width="100%"  data-ratio="800/600">
     <!--https://photos.app.goo.gl/BKhiAaagvcmTRZU5A-->
