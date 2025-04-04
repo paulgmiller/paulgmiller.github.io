@@ -6,7 +6,7 @@ tags: [ family, photos, hiking]
 
 Got above the clouds for early mt si victory and got family stuck on highway 2 after wallace falls
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" ></script>
+
 
 
 <div class="fotorama"  data-allowfullscreen="true" data-width="100%"  data-ratio="800/600">

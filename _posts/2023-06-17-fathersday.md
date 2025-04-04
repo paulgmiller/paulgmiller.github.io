@@ -6,7 +6,7 @@ tags: [ family, photos ]
 
 Father's day weather stunk so decided walking the boys to get breakfast was a better idea. Mariners blew it in extra innings.
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" ></script>
+
 
 
 <div class="fotorama"  data-allowfullscreen="true" data-width="100%"  data-ratio="800/600">

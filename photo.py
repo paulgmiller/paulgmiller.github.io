@@ -24,9 +24,7 @@ def get_photos_from_html(html):
 
 # todo cache all locally
 # more fun options here https://fotorama.io/customize/
-header = """<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" ></script>
-
-
+header = """
 <div class="fotorama"  data-allowfullscreen="true">"""
 
 def get_photo_urls(album_url):
