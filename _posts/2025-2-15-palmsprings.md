@@ -6,7 +6,7 @@ tags: [ family, photos ]
 
 
 
-div class="fotorama"  data-allowfullscreen="true">
+<div class="fotorama"  data-allowfullscreen="true">
     <!--https://photos.app.goo.gl/9o7WcdMLxCvHBMev9-->
     <img src="https://lh3.googleusercontent.com/pw/AP1GczN_9hJuwjTUip4V9QkQ4uB6sdkoaYlQZETF9OBq8xwZcIdH_wUtd6fDlFqGWXOXqNdVYmhiM-P7eGruudfTV_xH9y52xOLi5PtuDBMIwiJdt9WB0p-v=s0">
     <img src="https://lh3.googleusercontent.com/pw/AP1GczNUsp_AWRRXa1Hp9lXefubTmnMXoOnY7JoyJfPwD035_maZWotvvFKaBz0Z0pBk9OIGiLlRT5yI8Y0GF6DFuxWugbkwZchGYfWDZB5d36BszDIirArN=s0">
