@@ -52,7 +52,7 @@ def get_photo_urls(album_url):
 
 bucket_name = "blogimages"
 access_key_id = "c9cd5cdf42dfc1354f7256997c2c60fe"
-secret_access_key = "8b34beb893ce0299a03985b8c62eabff8472bf2b5d83b73d14ce8eacf07a9290"
+secret_access_key = os.getenv("SECRET_ACCESS_KEY") # export this in an .env 
 endpoint_url = "https://222b2fcd50aae5b52660992fbfd93b11.r2.cloudflarestorage.com"
 
 def mirror(photo_urls):
@@ -86,6 +86,7 @@ def mirror(photo_urls):
 
 if __name__ == "__main__":
   # example 'https://photos.app.goo.gl/NH5ew4L5zAdgp8nh8'
+  #  https://photos.app.goo.gl/9o7WcdMLxCvHBMev9
   photo_urls = get_photo_urls( sys.argv[1])
   mirror(photo_urls)
   print(header)
