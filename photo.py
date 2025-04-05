@@ -27,7 +27,7 @@ def get_photos_from_html(html):
     # first and last elements are the album cover
     return re.findall(REGEX, html)[1:-1]
 
-# todo cache all locally
+
 # more fun options here https://fotorama.io/customize/
 header = """
 <div class="fotorama"  data-allowfullscreen="true">"""
@@ -39,9 +39,6 @@ def get_photo_urls(album_url):
         r = requests.get(album_url)
         #print(r.text)
         photo_urls = get_photos_from_html(r.text) or []
-        photo_urls = [url + "=s0" for url in photo_urls]
-        if not len(photo_urls):
-            raise Exception('No photos found.')
         photo_urls.reverse()  # makes the order appear the way it does on the website
         photo_urls = set(photo_urls)
         #logger.info("# of images: {}".format(len(photo_urls)))
@@ -51,7 +48,7 @@ def get_photo_urls(album_url):
     return []
 
 bucket_name = "blogimages"
-access_key_id = "c9cd5cdf42dfc1354f7256997c2c60fe"
+access_key_id =  "67d604ab768283b886fa7e1d746a9dc9" #"c9cd5cdf42dfc1354f7256997c2c60fe"
 secret_access_key = os.getenv("SECRET_ACCESS_KEY") # export this in an .env 
 endpoint_url = "https://222b2fcd50aae5b52660992fbfd93b11.r2.cloudflarestorage.com"
 
@@ -65,22 +62,34 @@ def mirror(photo_urls):
     )
     for url in photo_urls:
         try:
-            # Download file content into memory
-            response = requests.get(url, stream=True)
-            response.raise_for_status()
+           
 
             # Derive a filename (object key) from the last part of the URI path
             parsed_url = urlparse(url)
             file_name = os.path.basename(parsed_url.path)
-            if file_name.endswith('=s0'):
-                file_name = file_name[:-3]  # remove the last 3 chars
+            mirrorurl = "https://images.northbriton.net/"+file_name
 
+            h = requests.head(mirrorurl)
+
+            if requests.head(mirrorurl).status_code == 200:
+                print(f"Already exists {mirrorurl}")
+                yield mirrorurl
+                continue
+
+            print(h)            
+
+            # Download file content into memory
+            # =s0 gets the original size =w600-h315-p
+            response = requests.get(url+'=s0', stream=True)
+            response.raise_for_status()
+            
             # Prepare in-memory bytes for upload
             file_stream = io.BytesIO(response.content)
 
             # Upload to R2 with the derived filename as the object key
             s3.upload_fileobj(file_stream, bucket_name, file_name)
             print(f"Uploaded {url} → s3://{bucket_name}/{file_name}")
+            yield mirrorurl  
         except Exception as e:
             print(f"Failed to upload {url}: {e}")
 
@@ -88,10 +97,14 @@ if __name__ == "__main__":
   # example 'https://photos.app.goo.gl/NH5ew4L5zAdgp8nh8'
   #  https://photos.app.goo.gl/9o7WcdMLxCvHBMev9
   photo_urls = get_photo_urls( sys.argv[1])
-  mirror(photo_urls)
+  if secret_access_key is None:
+    exit("Please set the SECRET_ACCESS_KEY environment variable.")
+
+  photo_urls = list(mirror(photo_urls))
   print(header)
   print("    <!--"+ sys.argv[1] +"-->")
   for url in photo_urls:
-    print('    <img src="{}">'.format(url))
+    #https://developers.cloudflare.com/images/transform-images/transform-via-url/
+    print('    <img src="https://images.northbriton.net/cdn-cgi/image/width=800/{0}" data-full="{0}">'.format(url))
   print("</div>")
         
