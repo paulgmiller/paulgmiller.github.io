@@ -150,7 +150,7 @@ func main() {
 		log.Fatalf("Failed to mirror photos: %v", err)
 	}
 	fmt.Println("<div class=\"fotorama\" data-allowfullscreen=\"true\">")
-	fmt.Printf("    <!--%s-->", albumURL)
+	fmt.Printf("    <!--%s-->\n", albumURL)
 
 	for _, url := range mirroredURLs {
 		fmt.Printf("    <img src=\"https://images.northbriton.net/cdn-cgi/image/width=800/%s\" data-full=\"%s\">\n", url, url)
