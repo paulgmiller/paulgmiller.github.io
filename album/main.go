@@ -1,7 +1,6 @@
 package main
 
 import (
-	"bytes"
 	"context"
 	"fmt"
 	"io"
@@ -13,36 +12,13 @@ import (
 	"regexp"
 
 	"github.com/aws/aws-sdk-go-v2/aws"
-	"github.com/aws/aws-sdk-go-v2/config"
-	"github.com/aws/aws-sdk-go-v2/credentials"
 	"github.com/aws/aws-sdk-go-v2/service/s3"
 	"github.com/aws/aws-sdk-go-v2/service/s3/types"
 )
 
 const (
-	REGEX        = `(https:\/\/lh3\.googleusercontent\.com\/\w{2}\/[a-zA-Z0-9\-_]{64,})`
-	BUCKET_NAME  = "blogimages"
-	ENDPOINT_URL = "https://222b2fcd50aae5b52660992fbfd93b11.r2.cloudflarestorage.com"
+	REGEX = `(https:\/\/lh3\.googleusercontent\.com\/\w{2}\/[a-zA-Z0-9\-_]{64,})`
 )
-
-var (
-	accessKeyID     = "67d604ab768283b886fa7e1d746a9dc9"
-	secretAccessKey = os.Getenv("SECRET_ACCESS_KEY")
-)
-
-func NewS3Uploader() *s3.Client {
-	cfg, err := config.LoadDefaultConfig(context.TODO(),
-		config.WithCredentialsProvider(credentials.NewStaticCredentialsProvider(accessKeyID, secretAccessKey, "")),
-		config.WithRegion("auto"),
-	)
-	if err != nil {
-		log.Fatal(err)
-	}
-
-	return s3.NewFromConfig(cfg, func(o *s3.Options) {
-		o.BaseEndpoint = aws.String(ENDPOINT_URL)
-	})
-}
 
 func getPhotoURLs(albumURL string) ([]string, error) {
 	resp, err := http.Get(albumURL)
@@ -66,10 +42,10 @@ func getPhotoURLs(albumURL string) ([]string, error) {
 	return matches[1 : len(matches)-1], nil
 }
 
-func mirror(photoURLs []string, client *s3.Client) ([]string, error) {
+func mirror(ctx context.Context, photoURLs []string, client *s3.Client) ([]string, error) {
 	errors := make(chan error)
 	mirroredURLs := make(chan string)
-	ctx, cancel := context.WithCancel(context.TODO())
+	ctx, cancel := context.WithCancel(ctx)
 	defer cancel()
 	for _, urlStr := range photoURLs {
 		go func(urlStr string) {
@@ -90,18 +66,10 @@ func mirror(photoURLs []string, client *s3.Client) ([]string, error) {
 			}
 			defer resp.Body.Close()
 
-			buffer := new(bytes.Buffer)
-			_, err = io.Copy(buffer, resp.Body)
-			if err != nil {
-				log.Printf("Failed to read response body for %s: %v", urlStr, err)
-				errors <- err
-				return
-			}
-
 			_, err = client.PutObject(ctx, &s3.PutObjectInput{
 				Bucket: aws.String(BUCKET_NAME),
 				Key:    aws.String(fileName),
-				Body:   buffer,
+				Body:   resp.Body,
 				ACL:    types.ObjectCannedACLPublicRead,
 			})
 			if err != nil {
@@ -129,32 +97,63 @@ func mirror(photoURLs []string, client *s3.Client) ([]string, error) {
 	return result, nil
 }
 
-func main() {
-	if len(os.Args) < 2 {
-		log.Fatal("Please provide a Google Photos album URL")
+func output(urls []string, albumURL string, w io.Writer) error {
+	if _, err := fmt.Fprintf(w, `<div class="fotorama" data-allowfullscreen="true">\n<!--%s-->\n`, albumURL); err != nil {
+		return err
 	}
+	for _, url := range urls {
+		if _, err := fmt.Fprintf(w, "    <img src=\"https://images.northbriton.net/cdn-cgi/image/width=800/%s\" data-full=\"%s\">\n", url, url); err != nil {
+			return err
+		}
+	}
+	if _, err := fmt.Fprintln(w, "</div>"); err != nil {
+		return err
+	}
+	return nil
+}
 
-	albumURL := os.Args[1]
+func serve(w http.ResponseWriter, r *http.Request) {
+	album := r.URL.Query().Get("album")
+	if album == "" {
+		w.WriteHeader(http.StatusBadRequest)
+		w.Write([]byte("need an album query arg"))
+		return
+	}
+	photos, err := getPhotoURLs(album)
+	if err != nil {
+		w.WriteHeader(http.StatusInternalServerError)
+		w.Write([]byte(err.Error()))
+		return
+	}
+	mirror(r.Context(), photos, NewS3Uploader(r.Context()))
+
+}
+
+func main() {
 	if secretAccessKey == "" {
 		log.Fatal("Please set the SECRET_ACCESS_KEY environment variable")
 	}
 
-	uploader := NewS3Uploader()
+	if len(os.Args) < 2 {
+		log.Fatal("Please provide a Google Photos album URL")
+	}
+	ctx := context.Background()
+	uploader := NewS3Uploader(ctx)
+
+	albumURL := os.Args[1]
+
 	photoURLs, err := getPhotoURLs(albumURL)
 	if err != nil {
 		log.Fatalf("Failed to retrieve photo URLs: %v", err)
 	}
 
-	mirroredURLs, err := mirror(photoURLs, uploader)
+	mirroredURLs, err := mirror(ctx, photoURLs, uploader)
 	if err != nil {
 		log.Fatalf("Failed to mirror photos: %v", err)
 	}
-	fmt.Println("<div class=\"fotorama\" data-allowfullscreen=\"true\">")
-	fmt.Printf("    <!--%s-->\n", albumURL)
 
-	for _, url := range mirroredURLs {
-		fmt.Printf("    <img src=\"https://images.northbriton.net/cdn-cgi/image/width=800/%s\" data-full=\"%s\">\n", url, url)
+	if err := output(mirroredURLs, albumURL, os.Stdout); err != nil {
+		log.Fatalf("Failed to mirror photos: %v", err)
 	}
 
-	fmt.Println("</div>")
 }
