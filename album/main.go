@@ -10,10 +10,6 @@ import (
 	"os"
 	"path"
 	"regexp"
-
-	"github.com/aws/aws-sdk-go-v2/aws"
-	"github.com/aws/aws-sdk-go-v2/service/s3"
-	"github.com/aws/aws-sdk-go-v2/service/s3/types"
 )
 
 const (
@@ -42,7 +38,11 @@ func getPhotoURLs(albumURL string) ([]string, error) {
 	return matches[1 : len(matches)-1], nil
 }
 
-func mirror(ctx context.Context, photoURLs []string, client *s3.Client) ([]string, error) {
+type uploader interface {
+	Put(ctx context.Context, fileName string, body io.Reader) error
+}
+
+func mirror(ctx context.Context, photoURLs []string, client uploader) ([]string, error) {
 	errors := make(chan error)
 	mirroredURLs := make(chan string)
 	ctx, cancel := context.WithCancel(ctx)
@@ -66,12 +66,7 @@ func mirror(ctx context.Context, photoURLs []string, client *s3.Client) ([]strin
 			}
 			defer resp.Body.Close()
 
-			_, err = client.PutObject(ctx, &s3.PutObjectInput{
-				Bucket: aws.String(BUCKET_NAME),
-				Key:    aws.String(fileName),
-				Body:   resp.Body,
-				ACL:    types.ObjectCannedACLPublicRead,
-			})
+			err = client.Put(ctx, fileName, resp.Body)
 			if err != nil {
 				log.Printf("Failed to upload %s: %v", urlStr, err)
 				errors <- err
@@ -84,7 +79,7 @@ func mirror(ctx context.Context, photoURLs []string, client *s3.Client) ([]strin
 	}
 
 	var result []string
-	for _ = range len(photoURLs) {
+	for range len(photoURLs) {
 		select {
 		case url := <-mirroredURLs:
 			result = append(result, url)
@@ -112,34 +107,45 @@ func output(urls []string, albumURL string, w io.Writer) error {
 	return nil
 }
 
-func serve(w http.ResponseWriter, r *http.Request) {
-	album := r.URL.Query().Get("album")
-	if album == "" {
-		w.WriteHeader(http.StatusBadRequest)
-		w.Write([]byte("need an album query arg"))
-		return
-	}
-	photos, err := getPhotoURLs(album)
+func serve(w http.ResponseWriter, r *http.Request, u uploader) {
+	err := r.ParseForm()
 	if err != nil {
-		w.WriteHeader(http.StatusInternalServerError)
-		w.Write([]byte(err.Error()))
+		http.Error(w, "unable to parse form", http.StatusBadRequest)
 		return
 	}
-	mirror(r.Context(), photos, NewS3Uploader(r.Context()))
+	albumURL := r.FormValue("album")
+	if albumURL == "" {
+		http.Error(w, "missign album", http.StatusBadRequest)
+		return
+	}
+	photos, err := getPhotoURLs(albumURL)
+	if err != nil {
+		http.Error(w, "failed to scrape: "+err.Error(), http.StatusInternalServerError)
+		return
+	}
+	mirroredURLs, err := mirror(r.Context(), photos, u)
+	if err != nil {
+		http.Error(w, "failed to scrape: "+err.Error(), http.StatusInternalServerError)
+		return
+	}
+	if err := output(mirroredURLs, albumURL, os.Stdout); err != nil {
+		http.Error(w, "failed to write: "+err.Error(), http.StatusInternalServerError)
+		return
+	}
 
 }
 
 func main() {
-	if secretAccessKey == "" {
-		log.Fatal("Please set the SECRET_ACCESS_KEY environment variable")
-	}
 
-	if len(os.Args) < 2 {
-		log.Fatal("Please provide a Google Photos album URL")
-	}
 	ctx := context.Background()
 	uploader := NewS3Uploader(ctx)
 
+	if len(os.Args) < 2 {
+		log.Println(" listening for form encoded album url on port 8080")
+		http.ListenAndServe(":8080", http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+			serve(w, r, uploader)
+		}))
+	}
 	albumURL := os.Args[1]
 
 	photoURLs, err := getPhotoURLs(albumURL)
