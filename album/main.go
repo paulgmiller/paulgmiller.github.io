@@ -66,50 +66,67 @@ func getPhotoURLs(albumURL string) ([]string, error) {
 	return matches[1 : len(matches)-1], nil
 }
 
-func mirror(photoURLs []string, client *s3.Client) []string {
-	var mirroredURLs []string
-
+func mirror(photoURLs []string, client *s3.Client) ([]string, error) {
+	errors := make(chan error)
+	mirroredURLs := make(chan string)
+	ctx, cancel := context.WithCancel(context.TODO())
+	defer cancel()
 	for _, urlStr := range photoURLs {
-		parsedURL, _ := url.Parse(urlStr)
-		fileName := path.Base(parsedURL.Path)
-		mirrorURL := fmt.Sprintf("https://images.northbriton.net/%s", fileName)
-		// Check if the file already exists by making a HEAD request
-		headResp, err := http.Head(mirrorURL)
-		if err == nil && headResp.StatusCode == http.StatusOK {
-			log.Printf("Already exists: %s", mirrorURL)
-			mirroredURLs = append(mirroredURLs, mirrorURL)
-			continue
-		}
-		resp, err := http.Get(urlStr + "=s0")
-		if err != nil {
-			log.Printf("Failed to download %s: %v", urlStr, err)
-			continue
-		}
-		defer resp.Body.Close()
+		go func(urlStr string) {
+			parsedURL, _ := url.Parse(urlStr)
+			fileName := path.Base(parsedURL.Path)
+			mirrorURL := fmt.Sprintf("https://images.northbriton.net/%s", fileName)
+			// Check if the file already exists by making a HEAD request
+			headResp, err := http.Head(mirrorURL)
+			if err == nil && headResp.StatusCode == http.StatusOK {
+				log.Printf("Already exists: %s", mirrorURL)
+				mirroredURLs <- mirrorURL
+				return
+			}
+			resp, err := http.Get(urlStr + "=s0")
+			if err != nil {
+				log.Printf("Failed to download %s: %v", urlStr, err)
+				errors <- err
+			}
+			defer resp.Body.Close()
 
-		buffer := new(bytes.Buffer)
-		_, err = io.Copy(buffer, resp.Body)
-		if err != nil {
-			log.Printf("Failed to read response body for %s: %v", urlStr, err)
-			continue
-		}
+			buffer := new(bytes.Buffer)
+			_, err = io.Copy(buffer, resp.Body)
+			if err != nil {
+				log.Printf("Failed to read response body for %s: %v", urlStr, err)
+				errors <- err
+				return
+			}
 
-		_, err = client.PutObject(context.TODO(), &s3.PutObjectInput{
-			Bucket: aws.String(BUCKET_NAME),
-			Key:    aws.String(fileName),
-			Body:   buffer,
-			ACL:    types.ObjectCannedACLPublicRead,
-		})
-		if err != nil {
-			log.Printf("Failed to upload %s: %v", urlStr, err)
-			continue
-		}
+			_, err = client.PutObject(ctx, &s3.PutObjectInput{
+				Bucket: aws.String(BUCKET_NAME),
+				Key:    aws.String(fileName),
+				Body:   buffer,
+				ACL:    types.ObjectCannedACLPublicRead,
+			})
+			if err != nil {
+				log.Printf("Failed to upload %s: %v", urlStr, err)
+				errors <- err
+				return
+			}
 
-		mirroredURLs = append(mirroredURLs, mirrorURL)
-		log.Printf("Uploaded %s → %s", urlStr, mirrorURL)
+			mirroredURLs <- mirrorURL
+			log.Printf("Uploaded %s → %s", urlStr, mirrorURL)
+		}(urlStr)
 	}
 
-	return mirroredURLs
+	var result []string
+	for _ = range len(photoURLs) {
+		select {
+		case url := <-mirroredURLs:
+			result = append(result, url)
+		case err := <-errors:
+			log.Printf("Error occurred: %v", err)
+			return nil, err
+		}
+	}
+
+	return result, nil
 }
 
 func main() {
@@ -128,8 +145,10 @@ func main() {
 		log.Fatalf("Failed to retrieve photo URLs: %v", err)
 	}
 
-	mirroredURLs := mirror(photoURLs, uploader)
-
+	mirroredURLs, err := mirror(photoURLs, uploader)
+	if err != nil {
+		log.Fatalf("Failed to mirror photos: %v", err)
+	}
 	fmt.Println("<div class=\"fotorama\" data-allowfullscreen=\"true\">")
 	fmt.Printf("    <!--%s-->", albumURL)
 
