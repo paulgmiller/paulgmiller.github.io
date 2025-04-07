@@ -1,0 +1,29 @@
+apiVersion: v1
+kind: Service
+metadata:
+  creationTimestamp: "2025-04-07T20:48:18Z"
+  labels:
+    app: album
+  name: album
+  namespace: album
+  resourceVersion: "203292975"
+  uid: efdeda22-bc03-4b88-b70a-f52a0f8863fb
+spec:
+  clusterIP: 10.0.15.28
+  clusterIPs:
+  - 10.0.15.28
+  internalTrafficPolicy: Cluster
+  ipFamilies:
+  - IPv4
+  ipFamilyPolicy: SingleStack
+  ports:
+  - name: api
+    port: 80
+    protocol: TCP
+    targetPort: 8080
+  selector:
+    app: album
+  sessionAffinity: None
+  type: ClusterIP
+status:
+  loadBalancer: {}

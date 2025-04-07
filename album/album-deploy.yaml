@@ -1,0 +1,61 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: album
+  name: album
+  namespace: album
+spec:
+  progressDeadlineSeconds: 600
+  replicas: 1
+  revisionHistoryLimit: 10
+  selector:
+    matchLabels:
+      app: album
+  strategy:
+    rollingUpdate:
+      maxSurge: 25%
+      maxUnavailable: 25%
+    type: RollingUpdate
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: album
+    spec:
+      containers:
+      - env:
+        - name: SECRET_ACCESS_KEY
+          valueFrom:
+            secretKeyRef:
+              key: SECRET_ACCESS_KEY
+              name: album
+        image: paulgmiller/album:8173463
+        imagePullPolicy: IfNotPresent
+        name: album
+        resources: {}
+        terminationMessagePath: /dev/termination-log
+        terminationMessagePolicy: File
+      dnsPolicy: ClusterFirst
+      restartPolicy: Always
+      schedulerName: default-scheduler
+      securityContext: {}
+      terminationGracePeriodSeconds: 30
+status:
+  conditions:
+  - lastTransitionTime: "2025-04-07T20:05:44Z"
+    lastUpdateTime: "2025-04-07T20:05:48Z"
+    message: ReplicaSet "album-c74486c7c" has successfully progressed.
+    reason: NewReplicaSetAvailable
+    status: "True"
+    type: Progressing
+  - lastTransitionTime: "2025-04-07T20:05:49Z"
+    lastUpdateTime: "2025-04-07T20:05:49Z"
+    message: Deployment does not have minimum availability.
+    reason: MinimumReplicasUnavailable
+    status: "False"
+    type: Available
+  observedGeneration: 1
+  replicas: 1
+  unavailableReplicas: 1
+  updatedReplicas: 1
