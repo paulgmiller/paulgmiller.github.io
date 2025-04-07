@@ -128,7 +128,7 @@ func serve(w http.ResponseWriter, r *http.Request, u uploader) {
 		http.Error(w, "failed to scrape: "+err.Error(), http.StatusInternalServerError)
 		return
 	}
-	if err := output(mirroredURLs, albumURL, os.Stdout); err != nil {
+	if err := output(mirroredURLs, albumURL, w); err != nil {
 		http.Error(w, "failed to write: "+err.Error(), http.StatusInternalServerError)
 		return
 	}
