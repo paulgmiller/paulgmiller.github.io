@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bytes"
 	"context"
 	"fmt"
 	"io"
@@ -65,8 +66,11 @@ func mirror(ctx context.Context, photoURLs []string, client uploader) ([]string,
 				errors <- err
 			}
 			defer resp.Body.Close()
-
-			err = client.Put(ctx, fileName, resp.Body)
+			data, err := io.ReadAll(resp.Body)
+			if err != nil {
+				errors <- err
+			}
+			err = client.Put(ctx, fileName, bytes.NewReader(data))
 			if err != nil {
 				log.Printf("Failed to upload %s: %v", urlStr, err)
 				errors <- err
@@ -125,7 +129,7 @@ func serve(w http.ResponseWriter, r *http.Request, u uploader) {
 	}
 	mirroredURLs, err := mirror(r.Context(), photos, u)
 	if err != nil {
-		http.Error(w, "failed to scrape: "+err.Error(), http.StatusInternalServerError)
+		http.Error(w, "failed to mirror: "+err.Error(), http.StatusInternalServerError)
 		return
 	}
 	if err := output(mirroredURLs, albumURL, w); err != nil {
