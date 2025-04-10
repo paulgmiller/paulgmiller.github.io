@@ -1,7 +1,6 @@
 package main
 
 import (
-	"bytes"
 	"context"
 	"fmt"
 	"io"
@@ -40,7 +39,7 @@ func getPhotoURLs(albumURL string) ([]string, error) {
 }
 
 type uploader interface {
-	Put(ctx context.Context, fileName string, body io.Reader) error
+	Put(ctx context.Context, fileName string, body io.Reader, contentLength int64) error
 }
 
 func mirror(ctx context.Context, photoURLs []string, client uploader) ([]string, error) {
@@ -66,11 +65,8 @@ func mirror(ctx context.Context, photoURLs []string, client uploader) ([]string,
 				errors <- err
 			}
 			defer resp.Body.Close()
-			data, err := io.ReadAll(resp.Body)
-			if err != nil {
-				errors <- err
-			}
-			err = client.Put(ctx, fileName, bytes.NewReader(data))
+
+			err = client.Put(ctx, fileName, resp.Body, resp.ContentLength)
 			if err != nil {
 				log.Printf("Failed to upload %s: %v", urlStr, err)
 				errors <- err

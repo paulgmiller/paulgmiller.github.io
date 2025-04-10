@@ -46,11 +46,29 @@ func NewS3Uploader(ctx context.Context) *s3uploader {
 	return &s3uploader{client: client}
 }
 
-func (s *s3uploader) Put(ctx context.Context, fileName string, body io.Reader) error {
-	_, err := s.client.PutObject(ctx, &s3.PutObjectInput{
+func (s *s3uploader) Put(ctx context.Context, fileName string, body io.Reader, contentLength int64) error {
+	file, err := os.CreateTemp("", "upload-*.jpg")
+	if err != nil {
+		return err
+	}
+	defer os.Remove(file.Name())
+	defer file.Close()
+
+	_, err = io.Copy(file, body)
+	if err != nil {
+		return err
+	}
+
+	// Rewind file to beginning
+	_, err = file.Seek(0, io.SeekStart)
+	if err != nil {
+		return err
+	}
+
+	_, err = s.client.PutObject(ctx, &s3.PutObjectInput{
 		Bucket: aws.String(BUCKET_NAME),
 		Key:    aws.String(fileName),
-		Body:   body,
+		Body:   file,
 		ACL:    types.ObjectCannedACLPublicRead,
 	})
 	return err
