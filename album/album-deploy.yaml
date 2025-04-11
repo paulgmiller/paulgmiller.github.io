@@ -30,7 +30,7 @@ spec:
             secretKeyRef:
               key: SECRET_ACCESS_KEY
               name: album
-        image: paulgmiller/album:8173463
+        image: paulgmiller/album:9f1f7686d
         imagePullPolicy: IfNotPresent
         name: album
         resources: {}
