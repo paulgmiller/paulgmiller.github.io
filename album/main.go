@@ -97,8 +97,12 @@ func mirror(ctx context.Context, photoURLs []string, client uploader) ([]string,
 	return result, nil
 }
 
+var header = `<div class="fotorama" data-allowfullscreen="true">
+<!--%s-->
+`
+
 func output(urls []string, albumURL string, w io.Writer) error {
-	if _, err := fmt.Fprintf(w, `<div class="fotorama" data-allowfullscreen="true">\n<!--%s-->\n`, albumURL); err != nil {
+	if _, err := fmt.Fprintf(w, header, albumURL); err != nil {
 		return err
 	}
 	for _, url := range urls {
@@ -133,6 +137,7 @@ func serve(w http.ResponseWriter, r *http.Request, u uploader) {
 		http.Error(w, "failed to mirror: "+err.Error(), http.StatusInternalServerError)
 		return
 	}
+	w.Header().Set("Content-Type", "text/plain")
 	if err := output(mirroredURLs, albumURL, w); err != nil {
 		http.Error(w, "failed to write: "+err.Error(), http.StatusInternalServerError)
 		return
