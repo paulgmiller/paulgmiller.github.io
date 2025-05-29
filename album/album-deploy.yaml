@@ -25,12 +25,14 @@ spec:
     spec:
       containers:
       - env:
+        - name: ACCESS_KEY_ID
+          value: "5fa3c3b71308fdd6fffa16c0f2c7f637"
         - name: SECRET_ACCESS_KEY
           valueFrom:
             secretKeyRef:
               key: SECRET_ACCESS_KEY
               name: album
-        image: paulgmiller/album:9f1f7686d
+        image: paulgmiller/album:55656d1
         imagePullPolicy: IfNotPresent
         name: album
         resources: {}
