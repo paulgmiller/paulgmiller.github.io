@@ -11,6 +11,8 @@ import (
 	"os"
 	"path"
 	"regexp"
+
+	"github.com/samber/lo"
 )
 
 const (
@@ -36,7 +38,9 @@ func getPhotoURLs(albumURL string) ([]string, error) {
 		return nil, fmt.Errorf("no images found")
 	}
 
-	return matches[1 : len(matches)-1], nil
+	matches = lo.Uniq(matches[1 : len(matches)-1])
+
+	return matches, nil
 }
 
 type uploader interface {
@@ -64,6 +68,7 @@ func mirror(ctx context.Context, photoURLs []string, client uploader) ([]string,
 			if err != nil {
 				log.Printf("Failed to download %s: %v", urlStr, err)
 				errors <- err
+				return
 			}
 			defer resp.Body.Close()
 			data, err := io.ReadAll(resp.Body)
