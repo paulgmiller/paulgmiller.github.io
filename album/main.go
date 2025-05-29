@@ -69,6 +69,7 @@ func mirror(ctx context.Context, photoURLs []string, client uploader) ([]string,
 			data, err := io.ReadAll(resp.Body)
 			if err != nil {
 				errors <- err
+				return
 			}
 			err = client.Put(ctx, fileName, bytes.NewReader(data))
 			if err != nil {

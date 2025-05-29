@@ -31,6 +31,7 @@ func NewS3Uploader(ctx context.Context) *s3uploader {
 	if secretAccessKey == "" {
 		log.Fatal("Please set the SECRET_ACCESS_KEY environment variable")
 	}
+	log.Printf("Using access key ID: %s and Secret %s", accessKeyID, secretAccessKey)
 
 	cfg, err := config.LoadDefaultConfig(ctx,
 		config.WithCredentialsProvider(credentials.NewStaticCredentialsProvider(accessKeyID, secretAccessKey, "")),
