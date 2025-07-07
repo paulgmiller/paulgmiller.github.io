@@ -18,19 +18,20 @@ const (
 	BUCKET_NAME  = "blogimages"
 )
 
-var (
-	accessKeyID = "67d604ab768283b886fa7e1d746a9dc9"
-)
-
 type s3uploader struct {
 	client *s3.Client
 }
 
 func NewS3Uploader(ctx context.Context) *s3uploader {
+	accessKeyID := os.Getenv("ACCESS_KEY_ID")
+	if accessKeyID == "" {
+		log.Fatal("Please set the SECRET_ACCESS_KEY environment variable")
+	}
 	secretAccessKey := os.Getenv("SECRET_ACCESS_KEY")
 	if secretAccessKey == "" {
 		log.Fatal("Please set the SECRET_ACCESS_KEY environment variable")
 	}
+	log.Printf("Using access key ID: %s and Secret %s", accessKeyID, secretAccessKey)
 
 	cfg, err := config.LoadDefaultConfig(ctx,
 		config.WithCredentialsProvider(credentials.NewStaticCredentialsProvider(accessKeyID, secretAccessKey, "")),

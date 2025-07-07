@@ -11,6 +11,8 @@ import (
 	"os"
 	"path"
 	"regexp"
+
+	"github.com/samber/lo"
 )
 
 const (
@@ -36,7 +38,9 @@ func getPhotoURLs(albumURL string) ([]string, error) {
 		return nil, fmt.Errorf("no images found")
 	}
 
-	return matches[1 : len(matches)-1], nil
+	matches = lo.Uniq(matches[1 : len(matches)-1])
+
+	return matches, nil
 }
 
 type uploader interface {
@@ -64,11 +68,13 @@ func mirror(ctx context.Context, photoURLs []string, client uploader) ([]string,
 			if err != nil {
 				log.Printf("Failed to download %s: %v", urlStr, err)
 				errors <- err
+				return
 			}
 			defer resp.Body.Close()
 			data, err := io.ReadAll(resp.Body)
 			if err != nil {
 				errors <- err
+				return
 			}
 			err = client.Put(ctx, fileName, bytes.NewReader(data))
 			if err != nil {
@@ -96,8 +102,12 @@ func mirror(ctx context.Context, photoURLs []string, client uploader) ([]string,
 	return result, nil
 }
 
+var header = `<div class="fotorama" data-allowfullscreen="true">
+<!--%s-->
+`
+
 func output(urls []string, albumURL string, w io.Writer) error {
-	if _, err := fmt.Fprintf(w, `<div class="fotorama" data-allowfullscreen="true">\n<!--%s-->\n`, albumURL); err != nil {
+	if _, err := fmt.Fprintf(w, header, albumURL); err != nil {
 		return err
 	}
 	for _, url := range urls {
@@ -132,6 +142,7 @@ func serve(w http.ResponseWriter, r *http.Request, u uploader) {
 		http.Error(w, "failed to mirror: "+err.Error(), http.StatusInternalServerError)
 		return
 	}
+	w.Header().Set("Content-Type", "text/plain")
 	if err := output(mirroredURLs, albumURL, w); err != nil {
 		http.Error(w, "failed to write: "+err.Error(), http.StatusInternalServerError)
 		return
