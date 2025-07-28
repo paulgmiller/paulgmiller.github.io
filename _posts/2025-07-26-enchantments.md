@@ -1,3 +1,5 @@
+[Pictures laid out on google maps](https://www.google.com/maps/d/edit?mid=1u6ezkouHe5aqRxfgb3P2c-DJaS-0zas&usp=sharing)
+
 <div class="fotorama" data-allowfullscreen="true">
 <!--https://photos.app.goo.gl/eQBgaksZnxwRHRau7-->
     <img src="https://images.northbriton.net/cdn-cgi/image/width=800/https://images.northbriton.net/AP1GczMQqASuMUXSxXr93O99DwI-q9R5fp-TTxReuISN7snbe3EieF8RHcrOW7ZQoPnZGutHjGolgkx17_ICmETz4GSFCVKa5QMcNQBvHlMrbeXS2rvAHKl4" data-full="https://images.northbriton.net/AP1GczMQqASuMUXSxXr93O99DwI-q9R5fp-TTxReuISN7snbe3EieF8RHcrOW7ZQoPnZGutHjGolgkx17_ICmETz4GSFCVKa5QMcNQBvHlMrbeXS2rvAHKl4">
