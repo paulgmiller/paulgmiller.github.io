@@ -1,3 +1,9 @@
+---
+layout: post
+title: dirty harry's balcony 
+tags: [ family, photos ]
+---
+
 <div class="fotorama" data-allowfullscreen="true">
 <!--https://photos.app.goo.gl/3EbLGjDbMahKndH19-->
     <img src="https://images.northbriton.net/cdn-cgi/image/width=800/https://images.northbriton.net/AP1GczMdM6H33IpCB42mVTC63Mgl48avN8-pCvyi21lQSieNLaaUjB_2jLXLdIsWsNxRbfLwFCewSBTldAj-hfqEc_sILwpXytozsga89Y1iTwBH_wgJ4WYI" data-full="https://images.northbriton.net/AP1GczMdM6H33IpCB42mVTC63Mgl48avN8-pCvyi21lQSieNLaaUjB_2jLXLdIsWsNxRbfLwFCewSBTldAj-hfqEc_sILwpXytozsga89Y1iTwBH_wgJ4WYI">
