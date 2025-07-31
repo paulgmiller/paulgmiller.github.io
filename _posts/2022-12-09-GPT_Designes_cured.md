@@ -4,6 +4,8 @@ title: chatgpt designs kured.
 tags: [ tech ]
 ---
 
+**Update. Chatgpt got alot better and basically solves this now.  https://chatgpt.com/share/6887cbb3-9380-8009-910f-0306b039230f**
+
 Raw test below will summarize latter. 
 
 ----

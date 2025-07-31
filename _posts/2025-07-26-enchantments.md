@@ -3,6 +3,7 @@ layout: post
 title: enchantments
 tags: [ family, photos ]
 ---
+[Pictures laid out on google maps](https://www.google.com/maps/d/edit?mid=1u6ezkouHe5aqRxfgb3P2c-DJaS-0zas&usp=sharing)
 
 <div class="fotorama" data-allowfullscreen="true">
 <!--https://photos.app.goo.gl/eQBgaksZnxwRHRau7-->
