@@ -2,12 +2,10 @@
 layout: post
 title: "Cocoa-Cajun Flank Steak Marinade"
 date: 2025-08-02
-tags: [recipe, flank-steak, marinade, cajun, cocoa]
+tags: [recipes]
 ---
 
-If you’re craving bold, smoky, and complex flavors but don’t have chipotle or coffee on hand, this **Cocoa-Cajun Flank Steak Marinade** brings deep umami, spice, and a subtle bittersweet kick using pantry staples like Cajun seasoning and cocoa powder.
-
-This is perfect for grilling or cast iron searing—just be sure to slice thinly against the grain after a rest.
+This is perfect for grilling or cast iron searing—just be sure to slice thinly against the grain after a rest
 
 ## 🥩 Cocoa-Cajun Flank Steak Marinade
 
