@@ -2,7 +2,7 @@
 layout: post
 title: "Chanterelle and Corn Chowder with Basil"
 date: 2025-08-09
-categories: recipes soup vegetarian
+tags: [recipes]
 ---
 
 ## Chanterelle and Corn Chowder with Basil
