@@ -1,3 +1,9 @@
+---
+layout: post
+title: kids are alright
+tags: [ tech ]
+---
+
 The kids are alright.
 
 Since I was "junior" engineer there have been a bunch of stuctual changes
