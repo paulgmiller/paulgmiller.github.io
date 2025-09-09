@@ -5,8 +5,6 @@ date: 2025-08-09
 tags: [recipes]
 ---
 
-## Chanterelle and Corn Chowder with Basil
-
 This hearty chowder combines the nutty flavor of chanterelle mushrooms with the sweetness of fresh corn, finished with fresh basil for a vibrant Pacific Northwest taste.
 
 ---
