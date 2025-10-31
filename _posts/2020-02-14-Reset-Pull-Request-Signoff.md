@@ -23,3 +23,6 @@ If you've been in lots of codebases you start to get a feel for the quality of a
 On the other hand codebase with a "bad smell" is going to get less love and thoughtfulness. What started out in your codebase as little papercuts will, over time, turn it into a dumpster fire of a codebase that nobody wants to put effort in to because it is already visibly bad!
 
 And all of this to satisfy what wasn't a helpful requirement in the first place, that code be rigorously reviewed. There is nothing here that achieves this goal and, in fact, it leads to reviewer fatigue and less rigorous reviews all around. It's seriously harmful.  
+
+2025.update The price of mandatory code reviews - Remote https://share.google/NqQVXIOFjM8vnFp5J
+
