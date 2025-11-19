@@ -61,7 +61,7 @@ This approach is pretty great if you're in main.go, but what if you're writing a
 * It includes text and JSON implementations.
 * You can set the default! (Claim: just use the slog.Info/Error methods instead of passing loggers around most of the time.)
 
-## Levels
+### Levels
 [Debug/Info/Warn/Error](https://pkg.go.dev/log/slog@go1.25.4#Level)
 * Throw all your junk into debug! Main.go can [set level](https://pkg.go.dev/log/slog@go1.25.4#SetLogLoggerLevel) and toss it.
 * Indecisive? Warn away!
@@ -82,7 +82,7 @@ _▶ [Go Playground](https://go.dev/play/p/fy06nhHWPpl)_
   2009/11/10 23:00:00 ERROR+2 more important than an error
 ```
 
-## Structure
+### Structure
 * String parsing stinks because we have Kusto and lots of other fancy databases!
 * Request IDs, other tracing items, latencies as durations, and general metadata all live happily here.
 * Attrs have lots of nice built-in types, and there are groups (I have not used groups).
@@ -114,7 +114,7 @@ _▶ [Go Playground](https://go.dev/play/p/6UbejghCS5a)_
 * Then you can use https://github.com/PumpkinSeed/slog-context. [Example blog](https://betterstack.com/community/guides/logging/golang-contextual-logging/)
 * Written by someone named PumpkinSeed, so it must be good. I kind of wanted a standard library way to do it, though.
 
-## Handlers!
+### Handlers!
 * The fools gave us an [interface](https://pkg.go.dev/log/slog@go1.25.4#Handler): 	Handle(context.Context, Record) error
 * Maybe you don't want JSON; maybe you want BSON or Thrift or whatever compact nonsense.
 * Maybe you want to forward records to Kusto, Blob storage, Kafka, or Service Bus.
@@ -125,7 +125,7 @@ _▶ [Go Playground](https://go.dev/play/p/6UbejghCS5a)_
     * Hit an interesting deadlock
     * [Went to a writer](https://github.com/paulgmiller/careme/blob/master/internal/logsink/appendblob.go) much simpler but regret it because now I might split log records
 
-## Awesome slog
+### Awesome slog
 * [Lots more stuff here](https://github.com/go-slog/awesome-slog)
 * Want to log tests to console but put JSON somewhere else? [slog-multi!](https://github.com/samber/slog-multi)
 * Want to log directly to Teams? (WHY!) [Here's a forwarder](https://github.com/samber/slog-microsoft-teams). Maybe Datadog or Kafka make more sense.
