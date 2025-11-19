@@ -90,20 +90,24 @@ _▶ [Go Playground](https://go.dev/play/p/fy06nhHWPpl)_
 
 ```go
 slog.With("author", "pmiller")
-slog.Info("I will see you in ", "time", time.Hour, slog.Duration("strongtypedtime", time.Minute), slog.Float64("pi", math.Pi))
-attrs := []slog.Attr{
-	slog.String("author", "jsonpaul"),
-	slog.String("program", "playground"),
-}
-handler := slog.NewJSONHandler(os.Stdout, nil).WithAttrs(attrs)
+	slog.Info("I will see you in ", "time", time.Hour, slog.Duration("strongtypedtime", time.Minute),
+		slog.Float64("pi", math.Pi),
+		slog.Group("plane", "make", "boeing", "model", "737"))
+	attrs := []slog.Attr{
+		slog.String("author", "jsonpaul"),
+		slog.String("program", "playground"),
+	}
+	handler := slog.NewJSONHandler(os.Stdout, nil).WithAttrs(attrs)
 
-slog.SetDefault(slog.New(handler))
-slog.Info("I will see you in ", "time", time.Hour, slog.Duration("strongtypedtime", time.Minute), slog.Float64("pi", math.Pi))
+	slog.SetDefault(slog.New(handler))
+	slog.Info("I will see you in ", "time", time.Hour, slog.Duration("strongtypedtime", time.Minute),
+		slog.Float64("pi", math.Pi),
+		slog.Group("plane", "make", "boeing", "model", "737"))
 ```
-_▶ [Go Playground](https://go.dev/play/p/6UbejghCS5a)_
+_▶ [Go Playground](https://go.dev/play/p/fSQumMBYw9y)_
 ```
-  2009/11/10 23:00:00 INFO I will see you in  time=1h0m0s strongtypedtime=1m0s pi=3.141592653589793
-  {"time":"2009-11-10T23:00:00Z","level":"INFO","msg":"I will see you in ","author":"jsonpaul","program":"playground","time":3600000000000,"strongtypedtime":60000000000,"pi":3.141592653589793}
+ 2009/11/10 23:00:00 INFO I will see you in  time=1h0m0s strongtypedtime=1m0s pi=3.141592653589793 plane.make=boeing plane.model=737
+{"time":"2009-11-10T23:00:00Z","level":"INFO","msg":"I will see you in ","author":"jsonpaul","program":"playground","time":3600000000000,"strongtypedtime":60000000000,"pi":3.141592653589793,"plane":{"make":"boeing","model":"737"}}
 ```
 
 ### Putting things on context?
