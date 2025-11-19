@@ -6,16 +6,16 @@ tags: [ tech ]
 
 Why did golang get a new logging framework after ~10 years? 
 
-## Existing ["log"]([url](https://pkg.go.dev/log)) package
+## Existing ["log"](https://pkg.go.dev/log) package
 * It's like printf but there's a timestamp!
 * I can call Fatal and Panic; I guess that's nice in main.
 
-```
+```go
 log.Println("Hello, 世界")
 log.Printf("I will see you in %s\n", time.Hour)
 log.Fatal("Oh no it's all gone wrong")
 ```
-[*](https://dave.cheney.net/2015/11/05/lets-talk-about-logging)
+_▶ [Go Playground](https://go.dev/play/p/D-C2HC_Aw9A)_
 ```
 2009/11/10 23:00:00 Hello, 世界
 2009/11/10 23:00:00 I will see you in 1h0m0s
@@ -67,14 +67,14 @@ This approach is pretty great if you're in main.go, but what if you're writing a
 * Indecisive? Warn away!
 * Make up your own log levels and go crazy.
 
-```
+```go
 	slog.Debug("Hello, 世界")
 	slog.Info("I will see you in ", "time", time.Hour)
 	slog.Warn("It's getting hot in here")
 	slog.Error("Nuts", "error", fmt.Errorf("next time gadget"))
 	slog.Log(context.TODO(), slog.Level(10), "more important than an error"
 ```
-[*](https://go.dev/play/p/fy06nhHWPpl)
+_▶ [Go Playground](https://go.dev/play/p/fy06nhHWPpl)_
 ```
   2009/11/10 23:00:00 INFO I will see you in  time=1h0m0s
   2009/11/10 23:00:00 WARN It's getting hot in here
@@ -88,19 +88,19 @@ This approach is pretty great if you're in main.go, but what if you're writing a
 * Attrs have lots of nice built-in types, and there are groups (I have not used groups).
 * You can set attributes globally on the default or a particular log instance with With/WithAttrs.
 
-```
+```go
 slog.With("author", "pmiller")
-	slog.Info("I will see you in ", "time", time.Hour, slog.Duration("strongtypedtime", time.Minute), slog.Float64("pi", math.Pi))
-	attrs := []slog.Attr{
-		slog.String("author", "jsonpaul"),
-		slog.String("program", "playground"),
-	}
-	handler := slog.NewJSONHandler(os.Stdout, nil).WithAttrs(attrs)
+slog.Info("I will see you in ", "time", time.Hour, slog.Duration("strongtypedtime", time.Minute), slog.Float64("pi", math.Pi))
+attrs := []slog.Attr{
+	slog.String("author", "jsonpaul"),
+	slog.String("program", "playground"),
+}
+handler := slog.NewJSONHandler(os.Stdout, nil).WithAttrs(attrs)
 
-	slog.SetDefault(slog.New(handler))
-	slog.Info("I will see you in ", "time", time.Hour, slog.Duration("strongtypedtime", time.Minute), slog.Float64("pi", math.Pi))
+slog.SetDefault(slog.New(handler))
+slog.Info("I will see you in ", "time", time.Hour, slog.Duration("strongtypedtime", time.Minute), slog.Float64("pi", math.Pi))
 ```
-[*](https://go.dev/play/p/6UbejghCS5a)
+_▶ [Go Playground](https://go.dev/play/p/6UbejghCS5a)_
 ```
   2009/11/10 23:00:00 INFO I will see you in  time=1h0m0s strongtypedtime=1m0s pi=3.141592653589793
   {"time":"2009-11-10T23:00:00Z","level":"INFO","msg":"I will see you in ","author":"jsonpaul","program":"playground","time":3600000000000,"strongtypedtime":60000000000,"pi":3.141592653589793}
@@ -126,7 +126,7 @@ slog.With("author", "pmiller")
     * [Went to a writer](https://github.com/paulgmiller/careme/blob/master/internal/logsink/appendblob.go) much simpler but regret it because now I might split log records
 
 ## Awesome slog
-* Lots more stuff here: https://github.com/go-slog/awesome-slog
+* [Lots more stuff here](https://github.com/go-slog/awesome-slog)
 * Want to log tests to console but put JSON somewhere else? [slog-multi!](https://github.com/samber/slog-multi)
 * Want to log directly to Teams? (WHY!) [Here's a forwarder](https://github.com/samber/slog-microsoft-teams). Maybe Datadog or Kafka make more sense.
 * Miss Logrus? [There's an adapter](https://github.com/go-slog/awesome-slog?tab=readme-ov-file#adapters)
