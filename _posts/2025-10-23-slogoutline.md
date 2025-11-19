@@ -14,12 +14,13 @@ Why did golang get a new logging framework after ~10 years?
 log.Println("Hello, 世界")
 log.Printf("I will se you in %s\n", time.Hour)
 log.Fatal("Oh no its all gone wrong")
-
+```
+[*](https://dave.cheney.net/2015/11/05/lets-talk-about-logging)
+```
 2009/11/10 23:00:00 Hello, 世界
 2009/11/10 23:00:00 I will se you in 1h0m0s
 2009/11/10 23:00:00 Oh now its all gone wrong
 ```
-[*](https://dave.cheney.net/2015/11/05/lets-talk-about-logging)
   
 * There  is [Setoutput](https://cs.opensource.google/go/go/+/refs/tags/go1.25.3:src/log/log.go;l=364) Lets come back to this later
 * And I can get a Default logger but I can't SET a default logger. 
@@ -42,7 +43,7 @@ Above is pretty great if your in main.go but what if you're writing a package fo
     
 * What if I want to customize my log format?
     * Json / Binary
-    * Coloring / Emoji✅ 
+    * [Coloring](https://gitlab.com/greyxor/slogor) / Emoji✅ 
 
 ## What about X
 * zap and logrus are pretty neat. They introduced level, structure, sinks and alot of the stuff I am going to talk about below. 
@@ -72,13 +73,14 @@ Above is pretty great if your in main.go but what if you're writing a package fo
 	slog.Warn("It's getting hot in here")
 	slog.Error("Nuts", "error", fmt.Errorf("next time gadget"))
 	slog.Log(context.TODO(), slog.Level(10), "more imporant than an error"
-
+```
+[*](https://go.dev/play/p/fy06nhHWPpl)
+```
   2009/11/10 23:00:00 INFO I will se you in  time=1h0m0s
   2009/11/10 23:00:00 WARN It's getting hot in here
   2009/11/10 23:00:00 ERROR Nuts error="next time gadget"
   2009/11/10 23:00:00 ERROR+2 more imporant than an error
 ```
-[*](https://go.dev/play/p/fy06nhHWPpl)
 
 ## Structure
 * String parsing stinks! We have kusto and lots of other fancy databases!
@@ -97,7 +99,9 @@ slog.With("author", "pmiller")
 
 	slog.SetDefault(slog.New(handler))
 	slog.Info("I will see you in ", "time", time.Hour, slog.Duration("strongtypedtime", time.Minute), slog.Float64("pi", math.Pi))
-
+```
+[*](https://go.dev/play/p/6UbejghCS5a)
+```
   2009/11/10 23:00:00 INFO I will see you in  time=1h0m0s strongtypedtime=1m0s pi=3.141592653589793
   {"time":"2009-11-10T23:00:00Z","level":"INFO","msg":"I will see you in ","author":"jsonpaul","program":"playground","time":3600000000000,"strongtypedtime":60000000000,"pi":3.141592653589793}
 ```
@@ -122,6 +126,7 @@ slog.With("author", "pmiller")
     * [Went to a writer](https://github.com/paulgmiller/careme/blob/master/internal/logsink/appendblob.go) much simpler  but regret it because now I might split log records
 
 ## awesome slog.
-Lots more stuff here https://github.com/go-slog/awesome-slog
-Want to log directly to team? (WHY!) Here's a forwarder
-Miss Logrus? [There's an adapter](https://github.com/go-slog/awesome-slog?tab=readme-ov-file#adapters)
+* Lots more stuff here https://github.com/go-slog/awesome-slog
+* Want to log test to console but put json to soemwhere else? [slog-multi!](https://github.com/samber/slog-multi) 
+* Want to log directly to team? (WHY!) [Here's a forwarder](https://github.com/samber/slog-microsoft-teams). Maybe datadog or kafka make more sense.
+* Miss Logrus? [There's an adapter](https://github.com/go-slog/awesome-slog?tab=readme-ov-file#adapters)
