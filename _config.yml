@@ -1,9 +1,0 @@
-pretzel: 
-    engine: liquid
-
-# Site settings
-author: Paul Miller # name of the author
-title: The gyrations of a pointless and uncaring universe  # site title
-url: https://paulgmiller.github.io # site url
-giturl: https://github.com/paulgmiller/paulgmiller.github.io
-contact: paul.miller@gmail.com # mail of the author
