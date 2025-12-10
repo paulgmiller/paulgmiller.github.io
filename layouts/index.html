@@ -1,0 +1,68 @@
+{{ define "main" }}
+<ul class="posts">
+    {{ $first := index (first 1 .Site.RegularPages) 0 }}
+    {{ range $index, $page := first 5 .Site.RegularPages }}
+		<li>
+			<div class="idea">
+				{{ if eq $index 0 }}
+					<h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+					<div class="postdate">{{ .Date.Format "2 January, 2006" }}
+						<ul>
+						{{ with .Params.tags }}
+							{{ if reflect.IsSlice . }}
+								{{ range . }}
+									<li><a href="/tags/{{ . | urlize }}">{{ . }}</a></li>
+								{{ end }}
+							{{ end }}
+						{{ end }}
+						</ul>
+					</div>
+					{{ .Content }}
+					{{ with .Params.images }}
+						{{ range first 5 . }}
+							<li><a href="{{ .src }}">
+							{{ .caption }}<br/>
+							<img alt="{{ .alttext }}" src="https://images.weserv.nl/?w=650&url={{ .src }}"> 
+							</a></li>
+						{{ end }}
+					{{ end }}
+					<br />
+					<a href="{{ .RelPermalink }}#disqus_thread">Comments</a>
+				{{ else }}
+					<h2><a class="postlink" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+					<div class="postdate">{{ .Date.Format "2 January, 2006" }}
+						<ul>
+						{{ with .Params.tags }}
+							{{ if reflect.IsSlice . }}
+								{{ range . }}
+									<li><a href="/tags/{{ . | urlize }}">{{ . }}</a></li>
+								{{ end }}
+							{{ end }}
+						{{ end }}
+						</ul>
+					</div>
+					{{ .Content }}
+					{{ with .Params.images }}
+						{{ range first 3 . }}
+							<li><a href="{{ .src }}">
+							{{ .caption }}<br/>
+							<img alt="{{ .alttext }}" src="https://images.weserv.nl/?w=650&url={{ .src }}"> 
+							</a></li>
+						{{ end }}
+					{{ end }}
+					<a href="{{ .RelPermalink }}#disqus_thread">Comments</a>
+				{{ end }}
+			</div>
+		</li>
+    {{ end }}
+</ul>
+
+<h3>OLDER</h3>
+<ul class="postArchive">
+{{ range after 5 .Site.RegularPages }}
+	<li>
+		<span class="olderpostdate"> {{ .Date.Format "02 Jan" }} </span> <a class="postlink" href="{{ .RelPermalink }}">{{ .Title }}</a>
+	</li>
+{{ end }}
+</ul>
+{{ end }}
