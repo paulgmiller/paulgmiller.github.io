@@ -1,0 +1,10 @@
+{{ define "main" }}
+<h2>{{ .Title }}</h2>
+<ul class="postArchive">
+{{ range .Pages }}
+	<li>
+		<span class="olderpostdate"> {{ .Date.Format "02 Jan 2006" }} </span> <a class="postlink" href="{{ .RelPermalink }}">{{ .Title }}</a>
+	</li>
+{{ end }}
+</ul>
+{{ end }}

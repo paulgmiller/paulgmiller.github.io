@@ -1,0 +1,56 @@
+{{ define "main" }}
+<div class="entry-container">
+	<div class='entry'>
+		<h1> {{ .Title }} </h1>
+		<span class="postdate">{{ .Date.Format "2 January, 2006" }}
+			{{ with .Params.tags }}
+				{{ if reflect.IsSlice . }}
+					{{ range . }}
+						<li><a href="/tags/{{ . | urlize }}">{{ . }}</a></li>
+					{{ end }}
+				{{ end }}
+			{{ end }}
+			<!-- https://github.com/jekyll/jekyll-help/issues/5 -->
+			<a href="{{$.Site.Params.giturl}}/edit/master/content/{{ .File.Path }}">Edit this page</a>
+		</span>
+		{{ .Content }}
+		{{ with .Params.images }}
+			{{ range . }}
+				<li><a href="{{ .src }}">
+				{{ .caption }}<br/>
+				<img alt="{{ .alttext }}" src="https://images.weserv.nl/?w=650&url={{ .src }}"> 
+				</a></li>
+			{{ end }}
+   		{{ end }}
+	</div>
+</div>
+<div id="page-navigation"> 
+	<div class="left"> {{ with .PrevInSection }} <a href="{{ .RelPermalink }}" title="Previous Post: {{ .Title }}">&larr; {{ .Title }}</a> {{ end }} </div> 
+	<div class="right"> {{ with .NextInSection }} <a href="{{ .RelPermalink }}" title="next Post: {{ .Title }}">{{ .Title }} &rarr; </a> {{ end }} </div> 
+	<div class="clear">&nbsp;</div>
+</div> 
+
+
+{{ if .Params.comments }}
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://paulgmiller-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{{ end }}
+{{ end }}

@@ -1,1 +1,10 @@
 .env
+# Hugo
+public/
+resources/
+.hugo_build.lock
+
+# Jekyll (legacy)
+_site/
+.jekyll-cache/
+.sass-cache/

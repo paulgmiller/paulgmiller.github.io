@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	{{ partial "head.html" . }}
+	<body>
+		<div id="container">
+			<div id="side">
+				<a href="/" id="home" title="home" alt="home"><img src="https://images.weserv.nl/?w=200&url=https://paulgmiller.github.io/img/logo.png" alt="Site Name" /></a>
+				<div id="hometext"><a href="/" >{{ .Site.Title }}</a></div>
+				<div class="section">
+					<ul>
+						<li><a href="/about.html">about</a></li>
+						<li><a href="/rss.xml"><img src="/img/25.png" />feed</a></li>
+						<li><a href="{{.Site.Params.giturl}}/new/master/content/posts">post</a></li>						
+						<li>Tags:
+							<ul>
+							<li><a href="/tags/beer">beer</a></li>
+							<li><a href="/tags/hiking">hiking</a></li>
+							<li><a href="/tags/tech">tech</a></li>
+							<li><a href="/tags/family">family</a></li>
+							<li><a href="/tags/books">books</a></li>
+							<li><a href="/tags/recipes">recipes</a></li>
+							<li><a href="/tags/bets">bets</a></li>
+							<li><a href="/tags/photos">photos</a></li>
+							</ul>
+					</ul>
+				</div>
+			</div>
+			<div id="content">
+				{{ block "main" . }}{{ end }}
+			</div>
+		</div>
+		<script src="//cdn.jsdelivr.net/highlight.js/9.4.0/highlight.min.js"></script>
+		<script>hljs.initHighlightingOnLoad();</script>
+	</body>
+</html>
