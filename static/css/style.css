@@ -77,11 +77,23 @@ li
 #content 
 {
 	width:auto;
+	overflow: hidden;
 }
 img
 {
   max-width: 100%; 
   border: none;
+}
+pre, code
+{
+	max-width: 100%;
+	overflow-x: auto;
+	word-wrap: break-word;
+}
+pre
+{
+	white-space: pre-wrap;
+	word-break: break-all;
 }
 .postdate 
 { 
