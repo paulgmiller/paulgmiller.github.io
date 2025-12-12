@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test doubles in golang
-date: 2020-10-10
+date: 2025-10-10
 tags: [tech]
 ---
 
@@ -11,27 +11,27 @@ tags: [tech]
 type Doer  interface {
      Do() (int,error)
 }
- 
+
 type Dummy  struct {}
- 
+
 func (d Dummy) (int,error) { panic("im a dummy") }
- 
-  
-type Stub struct {} 
+
+
+type Stub struct {}
 func (s Stub) (int, error) { return 5, nil }
- 
+
 type Spy struct {
-    count int 
+    count int
 }
 func (s Spy) Do (int, err)  { s.count++ return 5, nil }
 func (s Spy) Count() int { return s.count}
- 
 
-type Fake struct { 
+
+type Fake struct {
       Value  int
       Errror error
-}  
+}
 func (f Fake) Do() (int, err) { return f.Value, f.Error }
 ```
 
-Mocks are evil. Don't use mocks. 
+Mocks are evil. Don't use mocks.
