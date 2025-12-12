@@ -1,11 +1,20 @@
 	<head>
+		{{- $description := "" -}}
+		{{- if .Description -}}
+			{{- $description = .Description -}}
+		{{- else if .IsPage -}}
+			{{- $description = .Summary | plainify | truncate 155 -}}
+		{{- else -}}
+			{{- $description = .Site.Params.description | default (printf "%s - A blog about code, sci fi, beer, hiking, family and more" .Site.Title) -}}
+		{{- end -}}
+		
 		<meta charset="utf-8" />
 		<meta content="en-au" http-equiv="Content-Language" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 		
 		<!-- Title and Description -->
 		<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
-		<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else if .IsPage }}{{ .Summary | plainify | truncate 155 }}{{ else }}{{ .Site.Title }} - A blog about code, sci fi, beer, hiking, family and more{{ end }}" />
+		<meta name="description" content="{{ $description }}" />
 		<meta name="author" content="Paul Miller" />
 		
 		<!-- Canonical URL -->
@@ -19,17 +28,17 @@
 		<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 		<meta property="og:url" content="{{ .Permalink }}" />
 		<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}" />
-		<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else if .IsPage }}{{ .Summary | plainify | truncate 155 }}{{ else }}{{ .Site.Title }} - A blog about code, sci fi, beer, hiking, family and more{{ end }}" />
+		<meta property="og:description" content="{{ $description }}" />
 		<meta property="og:site_name" content="{{ .Site.Title }}" />
-		{{ with .Params.images }}{{ range first 1 . }}<meta property="og:image" content="{{ .src }}" />{{ end }}{{ end }}
+		{{ with .Params.images }}{{ range first 1 . }}<meta property="og:image" content="{{ .src | absURL }}" />{{ end }}{{ end }}
 		{{ if .IsPage }}<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" />{{ end }}
 		{{ if .IsPage }}{{ with .Params.tags }}<meta property="article:tag" content="{{ delimit . ", " }}" />{{ end }}{{ end }}
 		
 		<!-- Twitter Card -->
 		<meta name="twitter:card" content="summary" />
 		<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}" />
-		<meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else if .IsPage }}{{ .Summary | plainify | truncate 155 }}{{ else }}{{ .Site.Title }} - A blog about code, sci fi, beer, hiking, family and more{{ end }}" />
-		{{ with .Params.images }}{{ range first 1 . }}<meta name="twitter:image" content="{{ .src }}" />{{ end }}{{ end }}
+		<meta name="twitter:description" content="{{ $description }}" />
+		{{ with .Params.images }}{{ range first 1 . }}<meta name="twitter:image" content="{{ .src | absURL }}" />{{ end }}{{ end }}
 		
 		<!-- Stylesheets -->
 		<link rel="stylesheet" type="text/css" href="/css/style.css" />
