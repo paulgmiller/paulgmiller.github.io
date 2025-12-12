@@ -19,4 +19,9 @@ title = 'The gyrations of a pointless and uncaring universe'
 [markup.goldmark.renderer]
   unsafe = true
 
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
 ignoreLogs = ['warning-goldmark-raw-html']
