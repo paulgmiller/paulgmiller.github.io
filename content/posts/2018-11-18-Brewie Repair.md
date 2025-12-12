@@ -2,7 +2,7 @@
 layout: post
 title: Brewie Repair
 tags: [ beer ]
-
+date: 2018-11-18
 ---
 
 So follow up on the [Brewie Review]({{ site.baseurl }}{% post_url 2018-6-2-Brewie %}). Was having a blast. Just orded a double recipe from [morebeer](https://morebeer.com). But while my sculpin clone was mashing, the whole brewie died. Changing outlets didn't help but unlike during ordering customer support was pretty helpful. Their first guess was a fuse so I grabbed a 15 amp ceramic microwave fuse (should be good for higher temps) at home depot and cracked open the case. (about 12 short screws and 4 feet have to be removed, not too bad)

@@ -2,6 +2,7 @@
 layout: post
 title: Xml is a Joke
 tags: [ tech ]
+date: 2020-07-29
 ---
 Way back in the ancient times of 2006 I had a boss who wrote a xml sax parser in C++ because libraries were hard i guess.
 I got to debug bugs and use it and evntually wrote a object representation on top of it which used more memory and was 10% less awful to use.

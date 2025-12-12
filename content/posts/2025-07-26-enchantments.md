@@ -2,6 +2,7 @@
 layout: post
 title: enchantments
 tags: [ family, photos ]
+date: 2025-07-26
 ---
 [Pictures laid out on google maps](https://www.google.com/maps/d/edit?mid=1u6ezkouHe5aqRxfgb3P2c-DJaS-0zas&usp=sharing)
 

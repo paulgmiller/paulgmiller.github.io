@@ -2,6 +2,7 @@
 layout: post
 title: west tiger 2 shit show
 tags: [ family, photos ]
+date: 2023-05-07
 ---
 
 Not all hikes are great sometimes you make 3 false starts, end up on a muddy include and freezing rain to get to a summit that's a post-apocolyptic deforestation and there's no view because you're are in a cloud. Still new trail close by I'll be back.

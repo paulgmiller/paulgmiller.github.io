@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "Panaoramas "
 author: "Paul Miller"
@@ -59,8 +59,7 @@ images:
     - src: https://rezjhq.dm.files.1drv.com/y4m66t5BTJ-RoUrptQek-YqPSwimaAgY0ckVpCSHCZ6zEHemrsqddf2veJZkG-SGy-oVjaFI8Y8iasKaz0Wx8vZElWT-BVofYs9_SpcVKU1q2QCsDLQj6ozr_CCokcRCeADJ88nQja58IedDbMXzEIsGw2eR8D_dNGqWnGmPPpyL3FmOFK5cAyPsfdjcAOhggqeHiBOZ-zF-jeOrXwE37U4hg
       caption: Summmerland
       alttext: pretty
-
-     
+date: 2018-11-18
 ---
 
 Been very happy with whay you can do with a cell phone camera and [Microsoft ICE](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/)

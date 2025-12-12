@@ -4,6 +4,7 @@ title: Beer pickles
 author: "Paul Miller"
 tags: ["recipes"]
 comments: true
+date: 2020-05-26
 ---
 
 Beer pickles. From some beer cookbook I got for christmas. 

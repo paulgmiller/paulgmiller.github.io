@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: Won't do what you tell me IPA
 tags: [ beer ]
+date: 2020-05-16
 ---
 ## Malt
 - 13 lbs viking pale malt

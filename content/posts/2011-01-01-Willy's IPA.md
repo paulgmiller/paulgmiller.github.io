@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: Willy's IPA
 tags: [ beer ]
+date: 2011-01-01
 ---
 ## Malt
 -  Briess DME Golden Light , 96 ozs

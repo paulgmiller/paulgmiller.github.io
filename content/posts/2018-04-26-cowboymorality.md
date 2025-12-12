@@ -1,9 +1,10 @@
---- 
+---
 layout: post
 title: "Cowboy Morality"
 author: "Paul Miller"
 tags: [family]
 comments: true
+date: 2018-04-26
 ---
 
 [Spotify Playlist](https://open.spotify.com/user/126772449/playlist/6rhFwlWnRaBjOZEvohDhLZ?si=EyW4sZGdQx-oRxk-ROUftg) missing 5 songs that are hyperlinked/* below. 

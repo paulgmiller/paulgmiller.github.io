@@ -4,6 +4,7 @@ title: Bolognese
 author: "Paul Miller"
 tags: ["recipes"]
 comments: true
+date: 2019-12-23
 ---
 
 This is [Giardi Delarenta's](https://foodnetwork.com/recipes/giada-de-laurentiis/simple-bolognese-recipe2-1956219). My notes are are to use fattier beef. 

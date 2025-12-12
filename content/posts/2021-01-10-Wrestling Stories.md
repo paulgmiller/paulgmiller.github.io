@@ -1,7 +1,8 @@
---- 
+---
 layout: post
 title: "Wrestling stories."
 tags: ["family"]
+date: 2021-01-10
 ---
 
 Writing these down. 

@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: Riesen betrunken reden Lion
 tags: [ beer ]
+date: 2011-01-01
 ---
 ## Malt
 -  Briess Pilsen Light DME, 64 ozs

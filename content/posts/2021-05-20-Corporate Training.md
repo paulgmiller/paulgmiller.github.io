@@ -4,6 +4,7 @@ title: Corporate Training
 author: "Paul Miller"
 tags: ["tech"]
 comments: true
+date: 2021-05-20
 ---
 I kind of despis most corporate training. It's all the same and I don't think 90% of participants force to take it get anything out of it.
 

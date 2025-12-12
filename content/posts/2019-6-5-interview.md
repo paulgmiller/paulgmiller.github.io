@@ -4,6 +4,7 @@ title: My Interview question
 tags: [ tech ]
 ---
 
+date: 2019-06-05
 Find all pass codes for the old android unlock screen. Can't pass over the same node. 
 
 

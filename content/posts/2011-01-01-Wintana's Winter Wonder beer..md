@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: Wintana's Winter Wonder beer.
 tags: [ beer ]
+date: 2011-01-01
 ---
 ## Malt
 -  American Two-row Pale, 120 ozs

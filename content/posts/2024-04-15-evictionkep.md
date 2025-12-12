@@ -2,6 +2,7 @@
 layout: post
 title: Evictions KEP 
 tags: [ tech ]
+date: 2024-04-15
 ---
 Update: Had an intern try this: https://github.com/javier090/k8s-pdb-autoscaler
 

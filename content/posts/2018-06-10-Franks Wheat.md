@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: Franks wheat
 tags: [ beer ]
+date: 2018-06-10
 ---
 ## Malt
 -  7 lbs Wheat malt

@@ -4,6 +4,7 @@ title: Bitcoin Selfdriving Bet
 author: "Paul Miller"
 tags: ["tech", "bets"]
 comments: true
+date: 2020-01-31
 ---
 
 So back in the heady days of 2014 before I had one let alone two children Elliot being a sporting gentle man made a bet about self driving cars. Here is the text transcribed from whats app messages.

@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: Ignoble India pale ale
 tags: [ beer ]
+date: 2011-01-01
 ---
 ## Malt
 -  American Two-row Pale, 80 ozs

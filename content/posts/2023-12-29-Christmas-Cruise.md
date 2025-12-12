@@ -2,6 +2,7 @@
 layout: post
 title: Christmas Cruise
 tags: [ family, photos ]
+date: 2023-12-29
 ---
 My first cruise ever.  An incomplete pro/con list after the photos.
 

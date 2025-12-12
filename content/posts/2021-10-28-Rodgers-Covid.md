@@ -1,7 +1,8 @@
---- 
+---
 layout: post
 title: "Rodgers covid"
 tags: ["family"]
+date: 2021-10-28
 ---
 Rodgers Covid
 

@@ -2,6 +2,7 @@
 layout: post
 title: kids are alright
 tags: [ tech ]
+date: 2025-08-15
 ---
 
 The kids are alright.

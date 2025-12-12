@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: Liberty Belles
 tags: [ beer ]
+date: 2018-10-20
 ---
 ## Malt
 - 10 lbs pilsner

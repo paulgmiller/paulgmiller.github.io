@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: GigaPilsner
 tags: [ beer ]
+date: 2020-02-17
 ---
 ## Malt
 - 11 lbs viking pilsner malt

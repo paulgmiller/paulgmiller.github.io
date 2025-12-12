@@ -4,6 +4,7 @@ title: Chicken Noodle Soup
 author: "Paul Miller"
 tags: ["recipes"]
 comments: true
+date: 2019-03-04
 ---
 
 From my mother:

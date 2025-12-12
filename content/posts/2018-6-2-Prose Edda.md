@@ -6,6 +6,7 @@ tags: ["reading"]
 comments: false
 ---
 
+date: 2018-06-02
 Qoutes from the prose edda (icelandic norse mythology source) [goodreads](https://www.goodreads.com/notes/8134306-the-prose-edda/68459891-paul-miller?ref=rsp):
 
 * On Fenrir's Bonds (loki's gigantic wolf son that eats odin at ragnarok):

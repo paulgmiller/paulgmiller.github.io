@@ -2,6 +2,7 @@
 layout: post
 title: Distributed Twitter.
 tags: [ tech ]
+date: 2021-02-07
 ---
 
 

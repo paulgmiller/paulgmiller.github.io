@@ -2,6 +2,7 @@
 layout: post
 title: Sad Country Drinking songs
 tags: [ family ]
+date: 2020-10-01
 ---
 
 These are the sad ones. I'll get to the fun ones later..

@@ -4,6 +4,7 @@ title: IPA Stack Rank
 author: "Paul Miller"
 tags: ["beer"]
 comments: true
+date: 2023-05-24
 ---
 Conditions. Non-seasonal (no fresh hop). Non double (< 7%)
 ## Available 

@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: Oatmeal Stout
 tags: [ beer ]
+date: 2019-12-05
 ---
 ## Malt
 - 10 lbs 2 row pale

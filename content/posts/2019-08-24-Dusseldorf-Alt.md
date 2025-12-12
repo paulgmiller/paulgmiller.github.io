@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: Dusseldorf Alt
 tags: [ beer ]
+date: 2019-08-24
 ---
 ## Malt
 - 8 lbs 2 row pale

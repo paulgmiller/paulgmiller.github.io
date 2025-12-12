@@ -2,6 +2,7 @@
 layout: post
 title: Honeymoon
 tags: [ family, photos ]
+date: 2010-09-05
 ---
 
 <div class="fotorama"  data-allowfullscreen="true">

@@ -4,6 +4,7 @@ title: This time is different
 author: "Paul Miller"
 tags: ["Corona Virus"]
 comments: true
+date: 2020-05-03
 ---
 
 Looking back on why I was so wrong about [corona virus bet]({{

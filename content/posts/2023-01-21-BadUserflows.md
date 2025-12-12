@@ -2,6 +2,7 @@
 layout: post
 title: Bad User Flows
 tags: [ tech ]
+date: 2023-01-21
 ---
 
 

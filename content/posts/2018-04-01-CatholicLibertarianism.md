@@ -1,9 +1,10 @@
---- 
+---
 layout: post
 title: "Catholic Libertarianism"
 author: "Paul Miller"
 tags: ["family"]
 comments: true
+date: 2018-04-01
 ---
 
 *Expect this to be updated just an outline for now* 

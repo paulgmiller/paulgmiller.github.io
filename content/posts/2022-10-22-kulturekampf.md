@@ -1,9 +1,10 @@
---- 
+---
 layout: post
 title: "Kulturekampf"
 author: "Paul Miller"
 tags: [work]
 comments: true
+date: 2022-10-22
 ---
 
 Draft. More to come. 

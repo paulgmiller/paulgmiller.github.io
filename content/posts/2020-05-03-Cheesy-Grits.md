@@ -4,6 +4,7 @@ title: Cheesy Shrimp and Grits
 author: "Paul Miller"
 tags: ["recipes"]
 comments: true
+date: 2020-05-03
 ---
 
 From [Here](https://www.myrecipes.com/recipe/cheesy-shrimp-grits), but cut in half for 2 people

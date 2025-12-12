@@ -2,6 +2,7 @@
 layout: post
 title: Bets and Debts
 tags: [ tech ]
+date: 2024-07-16
 ---
 
 At a simplistic level, software (and perhaps all) management is about deciding who gets to make bets and who has to pay debts.

@@ -4,6 +4,7 @@ title: Sage Hot Italian Sausge Pasta
 author: "Paul Miller"
 tags: ["recipes"]
 comments: true
+date: 2023-04-23
 ---
 A blue apron favorite.
 

@@ -1,7 +1,8 @@
---- 
+---
 layout: post
 title: "Vaccine Maximalism"
 tags: ["family"]
+date: 2021-10-28
 ---
 
 I a extemely pro vaccine so I thought I should write down why as a starting point for anyone that cares

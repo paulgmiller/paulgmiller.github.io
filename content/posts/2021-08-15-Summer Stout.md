@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: Summer stout
 tags: [ beer ]
+date: 2021-08-15
 ---
 ## Malt
 -  Two row pale - 10 lbs

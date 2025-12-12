@@ -1,9 +1,10 @@
---- 
+---
 layout: post
 title: "Finish the wonderland"
 author: "Paul Miller"
 tags: [hiking]
 comments: true
+date: 2018-04-21
 ---
 ![trail profile]({{ "/img/wonderland2ndhalf.JPG" | absolute_url }})
 

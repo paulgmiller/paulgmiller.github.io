@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: Bust me bagpipes scotch. 
 tags: [ beer ]
+date: 2011-01-01
 ---
 ## Malt
 -  Briess Pilsen Light DME, 80 ozs

@@ -1,9 +1,11 @@
 ---
 layout: post
+date: 2019-06-25
 title: Productivity
 tags: [ tech ]
 ---
 
+date: 2019-06-25
 Did this at work today
 ```
 echo 

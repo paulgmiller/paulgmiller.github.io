@@ -4,6 +4,7 @@ title: Grapefruit Fish
 tags: [ beer ]
 ---
 ## Malt
+date: 2018-12-05
 - 11 lbs  2 row pale
 - 12 oz carapils
 - 12 oz 10L caramel

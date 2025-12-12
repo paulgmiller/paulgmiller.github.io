@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: American Dunkelweizen
 tags: [ beer ]
+date: 2011-01-01
 ---
 ## Malt
 -  Wheat Dry Extract, 48 ozs

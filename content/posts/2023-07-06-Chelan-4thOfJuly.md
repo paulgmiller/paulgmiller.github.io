@@ -2,6 +2,7 @@
 layout: post
 title: Chelan and 4th of July
 tags: [ family, photos ]
+date: 2023-07-06
 ---
 
 Summer is off to a good start

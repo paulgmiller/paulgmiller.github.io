@@ -1,9 +1,10 @@
---- 
+---
 layout: post
 title: Lip reading        
 author: "Paul Miller"
 tags: ["tech"]
-comments: true  
+comments: true
+date: 2019-01-01
 ---
 
 Tired of typing on a phone with my fat fingers. Wondering if the front facing camera can just do lip reading. 

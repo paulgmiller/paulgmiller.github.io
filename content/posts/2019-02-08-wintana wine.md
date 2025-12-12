@@ -2,6 +2,7 @@
 layout: post
 title: Wintana Wine
 tags: [ beer ]
+date: 2019-02-08
 ---
 
 ## Reds

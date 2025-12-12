@@ -1,9 +1,10 @@
---- 
+---
 layout: post
 title: "Choosing Life"
 author: "Paul Miller"
 tags: ["family"]
 comments: false
+date: 2018-05-28
 ---
 
 Benjamin was the first baby in our close friend group in seattle. Now they're 4 more boys in our group and another one on the way. People used to have kids cause that’s what happened after sex or cause that’s just what everyone did. Now some friends are opting out of childern intentionally, but we're chooing kids and I thought I should document why.

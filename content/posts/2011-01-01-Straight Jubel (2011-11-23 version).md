@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: Straight Jubel (2011-11-23 version)
 tags: [ beer ]
+date: 2011-01-01
 ---
 ## Malt
 -  American Two-row Pale, 168 ozs

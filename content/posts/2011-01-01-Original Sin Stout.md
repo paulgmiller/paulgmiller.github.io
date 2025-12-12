@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: Original Sin Stout
 tags: [ beer ]
+date: 2011-01-01
 ---
 ## Malt
 -  Dark Dry Malt Extract, 80 ozs

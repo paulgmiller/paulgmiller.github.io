@@ -4,6 +4,7 @@ title: Morbid Corona Bet
 author: "Paul Miller"
 tags: ["bets"]
 comments: true
+date: 2020-03-09
 ---
 
 From the honorable [Elliot Olds](https://twitter.com/elliot_olds). 

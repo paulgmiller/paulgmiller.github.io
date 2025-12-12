@@ -6,6 +6,7 @@ tags: ["family"]
 comments: false
 ---
 
+date: 2019-05-05
 odds taken from [here](https://www.kentuckyderby.com/wager/kentucky-derby-live-odds)
 
 ## War of Will 

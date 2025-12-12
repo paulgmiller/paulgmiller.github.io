@@ -2,6 +2,7 @@
 layout: post
 title: Citrabomination
 tags: [ beer ]
+date: 2020-06-23
 ---
 ## Malt
 - 10 lbs  pale malt

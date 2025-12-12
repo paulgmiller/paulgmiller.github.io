@@ -4,6 +4,7 @@ title: Corona Testing in a distributed republic.
 author: "Paul Miller"
 tags: ["bets", "corona virus"]
 comments: true
+date: 2020-03-29
 ---
 
 So  [my bet](/2020/03/09/Morbid-Corona-Bet.html) with elliot went south quickly and I already paid him a couple of days before we hit 20k Us deaths.

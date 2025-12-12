@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: Riesen betrunken reden Lion (2011-10-05 version)
 tags: [ beer ]
+date: 2011-01-01
 ---
 ## Malt
 -  Pilsner Malt, 128 ozs

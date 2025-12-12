@@ -1,3 +1,10 @@
+---
+layout: post
+title: Test doubles in golang
+date: 2020-10-10
+tags: [tech]
+---
+
 [Test doubles in golang](https://en.wikipedia.org/wiki/Test_double)
 
 ```

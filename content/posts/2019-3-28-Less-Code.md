@@ -6,6 +6,7 @@ tags: ["tech"]
 comments: true  
 ---
 ## Proposition
+date: 2019-03-28
 Value of a developer is features / (lines of code + number of dependenceis)
 ## Lessons
 * Unittests can be bad if mocking balloons code size (also are you really testing your code or the mocks). Acceptance tests that are mostly setup are bad. Run end to end tests against a real environment.

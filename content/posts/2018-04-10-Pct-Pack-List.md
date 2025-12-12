@@ -1,9 +1,10 @@
---- 
+---
 layout: post
 title: "PCT Pack list"
 author: "Paul Miller"
 tags: [hiking]
 comments: true
+date: 2018-04-10
 ---
 This is from a section k(?) hike. Stevens to Stehikin.
 

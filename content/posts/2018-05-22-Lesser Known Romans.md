@@ -1,9 +1,10 @@
---- 
+---
 layout: post
 title: "Lesser Known Romans"
 author: "Paul Miller"
 tags: ["books", "history"]
 comments: false
+date: 2018-05-22
 ---
 
 ## [Malius](https://en.wikipedia.org/wiki/Titus_Manlius_Torquatus_(consul_347_BC))

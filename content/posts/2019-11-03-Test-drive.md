@@ -4,6 +4,7 @@ title: To Test Drive.
 author: "Paul Miller"
 tags: ["tech"]
 comments: true
+date: 2019-11-03
 ---
 
 ## Ford

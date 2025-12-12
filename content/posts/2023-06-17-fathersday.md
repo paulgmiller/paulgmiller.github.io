@@ -2,6 +2,7 @@
 layout: post
 title: rainy fathers day
 tags: [ family, photos ]
+date: 2023-06-17
 ---
 
 Father's day weather stunk so decided walking the boys to get breakfast was a better idea. Mariners blew it in extra innings.

@@ -4,6 +4,7 @@ title: Horse Power per Dollar
 author: "Paul Miller"
 tags: ["tech"]
 comments: true
+date: 2019-04-11
 ---
 
 I like cars but am a cheap S.O.B. so I find my self buid/pricing cars I'll never buy.

@@ -2,6 +2,7 @@
 layout: post
 title: Concert formulas
 tags: [ family ]
+date: 2023-03-16
 ---
 
 I have opinions about concerts.

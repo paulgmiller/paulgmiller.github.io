@@ -2,6 +2,7 @@
 layout: post
 title: wireguard kubernetes
 tags: [ tech ]
+date: 2025-08-18
 ---
 
 What if you built your kubernetes cluster with wireguard/tailscale from  the ground up. 

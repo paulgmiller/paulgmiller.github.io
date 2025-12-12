@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: California Dunkel
 tags: [ beer ]
+date: 2018-08-11
 ---
 ## Malt
 - 5lbs Briess Pilsen Malt 

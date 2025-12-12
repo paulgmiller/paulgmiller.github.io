@@ -2,6 +2,7 @@
 layout: post
 title: Release Bets
 tags: [ tech ]
+date: 2024-12-20
 ---
 ## The Problem 
 So you're a big wig at some tech company and you want to make a big jump in quality. A common and reasonable sounding thing to would be to bring in some bar raisers. You don't have enough people you trust to do it at the Pull Request level so you decide to have them review releases yet. (Continuous Deployment isn't happening for .... reasons....). Now you have an interesting incentive problem.

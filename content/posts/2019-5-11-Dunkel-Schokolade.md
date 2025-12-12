@@ -4,6 +4,7 @@ title: Dunkel Schokolad
 tags: [ beer ]
 ---
 ## Malt
+date: 2019-05-11
 - 4.8lbs Briess Pilsen Malt 
 - 5lbs Weyermann® Light Munich Malt 
 - 1 lb weyermann Dark Munich (8ML(

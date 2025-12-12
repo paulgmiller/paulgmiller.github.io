@@ -2,6 +2,7 @@
 layout: post
 title: Palm springs
 tags: [ family, photos ]
+date: 2025-02-15
 ---
 
 

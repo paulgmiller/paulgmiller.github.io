@@ -4,6 +4,7 @@ title: Street Corn
 author: "Paul Miller"
 tags: ["recipes"]
 comments: true
+date: 2019-03-04
 ---
 
 From Ricky's wedding 

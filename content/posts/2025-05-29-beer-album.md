@@ -2,6 +2,7 @@
 layout: post
 title: beer
 tags: [ beer, photos ]
+date: 2025-05-29
 ---
 
 "Beer is proof that god loves us and wants us to be happy"

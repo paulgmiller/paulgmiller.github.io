@@ -2,6 +2,7 @@
 layout: post
 title: Oahu West side february
 tags: [ family, photos ]
+date: 2023-02-15
 ---
 
 Some quality time with the majumders. Stolen kids shoes but not as much rain as I thought

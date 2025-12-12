@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: Old Hooker
 tags: [ beer ]
+date: 2011-01-01
 ---
 ## Malt
 -  American Two-row Pale, 160 ozs

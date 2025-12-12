@@ -4,6 +4,7 @@ title: China Future
 author: "Paul Miller"
 tags: ["tech", "bets"]
 comments: true
+date: 2019-03-17
 ---
 
 My boss' boss who I like and respect bandied about a popular claim that China would suprass US GDP by 2030. This sounded lazily familiar so I tried to challenge him to a bet in the elevator but he demurred 

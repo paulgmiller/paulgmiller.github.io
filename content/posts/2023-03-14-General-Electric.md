@@ -2,6 +2,7 @@
 layout: post
 title: General Electric
 tags: [ family, books ]
+date: 2023-03-14
 ---
 
 Turns out march 2013 was a good time to read a [book about how GE was secretly a bank that failed](https://www.amazon.com/Power-Failure-Rise-Fall-American-ebook/dp/B09SL541PT/ref=sr_1_1?crid=1PZOQPGBFEFJW&keywords=power+failure&qid=1678858582&sprefix=gas+grill%2Caps%2C154&sr=8-1).

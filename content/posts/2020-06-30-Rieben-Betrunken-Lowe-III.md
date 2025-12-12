@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: Reiben Betrunken Lowe II
 tags: [ beer ]
+date: 2020-06-30
 ---
 ## Malt
 - 6lbs  pilsner malt

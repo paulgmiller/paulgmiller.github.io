@@ -2,6 +2,7 @@
 layout: post
 title: lake cresent
 tags: [ family, photos ]
+date: 2023-08-29
 ---
 Lake time
 

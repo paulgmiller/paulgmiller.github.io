@@ -6,6 +6,7 @@ tags: ["family"]
 comments: false
 ---
 
+date: 2018-05-05
 odds taken from [here](12:38https://www.kentuckyderby.com/horses)
 
 ## Firenze Fire 61-1

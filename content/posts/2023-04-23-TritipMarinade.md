@@ -4,6 +4,7 @@ title: Tri tip marinade.
 author: "Paul Miller"
 tags: ["recipes"]
 comments: true
+date: 2023-04-23
 ---
 For one of the best steaks per dollar per pound.
 

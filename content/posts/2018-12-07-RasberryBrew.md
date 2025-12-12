@@ -2,7 +2,7 @@
 layout: post
 title: Rasberry Brew
 tags: [ beer ]
-
+date: 2018-12-07
 ---
 
 ![mspaint rox]({{ "/img/brewingsetup.png" | absolute_url }})

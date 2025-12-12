@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: The Wreck Porter
 tags: [ beer ]
+date: 2018-09-15
 ---
 ## Malt
 - 8lbs Pale Malt

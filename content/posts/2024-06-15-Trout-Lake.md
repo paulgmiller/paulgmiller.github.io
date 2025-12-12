@@ -2,6 +2,7 @@
 layout: post
 title: Trout lake 
 tags: [ family, photos ]
+date: 2024-06-15
 ---
 
 

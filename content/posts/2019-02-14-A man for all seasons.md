@@ -4,6 +4,7 @@ title: A man for all seasons
 author: "Paul Miller"
 tags: ["books"]
 comments: true
+date: 2019-02-14
 ---
 Pulled out my high school copy of a man for all season and went through the underlined passages (some had stars next to them whatver that means). This book had an outsidzed influence for it's stubborn humble yet righteous protatagonist, which he carries out despite seeming like an oxymoron. Starts english/common law/libertarian then becomes quite catholic. Qoutes are Sir Thomas Moore unless otherwised stated. 
 

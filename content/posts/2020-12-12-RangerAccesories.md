@@ -1,7 +1,8 @@
---- 
+---
 layout: post
 title: "Ranger accesories"
 tags: ["tech"]
+date: 2020-12-12
 ---
 
 ![truck](https://dsm01pap002files.storage.live.com/y4mPdnKLnFeyGHnyUHpL-KpvfGUyTuOVVgEympxAYplIZnLKTV_QiEJIPl1XWzM7KM_ksEmD6GMeB4_tn0VC9HKNGnHLOljUmMH86Yytte1tkxcOImGUiWSYuw7ZvA97hpQYIv8Uwxs69V0wE9t-VQOT-XFF2j1OCxQZMdm5mjhqINX15srP9sDYz2xkAOVu75u?width=660&height=495&cropmode=none)

@@ -2,6 +2,7 @@
 layout: post
 title: Windows Arm
 tags: [ tech ]
+date: 2021-07-09
 ---
 
 ## WHy am I doing this?

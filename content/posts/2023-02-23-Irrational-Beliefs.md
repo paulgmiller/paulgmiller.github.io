@@ -2,6 +2,7 @@
 layout: post
 title: irrational beliefs
 tags: [ family ]
+date: 2023-02-23
 ---
 This list will grow over time. 
 

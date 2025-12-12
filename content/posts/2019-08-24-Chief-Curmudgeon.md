@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: Cheif Curmudgeon
 tags: [ beer ]
+date: 2019-08-24
 ---
 ## Malt
 - 9 lbs Maris Otter/ British Pale
