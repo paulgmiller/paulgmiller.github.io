@@ -8,6 +8,7 @@ title = 'The gyrations of a pointless and uncaring universe'
 
 [params]
   giturl = 'https://github.com/paulgmiller/paulgmiller.github.io'
+  description = 'A blog about code, sci fi, beer, hiking, family and more by Paul Miller'
 
 [outputs]
   home = ['HTML', 'RSS']
@@ -18,5 +19,10 @@ title = 'The gyrations of a pointless and uncaring universe'
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
 
 ignoreLogs = ['warning-goldmark-raw-html']
