@@ -162,3 +162,36 @@ pre
 	#hometext a { display: inline;  }
 	h1 { margin-top: -0px;}
 }
+
+/* keep stacked actions on narrow screens */
+.action-buttons,
+.button-row,
+.actions {
+	display: flex;
+	gap: 12px;
+	flex-wrap: wrap;
+}
+
+@media screen and (max-width:700px) {
+	.action-buttons,
+	.button-row,
+	.actions {
+		flex-direction: column;
+		align-items: stretch;
+	}
+
+	.action-buttons button,
+	.action-buttons .button,
+	.button-row button,
+	.button-row .button,
+	.actions button,
+	.actions .button {
+		width: 100%;
+	}
+
+	.entry button + button,
+	.idea button + button,
+	.actions button + button {
+		margin-top: 10px;
+	}
+}
