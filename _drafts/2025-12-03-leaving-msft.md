@@ -65,6 +65,8 @@ https://msazure.visualstudio.com/CloudNativeCompute/_wiki/wikis/PersonalPlaygrou
 This completely broke some people who should be standing up for qualty an security by normalizing one offs, manual touches and missing depedndencies/testing/instrumentation. 
 When you raise this issue you just get "well we signed a contract" and complete defeatism. This is a again a Scott Gu level problem. 
 
+This short sightness immediately fell on on calls like a hammer right before the holidays in a way that was all to predictable. 
+
 
 ## Attrition  / Hiring. 
 I've lost one report because "AKS is just too big and entering a different phase" and  coworker to a non-product team because they "wanted to do real engineering work"
