@@ -1,12 +1,11 @@
 ---
 layout: post
-title: slog is neat
+title: careme beta testing
 tags: [ tech, family, photos ]
 date: 2026-01-24
 ---
 
-Been beta testing my own stuff. Going to try and update some of these with recipe links
-
+Been beta testing my own [careme](https://careme.coooking) recipes. Going to try and update some of these with recipe links.
 <div class="fotorama" data-allowfullscreen="true">
 <!--https://photos.app.goo.gl/83E1cXchei89Qsg77-->
     <img src="https://images.northbriton.net/cdn-cgi/image/width=800/https://images.northbriton.net/AP1GczMBNFe2Ol-2vq1uZybQcd1y5P1vu4jqNbbtX4U0uvc_GSIlszulZjtIzGIxtgEm6hHPoPLOV8BqzDyMdSzSl4qCGyTlV2fSyyYnq_ipUEREpthJs6Uf" data-full="https://images.northbriton.net/AP1GczMBNFe2Ol-2vq1uZybQcd1y5P1vu4jqNbbtX4U0uvc_GSIlszulZjtIzGIxtgEm6hHPoPLOV8BqzDyMdSzSl4qCGyTlV2fSyyYnq_ipUEREpthJs6Uf">
