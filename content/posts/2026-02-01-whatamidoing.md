@@ -35,3 +35,11 @@ Privacy Policy
 Bussiness plan. 
 
 Mussels Dinner. 
+
+
+## GOals
+
+Careme auth
+Benji loft
+Shed shelves. 
+Figure out bus.
