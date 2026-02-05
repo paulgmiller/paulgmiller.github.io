@@ -35,7 +35,7 @@ Kids Bus and Othodonteist
 Clerks - 6 hours!
 First two hours codex completely failed.
 Tried manually in afternoon and realized I needed frontend code and Clerks had no way to get a session cookie on dev ( :( ). Also clerks jwts might just be too short and I might need to make my own?
-So really a design issue that codex/claude would happily just throw more shit at the wall with none of it sticking
+So really a design issue that codex/claude would happily just throw more shit at the wall with none of it sticking  https://github.com/paulgmiller/careme/pull/166
 
 Kids pickup dinner (Mussels!) dominoes. House cleaning
 
@@ -45,12 +45,33 @@ Moved cloudflare over to LLC account
 
 Watch stock market go down
 
+Look at other auth sides  options in evening. (Stych, Authzero and and Entra)
+
+
 ## Wedneday
 
-Ski bus
+Beef stew prep with normal breakfast/dishes stuff. 
+
+About 2 hours refactoring auth https://github.com/paulgmiller/careme/pull/166 so its not as clerk specific. Got happier
+
+New lunch place Keg drop off. Birthday beer purchase
+
+Ski bus. 6 hours
+
+Eat stew. Watch pats 2015 superbowl run and read to kids. 
+
+Watch stock market go down. 
+
+Get beat by wife in shuffle puck and random tv.
 
 ## Thursday
+Kids breafast/dishes/lunches
+
+Dockerfile based tailwind - 30 minuts. https://github.com/paulgmiller/careme/pull/171
+
 Semena workout.
+
+Youtube TV research replacement?
 
 
 ## GOals
@@ -59,4 +80,5 @@ Careme auth
 Benji loft
 Shed shelves.
 Figure out bus. (done)
+Workout every day? 
 
