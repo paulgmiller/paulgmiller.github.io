@@ -67,11 +67,18 @@ Get beat by wife in shuffle puck and random tv.
 ## Thursday
 Kids breafast/dishes/lunches
 
+Careme
 Dockerfile based tailwind - 30 minuts. https://github.com/paulgmiller/careme/pull/171
+Deployed auth to production
+Did dark mode then reverted 
+Better readiness probe https://github.com/paulgmiller/careme/pull/183/changes
+Wrote a tiny cli to mopve users and list ingredients
 
-Semena workout.
+Talked about exchange funs with fidelity
+Ate leftovers
 
-Youtube TV research replacement?
+Failed to workout trying after dinner
+
 
 
 ## GOals
