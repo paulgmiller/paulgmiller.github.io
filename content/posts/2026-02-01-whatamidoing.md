@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "2026 hikes"
+title: "First week no msft"
 author: "Paul Miller"
-tags: [family]
+tags: [family,tech]
 comments: true
-date: 2025-10-21
+date: 2026-02-06
 ---
 
 I am no lomnger employed by msft after 20 years of work and all school before hand.
@@ -69,7 +69,7 @@ Kids breafast/dishes/lunches
 
 Careme
 Dockerfile based tailwind - 30 minuts. https://github.com/paulgmiller/careme/pull/171
-Deployed auth to production
+Deployed auth to production!!! (fixed signout and some other things along the way) https://github.com/paulgmiller/careme/pull/166 
 Did dark mode then reverted 
 Better readiness probe https://github.com/paulgmiller/careme/pull/183/changes
 Wrote a tiny cli to mopve users and list ingredients
@@ -77,15 +77,32 @@ Wrote a tiny cli to mopve users and list ingredients
 Talked about exchange funs with fidelity
 Ate leftovers
 
-Failed to workout trying after dinner
+After dinner did a night time run. 
+Read to kids
+Folded laundry and drank a beer. 
+No computer activity in night time
 
+# Friday
 
+Kid breakfast and drop off. 
+Samena Weight work out and Swim
+QFC shopping bought to meals and lots of otehr kitchen stuff.
+Set up parent teach confernce 
+
+Careme. 
+Came to conclusion Instacart does not want me intermediating stores and customers. You can search for ingredients but they give a html shopping list back for customer
+Signed up for some sites that scrape albertsons and whole foods.
+Lunch
+Realized Walmart might have public api. Learned about affliate vs developer. Had codex write bad code on legacy api then got it to new one.
+Figured out their strange auth. Tried to debug get stores on zip returning no results. Proved auth was right with taxonomy call but still not sure why no stores. 
+So have a partially  working walmart client. https://github.com/paulgmiller/careme/pull/187
 
 ## GOals
 
 Careme auth
-Benji loft
-Shed shelves.
+Benji loft (nope)
+Shed shelves (nope).
 Figure out bus. (done)
-Workout every day? 
+Workout every day?
+Lots of kids appointments 
 
