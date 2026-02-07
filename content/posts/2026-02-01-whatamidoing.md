@@ -92,7 +92,7 @@ Set up parent teach confernce
 Careme. 
 Came to conclusion Instacart does not want me intermediating stores and customers. You can search for ingredients but they give a html shopping list back for customer
 Signed up for some sites that scrape albertsons and whole foods.
-Lunch
+Poke Lunch and walk
 Realized Walmart might have public api. Learned about affliate vs developer. Had codex write bad code on legacy api then got it to new one.
 Figured out their strange auth. Tried to debug get stores on zip returning no results. Proved auth was right with taxonomy call but still not sure why no stores. 
 So have a partially  working walmart client. https://github.com/paulgmiller/careme/pull/187
