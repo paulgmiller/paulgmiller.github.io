@@ -8,8 +8,9 @@ date: 2026-02-06
 ---
 
 I am no longer employed by MSFT after 20 years of work, plus all the school beforehand.
+## Week 1
 
-## Monday
+### Monday
 
 - 5k treadmill  
 - Kids drop-off  
@@ -28,7 +29,7 @@ Healthcare admin, family calendar, Careme e2e tests.
 
 Netflix (His/Him).
 
-## Tuesday
+### Tuesday
 
 - Kids dentist and drop-off  
 - Kids bus and orthodontist
@@ -47,7 +48,7 @@ Is Clerk the right choice? Should I manage my own session rather than use JavaSc
 - Watched the stock market go down  
 - Looked at other auth options in the evening (Stytch, Auth0, Entra)
 
-## Wednesday
+### Wednesday
 
 - Beef stew prep plus normal breakfast/dishes stuff
 
@@ -63,7 +64,7 @@ Is Clerk the right choice? Should I manage my own session rather than use JavaSc
 - Watched the stock market go down  
 - Got beaten by my wife at shuffle puck and random TV
 
-## Thursday
+### Thursday
 
 - Kids breakfast, dishes, lunches
 
@@ -86,15 +87,39 @@ After dinner:
 - Folded laundry and drank a beer  
 - No computer activity at night
 
-## Friday
+### Friday
 
 - Kids breakfast and drop-off  
 - Sammamish weight workout and swim  
 - QFC shopping: bought two meals and lots of other kitchen stuff  
 - Set up parent–teacher conference
 
-**Careme:**
+ **Careme:**
 - Concluded Instacart does not want me intermediating stores and customers. You can search for ingredients, but they give back an HTML shopping list for the customer.
 - Signed up for sites that scrape Albertsons and Whole Foods.
 - Poke lunch and a walk.
 - Realized Walmart might have a public API. Learned about affiliate vs. d
+
+##Week 2 
+Over weekend cooked an excellent careme dinner for friends. 
+https://careme.cooking/recipe/le76qpHPhb-EK2KB7TqGZA==
+https://photos.app.goo.gl/83E1cXchei89Qsg77
+
+Applied to Y combinator and started locations ui update
+
+### Monday. 
+* Samena workout. Squat and bike.
+* Finished auth bug
+* locations ui to prod.
+* Started better wine pairing work.
+* two dinners and lanundry.
+
+### Tuesday
+Pancake Breakfast for 
+Cache talk on excahnge funds (20% in realestate due to irs rules
+Got questions on recipes working though not enough context 
+https://github.com/paulgmiller/careme/pull/203
+Running and meeting ruben for lunch down town. 
+
+
+
