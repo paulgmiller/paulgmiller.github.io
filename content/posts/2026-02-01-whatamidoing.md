@@ -115,11 +115,14 @@ Applied to Y combinator and started locations ui update
 * two dinners and lanundry.
 
 ### Tuesday
-Pancake Breakfast for 
-Cache talk on excahnge funds (20% in realestate due to irs rules
-Got questions on recipes working though not enough context 
-https://github.com/paulgmiller/careme/pull/203
-Running and meeting ruben for lunch down town. 
+* Pancake Breakfast for kids
+* Cache talk on excahnge funds (20% in realestate due to irs rules)
+* Got questions on recipes working though not enough context and bad reload behavioru https://github.com/paulgmiller/careme/pull/203
+* 4 mile run and met ruben for lunch. Totally failed to find good food rubens gave us bad seattle dogs and nachos.
+* Fraield to trademark, Created many issues most non tehnica, Minor updates, SEO research, sitemap started. 
+* Colins pub
+* Missed bus. Careme steelhead (slaw great, trout meh)
+* India scraping compay did not schedule a 9pm meeting as promised
 
 
 
