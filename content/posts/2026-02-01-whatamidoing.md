@@ -100,7 +100,7 @@ After dinner:
 - Poke lunch and a walk.
 - Realized Walmart might have a public API. Learned about affiliate vs. d
 
-##Week 2 
+## Week 2 
 Over weekend cooked an excellent careme dinner for friends. 
 https://careme.cooking/recipe/le76qpHPhb-EK2KB7TqGZA==
 https://photos.app.goo.gl/83E1cXchei89Qsg77
