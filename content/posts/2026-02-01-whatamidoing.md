@@ -1,108 +1,128 @@
 ---
 layout: post
-title: "First week no msft"
+title: "First Week: No MSFT"
 author: "Paul Miller"
-tags: [family,tech]
+tags: [family, tech]
 comments: true
 date: 2026-02-06
 ---
 
-I am no lomnger employed by msft after 20 years of work and all school before hand.
+I am no longer employed by MSFT after 20 years of work, plus all the school beforehand.
+## Week 1
 
-## Monday
+### Monday
 
-5k treadmill and
-Kids drop off. Wife and me breakfast.
-30 minutes of Careme (more e2e tests.)
+- 5k treadmill  
+- Kids drop-off  
+- Breakfast with my wife  
+- 30 minutes of Careme (more end-to-end tests)
 
-9:30-4PM funeral
+**9:30–4:00 PM:** Funeral
 
-1 hour of omarchy/hyperland and minimal careme.
+- 1 hour of Omarchy/Hyprland and minimal Careme work  
+- Picked up Nate; cooked dinner for Nate  
+- Folded laundry  
+- Cooked dinner for Wintana while she was at soccer  
+- Beer pickles
 
-Pickup nate cooked dinner for nate.
-Folded laundry.
-Cooked dinner for wintana while she had wintana at soccer.
-Beer pickles.
+Healthcare admin, family calendar, Careme e2e tests.
 
-Healthcare. Family Calendar. Careme e2e test.
+Netflix (His/Him).
 
-His/Him netfli
+### Tuesday
 
-## Tuesday
-Kids denitist and drop off.
-Kids Bus and Othodonteist
+- Kids dentist and drop-off  
+- Kids bus and orthodontist
 
-Clerks - 6 hours!
-First two hours codex completely failed.
-Tried manually in afternoon and realized I needed frontend code and Clerks had no way to get a session cookie on dev ( :( ). Also clerks jwts might just be too short and I might need to make my own?
-So really a design issue that codex/claude would happily just throw more shit at the wall with none of it sticking  https://github.com/paulgmiller/careme/pull/166
+**Clerk — 6 hours.**  
+The first two hours Codex completely failed. Tried manually in the afternoon and realized I needed frontend code, and Clerk has no way to get a session cookie in dev 😞. Also, Clerk JWTs might just be too short-lived, and I may need to mint my own.
 
-Kids pickup dinner (Mussels!) dominoes. House cleaning
+So really a design issue that Codex/Claude would happily throw more stuff at without any of it sticking:  
+https://github.com/paulgmiller/careme/pull/166
 
-Is Clerks the right choice? Shoudl I manage my own session rather than use javascript on every page?
+- Kids pickup, dinner (mussels!), Dominoes, house cleaning
 
-Moved cloudflare over to LLC account
+Is Clerk the right choice? Should I manage my own session rather than use JavaScript on every page?
 
-Watch stock market go down
+- Moved Cloudflare over to the LLC account  
+- Watched the stock market go down  
+- Looked at other auth options in the evening (Stytch, Auth0, Entra)
 
-Look at other auth sides  options in evening. (Stych, Authzero and and Entra)
+### Wednesday
+
+- Beef stew prep plus normal breakfast/dishes stuff
+
+- About 2 hours refactoring auth so it’s less Clerk-specific — felt better afterward:  
+  https://github.com/paulgmiller/careme/pull/166
+
+- New lunch place, keg drop-off, birthday beer purchase  
+- Ski bus — 6 hours
+
+- Ate stew  
+- Watched the Pats’ 2015 Super Bowl run and read to the kids
+
+- Watched the stock market go down  
+- Got beaten by my wife at shuffle puck and random TV
+
+### Thursday
+
+- Kids breakfast, dishes, lunches
+
+**Careme work:**
+- Dockerfile-based Tailwind — 30 minutes  
+  https://github.com/paulgmiller/careme/pull/171
+- Deployed auth to production!!! (fixed sign-out and other issues along the way)  
+  https://github.com/paulgmiller/careme/pull/166
+- Did dark mode, then reverted  
+- Better readiness probe  
+  https://github.com/paulgmiller/careme/pull/183/changes
+- Wrote a tiny CLI to move users and list ingredients
+
+- Talked about exchange funds with Fidelity  
+- Ate leftovers
+
+After dinner:
+- Nighttime run  
+- Read to kids  
+- Folded laundry and drank a beer  
+- No computer activity at night
+
+### Friday
+
+- Kids breakfast and drop-off  
+- Sammamish weight workout and swim  
+- QFC shopping: bought two meals and lots of other kitchen stuff  
+- Set up parent–teacher conference
+
+ **Careme:**
+- Concluded Instacart does not want me intermediating stores and customers. You can search for ingredients, but they give back an HTML shopping list for the customer.
+- Signed up for sites that scrape Albertsons and Whole Foods.
+- Poke lunch and a walk.
+- Realized Walmart might have a public API. Learned about affiliate vs. d
+
+## Week 2 
+Over weekend cooked an excellent careme dinner for friends. 
+https://careme.cooking/recipe/le76qpHPhb-EK2KB7TqGZA==
+https://photos.app.goo.gl/83E1cXchei89Qsg77
+
+Applied to Y combinator and started locations ui update
+
+### Monday. 
+* Samena workout. Squat and bike.
+* Finished auth bug
+* locations ui to prod.
+* Started better wine pairing work.
+* two dinners and lanundry.
+
+### Tuesday
+* Pancake Breakfast for kids
+* Cache talk on excahnge funds (20% in realestate due to irs rules)
+* Got questions on recipes working though not enough context and bad reload behavioru https://github.com/paulgmiller/careme/pull/203
+* 4 mile run and met ruben for lunch. Totally failed to find good food rubens gave us bad seattle dogs and nachos.
+* Fraield to trademark, Created many issues most non tehnica, Minor updates, SEO research, sitemap started. 
+* Colins pub
+* Missed bus. Careme steelhead (slaw great, trout meh)
+* India scraping compay did not schedule a 9pm meeting as promised
 
 
-## Wedneday
-
-Beef stew prep with normal breakfast/dishes stuff. 
-
-About 2 hours refactoring auth https://github.com/paulgmiller/careme/pull/166 so its not as clerk specific. Got happier
-
-New lunch place Keg drop off. Birthday beer purchase
-
-Ski bus. 6 hours
-
-Eat stew. Watch pats 2015 superbowl run and read to kids. 
-
-Watch stock market go down. 
-
-Get beat by wife in shuffle puck and random tv.
-
-## Thursday
-Kids breafast/dishes/lunches
-
-Careme
-Dockerfile based tailwind - 30 minuts. https://github.com/paulgmiller/careme/pull/171
-Deployed auth to production!!! (fixed signout and some other things along the way) https://github.com/paulgmiller/careme/pull/166 
-Did dark mode then reverted 
-Better readiness probe https://github.com/paulgmiller/careme/pull/183/changes
-Wrote a tiny cli to mopve users and list ingredients
-
-Talked about exchange funs with fidelity
-Ate leftovers
-
-After dinner did a night time run. 
-Read to kids
-Folded laundry and drank a beer. 
-No computer activity in night time
-
-# Friday
-
-Kid breakfast and drop off. 
-Samena Weight work out and Swim
-QFC shopping bought to meals and lots of otehr kitchen stuff.
-Set up parent teach confernce 
-
-Careme. 
-Came to conclusion Instacart does not want me intermediating stores and customers. You can search for ingredients but they give a html shopping list back for customer
-Signed up for some sites that scrape albertsons and whole foods.
-Poke Lunch and walk
-Realized Walmart might have public api. Learned about affliate vs developer. Had codex write bad code on legacy api then got it to new one.
-Figured out their strange auth. Tried to debug get stores on zip returning no results. Proved auth was right with taxonomy call but still not sure why no stores. 
-So have a partially  working walmart client. https://github.com/paulgmiller/careme/pull/187
-
-## GOals
-
-Careme auth
-Benji loft (nope)
-Shed shelves (nope).
-Figure out bus. (done)
-Workout every day?
-Lots of kids appointments 
 
