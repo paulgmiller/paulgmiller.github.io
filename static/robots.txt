@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://paulgmiller.github.io/sitemap.xml
+Sitemap: https://blog.northbriton.net/sitemap.xml
