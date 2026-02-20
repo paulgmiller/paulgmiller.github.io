@@ -37,7 +37,7 @@ Netflix (His/Him).
 **Clerk — 6 hours.**  
 The first two hours Codex completely failed. Tried manually in the afternoon and realized I needed frontend code, and Clerk has no way to get a session cookie in dev 😞. Also, Clerk JWTs might just be too short-lived, and I may need to mint my own.
 
-So really a design issue that Codex/Claude would happily throw more stuff at without any of it sticking:  
+So really, a design issue that Codex/Claude would happily throw more stuff at without any of it sticking:  
 https://github.com/paulgmiller/careme/pull/166
 
 - Kids pickup, dinner (mussels!), Dominoes, house cleaning
@@ -94,35 +94,34 @@ After dinner:
 - QFC shopping: bought two meals and lots of other kitchen stuff  
 - Set up parent–teacher conference
 
- **Careme:**
-- Concluded Instacart does not want me intermediating stores and customers. You can search for ingredients, but they give back an HTML shopping list for the customer.
+**Careme:**
+- Concluded Instacart does not want me to intermediate between stores and customers. You can search for ingredients, but they give back an HTML shopping list for the customer.
 - Signed up for sites that scrape Albertsons and Whole Foods.
 - Poke lunch and a walk.
-- Realized Walmart might have a public API. Learned about affiliate vs. d
+- Realized Walmart might have a public API. Learned about affiliate vs. direct.
 
-## Week 2 
-Over weekend cooked an excellent careme dinner for friends. 
+## Week 2
+Over the weekend, cooked an excellent Careme dinner for friends.
 https://careme.cooking/recipe/le76qpHPhb-EK2KB7TqGZA==
 https://photos.app.goo.gl/83E1cXchei89Qsg77
 
-Applied to Y combinator and started locations ui update
+Applied to Y Combinator and started a locations UI update.
 
-### Monday. 
-* Samena workout. Squat and bike.
+### Monday
+* Samena workout. Squats and bike.
 * Finished auth bug
-* locations ui to prod.
+* Locations UI to prod.
 * Started better wine pairing work.
-* two dinners and lanundry.
+* Two dinners and laundry.
 
 ### Tuesday
-* Pancake Breakfast for kids
-* Cache talk on excahnge funds (20% in realestate due to irs rules)
-* Got questions on recipes working though not enough context and bad reload behavioru https://github.com/paulgmiller/careme/pull/203
-* 4 mile run and met ruben for lunch. Totally failed to find good food rubens gave us bad seattle dogs and nachos.
-* Fraield to trademark, Created many issues most non tehnica, Minor updates, SEO research, sitemap started. 
-* Colins pub
+* Pancake breakfast for kids
+* Catch-up talk on exchange funds (20% in real estate due to IRS rules)
+* Got questions on recipes working, though there was not enough context and reload behavior was bad: https://github.com/paulgmiller/careme/pull/203
+* 4-mile run and met Ruben for lunch. Totally failed to find good food; Ruben gave us bad Seattle dogs and nachos.
+* Failed to trademark, created many issues (mostly non-technical), minor updates, SEO research, sitemap started.
+* Colin's Pub
 * Missed bus. Careme steelhead (slaw great, trout meh)
-* India scraping compay did not schedule a 9pm meeting as promised
-
+* India scraping company did not schedule a 9 PM meeting as promised
 
 
