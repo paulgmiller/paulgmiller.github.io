@@ -10,7 +10,7 @@ date: 2026-02-06
 First day after last day at msft I reimaged all my machines. Windows itself isn't bad (yeah ssh, powershell and wsl) but the junk our IT department installs definitely is.
 So while I was Reimaging decided it was time for some linux desktop on my three machines. 
 
-## Bee / Nuc mini computer + [Omakub](https://omakub.org/)
+## [Bee / Nuc](https://www.amazon.com/dp/B0CTQBGPH9?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2) + [Omakub](https://omakub.org/)
 
 So this has worked pretty good. Camera and audio fine. Had to fight blue tooth mouse disconnect but chapgpt seemed to figure it out. 
 Chrome, VSCode, Spotify all seem fine.
@@ -18,7 +18,7 @@ Still using gnome terminal over alacrity some of the time.
 Omakub certaily has option s 
 
 
-##  [Omarchy](https://omarchy.org/) on my pc part picker build (ryzen)
+##  [Omarchy](https://omarchy.org/) on my [pc part picker build (ryzen)](https://blog.northbriton.net/posts/2022-01-11-new-pc-build/)
 This has been fun. Tiling window manager! no overlap. Better at forcing you to organize things.
 Browser tabs still get out of control though.
 Have not dug into arch/pacman yet. 
