@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Linux desktop"
-author: "Paul Miller"
-tags: [ tech]
-comments: true
-date: 2026-02-06
+tags: [ tech ]
+date: 2026-02-20
 ---
 
 On the first day after my last day at MSFT, I reimaged all my machines. Windows itself is not bad (SSH, PowerShell, and WSL are fine), but the junk our IT department installs definitely is.
