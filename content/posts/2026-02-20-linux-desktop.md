@@ -34,4 +34,4 @@ Even when not suspended, battery life does not seem quite as good.
 No Chrome, which is mostly a problem since it is my password manager. I exported and imported, but it does not seem sustainable.
 
 ## Still in queue.
-Bluefin/Fedora and ground-up NixOS. Also, do I take the Neovim pill?
+[Bluefin/Fedora](https://projectbluefin.io/) and ground-up NixOS. Also, do I take the Neovim pill?
