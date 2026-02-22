@@ -1,0 +1,30 @@
+{
+  "projectName": "paulgmiller.github.io",
+  "projectRoot": "/home/pmiller/paulgmiller.github.io",
+  "panes": [
+    {
+      "id": "dmux-1771791978185",
+      "slug": "dmux-1771791977151",
+      "prompt": "make tags/tag redirect to same content",
+      "paneId": "%4",
+      "projectRoot": "/home/pmiller/paulgmiller.github.io",
+      "projectName": "paulgmiller.github.io",
+      "worktreePath": "/home/pmiller/paulgmiller.github.io/.dmux/worktrees/dmux-1771791977151",
+      "agent": "opencode",
+      "autopilot": true,
+      "agentStatus": "idle"
+    }
+  ],
+  "settings": {},
+  "lastUpdated": "2026-02-22T20:35:00.019Z",
+  "controlPaneSize": 40,
+  "controlPaneId": "%1",
+  "updateSettings": {
+    "checkIntervalHours": 24,
+    "autoUpdateEnabled": true,
+    "lastCheckTime": 1771791860185,
+    "cachedCurrentVersion": "5.2.0",
+    "cachedLatestVersion": "5.2.0",
+    "cachedHasUpdate": false
+  }
+}

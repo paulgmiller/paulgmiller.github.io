@@ -1,0 +1,935 @@
+[2026-02-22T20:24:20.711Z] [@Detection] Running with: {
+  "prompt": "",
+  "currentCursor": 0,
+  "promptLength": 0
+}
+[2026-02-22T20:24:20.712Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:06.427Z] [@Detection] Running with: {
+  "prompt": "t",
+  "currentCursor": 0,
+  "promptLength": 1
+}
+[2026-02-22T20:25:06.427Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:06.428Z] [@Detection] Running with: {
+  "prompt": "t",
+  "currentCursor": 1,
+  "promptLength": 1
+}
+[2026-02-22T20:25:06.428Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:07.278Z] [@Detection] Running with: {
+  "prompt": "",
+  "currentCursor": 1,
+  "promptLength": 0
+}
+[2026-02-22T20:25:07.278Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:07.279Z] [@Detection] Running with: {
+  "prompt": "",
+  "currentCursor": 0,
+  "promptLength": 0
+}
+[2026-02-22T20:25:07.279Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:44.534Z] [@Detection] Running with: {
+  "prompt": "",
+  "currentCursor": 0,
+  "promptLength": 0
+}
+[2026-02-22T20:25:44.535Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:48.051Z] [@Detection] Running with: {
+  "prompt": "p",
+  "currentCursor": 0,
+  "promptLength": 1
+}
+[2026-02-22T20:25:48.051Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:48.052Z] [@Detection] Running with: {
+  "prompt": "p",
+  "currentCursor": 1,
+  "promptLength": 1
+}
+[2026-02-22T20:25:48.052Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:48.559Z] [@Detection] Running with: {
+  "prompt": "",
+  "currentCursor": 1,
+  "promptLength": 0
+}
+[2026-02-22T20:25:48.559Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:48.560Z] [@Detection] Running with: {
+  "prompt": "",
+  "currentCursor": 0,
+  "promptLength": 0
+}
+[2026-02-22T20:25:48.560Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:51.527Z] [@Detection] Running with: {
+  "prompt": "p",
+  "currentCursor": 0,
+  "promptLength": 1
+}
+[2026-02-22T20:25:51.527Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:51.528Z] [@Detection] Running with: {
+  "prompt": "p",
+  "currentCursor": 1,
+  "promptLength": 1
+}
+[2026-02-22T20:25:51.528Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:53.667Z] [@Detection] Running with: {
+  "prompt": "",
+  "currentCursor": 1,
+  "promptLength": 0
+}
+[2026-02-22T20:25:53.667Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:53.668Z] [@Detection] Running with: {
+  "prompt": "",
+  "currentCursor": 0,
+  "promptLength": 0
+}
+[2026-02-22T20:25:53.668Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:58.388Z] [@Detection] Running with: {
+  "prompt": "m",
+  "currentCursor": 0,
+  "promptLength": 1
+}
+[2026-02-22T20:25:58.388Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:58.389Z] [@Detection] Running with: {
+  "prompt": "m",
+  "currentCursor": 1,
+  "promptLength": 1
+}
+[2026-02-22T20:25:58.389Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:58.451Z] [@Detection] Running with: {
+  "prompt": "ma",
+  "currentCursor": 1,
+  "promptLength": 2
+}
+[2026-02-22T20:25:58.451Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:58.452Z] [@Detection] Running with: {
+  "prompt": "ma",
+  "currentCursor": 2,
+  "promptLength": 2
+}
+[2026-02-22T20:25:58.452Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:58.563Z] [@Detection] Running with: {
+  "prompt": "mak",
+  "currentCursor": 2,
+  "promptLength": 3
+}
+[2026-02-22T20:25:58.563Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:58.563Z] [@Detection] Running with: {
+  "prompt": "mak",
+  "currentCursor": 3,
+  "promptLength": 3
+}
+[2026-02-22T20:25:58.564Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:58.602Z] [@Detection] Running with: {
+  "prompt": "make",
+  "currentCursor": 3,
+  "promptLength": 4
+}
+[2026-02-22T20:25:58.603Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:58.604Z] [@Detection] Running with: {
+  "prompt": "make",
+  "currentCursor": 4,
+  "promptLength": 4
+}
+[2026-02-22T20:25:58.604Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:58.735Z] [@Detection] Running with: {
+  "prompt": "make ",
+  "currentCursor": 4,
+  "promptLength": 5
+}
+[2026-02-22T20:25:58.735Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:58.736Z] [@Detection] Running with: {
+  "prompt": "make ",
+  "currentCursor": 5,
+  "promptLength": 5
+}
+[2026-02-22T20:25:58.736Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:59.005Z] [@Detection] Running with: {
+  "prompt": "make t",
+  "currentCursor": 5,
+  "promptLength": 6
+}
+[2026-02-22T20:25:59.005Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:59.005Z] [@Detection] Running with: {
+  "prompt": "make t",
+  "currentCursor": 6,
+  "promptLength": 6
+}
+[2026-02-22T20:25:59.005Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:59.158Z] [@Detection] Running with: {
+  "prompt": "make ta",
+  "currentCursor": 6,
+  "promptLength": 7
+}
+[2026-02-22T20:25:59.158Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:59.159Z] [@Detection] Running with: {
+  "prompt": "make ta",
+  "currentCursor": 7,
+  "promptLength": 7
+}
+[2026-02-22T20:25:59.159Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:59.295Z] [@Detection] Running with: {
+  "prompt": "make tag",
+  "currentCursor": 7,
+  "promptLength": 8
+}
+[2026-02-22T20:25:59.295Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:59.295Z] [@Detection] Running with: {
+  "prompt": "make tag",
+  "currentCursor": 8,
+  "promptLength": 8
+}
+[2026-02-22T20:25:59.295Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:59.686Z] [@Detection] Running with: {
+  "prompt": "make tag/",
+  "currentCursor": 8,
+  "promptLength": 9
+}
+[2026-02-22T20:25:59.686Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:25:59.686Z] [@Detection] Running with: {
+  "prompt": "make tag/",
+  "currentCursor": 9,
+  "promptLength": 9
+}
+[2026-02-22T20:25:59.687Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:00.079Z] [@Detection] Running with: {
+  "prompt": "make tag",
+  "currentCursor": 9,
+  "promptLength": 8
+}
+[2026-02-22T20:26:00.079Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:00.079Z] [@Detection] Running with: {
+  "prompt": "make tag",
+  "currentCursor": 8,
+  "promptLength": 8
+}
+[2026-02-22T20:26:00.079Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:00.191Z] [@Detection] Running with: {
+  "prompt": "make tags",
+  "currentCursor": 8,
+  "promptLength": 9
+}
+[2026-02-22T20:26:00.191Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:00.192Z] [@Detection] Running with: {
+  "prompt": "make tags",
+  "currentCursor": 9,
+  "promptLength": 9
+}
+[2026-02-22T20:26:00.192Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:00.511Z] [@Detection] Running with: {
+  "prompt": "make tags/",
+  "currentCursor": 9,
+  "promptLength": 10
+}
+[2026-02-22T20:26:00.511Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:00.512Z] [@Detection] Running with: {
+  "prompt": "make tags/",
+  "currentCursor": 10,
+  "promptLength": 10
+}
+[2026-02-22T20:26:00.512Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:00.679Z] [@Detection] Running with: {
+  "prompt": "make tags/t",
+  "currentCursor": 10,
+  "promptLength": 11
+}
+[2026-02-22T20:26:00.679Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:00.680Z] [@Detection] Running with: {
+  "prompt": "make tags/t",
+  "currentCursor": 11,
+  "promptLength": 11
+}
+[2026-02-22T20:26:00.680Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:00.827Z] [@Detection] Running with: {
+  "prompt": "make tags/ta",
+  "currentCursor": 11,
+  "promptLength": 12
+}
+[2026-02-22T20:26:00.827Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:00.828Z] [@Detection] Running with: {
+  "prompt": "make tags/ta",
+  "currentCursor": 12,
+  "promptLength": 12
+}
+[2026-02-22T20:26:00.828Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:00.939Z] [@Detection] Running with: {
+  "prompt": "make tags/tag",
+  "currentCursor": 12,
+  "promptLength": 13
+}
+[2026-02-22T20:26:00.939Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:00.939Z] [@Detection] Running with: {
+  "prompt": "make tags/tag",
+  "currentCursor": 13,
+  "promptLength": 13
+}
+[2026-02-22T20:26:00.939Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:01.867Z] [@Detection] Running with: {
+  "prompt": "make tags/tag ",
+  "currentCursor": 13,
+  "promptLength": 14
+}
+[2026-02-22T20:26:01.867Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:01.867Z] [@Detection] Running with: {
+  "prompt": "make tags/tag ",
+  "currentCursor": 14,
+  "promptLength": 14
+}
+[2026-02-22T20:26:01.867Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:02.339Z] [@Detection] Running with: {
+  "prompt": "make tags/tag r",
+  "currentCursor": 14,
+  "promptLength": 15
+}
+[2026-02-22T20:26:02.339Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:02.340Z] [@Detection] Running with: {
+  "prompt": "make tags/tag r",
+  "currentCursor": 15,
+  "promptLength": 15
+}
+[2026-02-22T20:26:02.340Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:02.394Z] [@Detection] Running with: {
+  "prompt": "make tags/tag re",
+  "currentCursor": 15,
+  "promptLength": 16
+}
+[2026-02-22T20:26:02.395Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:02.395Z] [@Detection] Running with: {
+  "prompt": "make tags/tag re",
+  "currentCursor": 16,
+  "promptLength": 16
+}
+[2026-02-22T20:26:02.395Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:02.674Z] [@Detection] Running with: {
+  "prompt": "make tags/tag red",
+  "currentCursor": 16,
+  "promptLength": 17
+}
+[2026-02-22T20:26:02.674Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:02.674Z] [@Detection] Running with: {
+  "prompt": "make tags/tag red",
+  "currentCursor": 17,
+  "promptLength": 17
+}
+[2026-02-22T20:26:02.674Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:02.995Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redi",
+  "currentCursor": 17,
+  "promptLength": 18
+}
+[2026-02-22T20:26:02.995Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:02.996Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redi",
+  "currentCursor": 18,
+  "promptLength": 18
+}
+[2026-02-22T20:26:02.996Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:03.074Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redir",
+  "currentCursor": 18,
+  "promptLength": 19
+}
+[2026-02-22T20:26:03.074Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:03.075Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redir",
+  "currentCursor": 19,
+  "promptLength": 19
+}
+[2026-02-22T20:26:03.075Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:03.154Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redire",
+  "currentCursor": 19,
+  "promptLength": 20
+}
+[2026-02-22T20:26:03.154Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:03.154Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redire",
+  "currentCursor": 20,
+  "promptLength": 20
+}
+[2026-02-22T20:26:03.154Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:03.298Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirec",
+  "currentCursor": 20,
+  "promptLength": 21
+}
+[2026-02-22T20:26:03.298Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:03.299Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirec",
+  "currentCursor": 21,
+  "promptLength": 21
+}
+[2026-02-22T20:26:03.299Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:03.462Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect",
+  "currentCursor": 21,
+  "promptLength": 22
+}
+[2026-02-22T20:26:03.462Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:03.463Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect",
+  "currentCursor": 22,
+  "promptLength": 22
+}
+[2026-02-22T20:26:03.463Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:03.655Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect ",
+  "currentCursor": 22,
+  "promptLength": 23
+}
+[2026-02-22T20:26:03.655Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:03.655Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect ",
+  "currentCursor": 23,
+  "promptLength": 23
+}
+[2026-02-22T20:26:03.655Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:04.919Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect",
+  "currentCursor": 23,
+  "promptLength": 22
+}
+[2026-02-22T20:26:04.919Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:04.919Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect",
+  "currentCursor": 22,
+  "promptLength": 22
+}
+[2026-02-22T20:26:04.919Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.421Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirec",
+  "currentCursor": 22,
+  "promptLength": 21
+}
+[2026-02-22T20:26:05.421Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.421Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirec",
+  "currentCursor": 21,
+  "promptLength": 21
+}
+[2026-02-22T20:26:05.421Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.448Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redire",
+  "currentCursor": 21,
+  "promptLength": 20
+}
+[2026-02-22T20:26:05.448Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.448Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redire",
+  "currentCursor": 20,
+  "promptLength": 20
+}
+[2026-02-22T20:26:05.449Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.479Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redir",
+  "currentCursor": 20,
+  "promptLength": 19
+}
+[2026-02-22T20:26:05.479Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.479Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redir",
+  "currentCursor": 19,
+  "promptLength": 19
+}
+[2026-02-22T20:26:05.479Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.509Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redi",
+  "currentCursor": 19,
+  "promptLength": 18
+}
+[2026-02-22T20:26:05.509Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.509Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redi",
+  "currentCursor": 18,
+  "promptLength": 18
+}
+[2026-02-22T20:26:05.509Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.540Z] [@Detection] Running with: {
+  "prompt": "make tags/tag red",
+  "currentCursor": 18,
+  "promptLength": 17
+}
+[2026-02-22T20:26:05.540Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.540Z] [@Detection] Running with: {
+  "prompt": "make tags/tag red",
+  "currentCursor": 17,
+  "promptLength": 17
+}
+[2026-02-22T20:26:05.540Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.569Z] [@Detection] Running with: {
+  "prompt": "make tags/tag re",
+  "currentCursor": 17,
+  "promptLength": 16
+}
+[2026-02-22T20:26:05.569Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.570Z] [@Detection] Running with: {
+  "prompt": "make tags/tag re",
+  "currentCursor": 16,
+  "promptLength": 16
+}
+[2026-02-22T20:26:05.570Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.602Z] [@Detection] Running with: {
+  "prompt": "make tags/tag r",
+  "currentCursor": 16,
+  "promptLength": 15
+}
+[2026-02-22T20:26:05.602Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.602Z] [@Detection] Running with: {
+  "prompt": "make tags/tag r",
+  "currentCursor": 15,
+  "promptLength": 15
+}
+[2026-02-22T20:26:05.602Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.631Z] [@Detection] Running with: {
+  "prompt": "make tags/tag ",
+  "currentCursor": 15,
+  "promptLength": 14
+}
+[2026-02-22T20:26:05.631Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.631Z] [@Detection] Running with: {
+  "prompt": "make tags/tag ",
+  "currentCursor": 14,
+  "promptLength": 14
+}
+[2026-02-22T20:26:05.631Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.662Z] [@Detection] Running with: {
+  "prompt": "make tags/tag",
+  "currentCursor": 14,
+  "promptLength": 13
+}
+[2026-02-22T20:26:05.662Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.663Z] [@Detection] Running with: {
+  "prompt": "make tags/tag",
+  "currentCursor": 13,
+  "promptLength": 13
+}
+[2026-02-22T20:26:05.663Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.691Z] [@Detection] Running with: {
+  "prompt": "make tags/ta",
+  "currentCursor": 13,
+  "promptLength": 12
+}
+[2026-02-22T20:26:05.691Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.692Z] [@Detection] Running with: {
+  "prompt": "make tags/ta",
+  "currentCursor": 12,
+  "promptLength": 12
+}
+[2026-02-22T20:26:05.692Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.722Z] [@Detection] Running with: {
+  "prompt": "make tags/t",
+  "currentCursor": 12,
+  "promptLength": 11
+}
+[2026-02-22T20:26:05.722Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:05.723Z] [@Detection] Running with: {
+  "prompt": "make tags/t",
+  "currentCursor": 11,
+  "promptLength": 11
+}
+[2026-02-22T20:26:05.723Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:06.142Z] [@Detection] Running with: {
+  "prompt": "make tags/",
+  "currentCursor": 11,
+  "promptLength": 10
+}
+[2026-02-22T20:26:06.142Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:06.143Z] [@Detection] Running with: {
+  "prompt": "make tags/",
+  "currentCursor": 10,
+  "promptLength": 10
+}
+[2026-02-22T20:26:06.143Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:07.487Z] [@Detection] Running with: {
+  "prompt": "make tags/t",
+  "currentCursor": 10,
+  "promptLength": 11
+}
+[2026-02-22T20:26:07.487Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:07.487Z] [@Detection] Running with: {
+  "prompt": "make tags/t",
+  "currentCursor": 11,
+  "promptLength": 11
+}
+[2026-02-22T20:26:07.487Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:07.615Z] [@Detection] Running with: {
+  "prompt": "make tags/ta",
+  "currentCursor": 11,
+  "promptLength": 12
+}
+[2026-02-22T20:26:07.615Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:07.616Z] [@Detection] Running with: {
+  "prompt": "make tags/ta",
+  "currentCursor": 12,
+  "promptLength": 12
+}
+[2026-02-22T20:26:07.616Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:07.703Z] [@Detection] Running with: {
+  "prompt": "make tags/tag",
+  "currentCursor": 12,
+  "promptLength": 13
+}
+[2026-02-22T20:26:07.703Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:07.703Z] [@Detection] Running with: {
+  "prompt": "make tags/tag",
+  "currentCursor": 13,
+  "promptLength": 13
+}
+[2026-02-22T20:26:07.703Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:07.871Z] [@Detection] Running with: {
+  "prompt": "make tags/tag ",
+  "currentCursor": 13,
+  "promptLength": 14
+}
+[2026-02-22T20:26:07.871Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:07.871Z] [@Detection] Running with: {
+  "prompt": "make tags/tag ",
+  "currentCursor": 14,
+  "promptLength": 14
+}
+[2026-02-22T20:26:07.871Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:07.983Z] [@Detection] Running with: {
+  "prompt": "make tags/tag r",
+  "currentCursor": 14,
+  "promptLength": 15
+}
+[2026-02-22T20:26:07.983Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:07.983Z] [@Detection] Running with: {
+  "prompt": "make tags/tag r",
+  "currentCursor": 15,
+  "promptLength": 15
+}
+[2026-02-22T20:26:07.983Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:08.077Z] [@Detection] Running with: {
+  "prompt": "make tags/tag re",
+  "currentCursor": 15,
+  "promptLength": 16
+}
+[2026-02-22T20:26:08.077Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:08.078Z] [@Detection] Running with: {
+  "prompt": "make tags/tag re",
+  "currentCursor": 16,
+  "promptLength": 16
+}
+[2026-02-22T20:26:08.078Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:08.246Z] [@Detection] Running with: {
+  "prompt": "make tags/tag red",
+  "currentCursor": 16,
+  "promptLength": 17
+}
+[2026-02-22T20:26:08.246Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:08.247Z] [@Detection] Running with: {
+  "prompt": "make tags/tag red",
+  "currentCursor": 17,
+  "promptLength": 17
+}
+[2026-02-22T20:26:08.247Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:08.335Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redi",
+  "currentCursor": 17,
+  "promptLength": 18
+}
+[2026-02-22T20:26:08.335Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:08.335Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redi",
+  "currentCursor": 18,
+  "promptLength": 18
+}
+[2026-02-22T20:26:08.335Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:09.013Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redie",
+  "currentCursor": 18,
+  "promptLength": 19
+}
+[2026-02-22T20:26:09.013Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:09.013Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redie",
+  "currentCursor": 19,
+  "promptLength": 19
+}
+[2026-02-22T20:26:09.013Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:09.198Z] [@Detection] Running with: {
+  "prompt": "make tags/tag rediec",
+  "currentCursor": 19,
+  "promptLength": 20
+}
+[2026-02-22T20:26:09.199Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:09.199Z] [@Detection] Running with: {
+  "prompt": "make tags/tag rediec",
+  "currentCursor": 20,
+  "promptLength": 20
+}
+[2026-02-22T20:26:09.199Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:09.472Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redie",
+  "currentCursor": 20,
+  "promptLength": 19
+}
+[2026-02-22T20:26:09.472Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:09.472Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redie",
+  "currentCursor": 19,
+  "promptLength": 19
+}
+[2026-02-22T20:26:09.472Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:09.630Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redi",
+  "currentCursor": 19,
+  "promptLength": 18
+}
+[2026-02-22T20:26:09.630Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:09.631Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redi",
+  "currentCursor": 18,
+  "promptLength": 18
+}
+[2026-02-22T20:26:09.631Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:09.660Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redir",
+  "currentCursor": 18,
+  "promptLength": 19
+}
+[2026-02-22T20:26:09.660Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:09.661Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redir",
+  "currentCursor": 19,
+  "promptLength": 19
+}
+[2026-02-22T20:26:09.661Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:09.758Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redire",
+  "currentCursor": 19,
+  "promptLength": 20
+}
+[2026-02-22T20:26:09.758Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:09.759Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redire",
+  "currentCursor": 20,
+  "promptLength": 20
+}
+[2026-02-22T20:26:09.759Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:09.911Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirec",
+  "currentCursor": 20,
+  "promptLength": 21
+}
+[2026-02-22T20:26:09.911Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:09.911Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirec",
+  "currentCursor": 21,
+  "promptLength": 21
+}
+[2026-02-22T20:26:09.911Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.078Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect",
+  "currentCursor": 21,
+  "promptLength": 22
+}
+[2026-02-22T20:26:10.078Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.078Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect",
+  "currentCursor": 22,
+  "promptLength": 22
+}
+[2026-02-22T20:26:10.078Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.151Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect ",
+  "currentCursor": 22,
+  "promptLength": 23
+}
+[2026-02-22T20:26:10.151Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.152Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect ",
+  "currentCursor": 23,
+  "promptLength": 23
+}
+[2026-02-22T20:26:10.152Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.230Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect t",
+  "currentCursor": 23,
+  "promptLength": 24
+}
+[2026-02-22T20:26:10.230Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.231Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect t",
+  "currentCursor": 24,
+  "promptLength": 24
+}
+[2026-02-22T20:26:10.231Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.326Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to",
+  "currentCursor": 24,
+  "promptLength": 25
+}
+[2026-02-22T20:26:10.326Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.327Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to",
+  "currentCursor": 25,
+  "promptLength": 25
+}
+[2026-02-22T20:26:10.327Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.447Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to ",
+  "currentCursor": 25,
+  "promptLength": 26
+}
+[2026-02-22T20:26:10.447Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.447Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to ",
+  "currentCursor": 26,
+  "promptLength": 26
+}
+[2026-02-22T20:26:10.447Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.511Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to s",
+  "currentCursor": 26,
+  "promptLength": 27
+}
+[2026-02-22T20:26:10.511Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.512Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to s",
+  "currentCursor": 27,
+  "promptLength": 27
+}
+[2026-02-22T20:26:10.512Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.623Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to sa",
+  "currentCursor": 27,
+  "promptLength": 28
+}
+[2026-02-22T20:26:10.623Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.623Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to sa",
+  "currentCursor": 28,
+  "promptLength": 28
+}
+[2026-02-22T20:26:10.623Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.743Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to sam",
+  "currentCursor": 28,
+  "promptLength": 29
+}
+[2026-02-22T20:26:10.743Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.743Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to sam",
+  "currentCursor": 29,
+  "promptLength": 29
+}
+[2026-02-22T20:26:10.743Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.799Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to same",
+  "currentCursor": 29,
+  "promptLength": 30
+}
+[2026-02-22T20:26:10.799Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.799Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to same",
+  "currentCursor": 30,
+  "promptLength": 30
+}
+[2026-02-22T20:26:10.799Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.914Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to same ",
+  "currentCursor": 30,
+  "promptLength": 31
+}
+[2026-02-22T20:26:10.914Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:10.915Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to same ",
+  "currentCursor": 31,
+  "promptLength": 31
+}
+[2026-02-22T20:26:10.915Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:11.073Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to same c",
+  "currentCursor": 31,
+  "promptLength": 32
+}
+[2026-02-22T20:26:11.073Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:11.074Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to same c",
+  "currentCursor": 32,
+  "promptLength": 32
+}
+[2026-02-22T20:26:11.074Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:11.155Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to same co",
+  "currentCursor": 32,
+  "promptLength": 33
+}
+[2026-02-22T20:26:11.155Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:11.156Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to same co",
+  "currentCursor": 33,
+  "promptLength": 33
+}
+[2026-02-22T20:26:11.156Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:11.306Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to same con",
+  "currentCursor": 33,
+  "promptLength": 34
+}
+[2026-02-22T20:26:11.306Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:11.306Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to same con",
+  "currentCursor": 34,
+  "promptLength": 34
+}
+[2026-02-22T20:26:11.306Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:11.426Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to same cont",
+  "currentCursor": 34,
+  "promptLength": 35
+}
+[2026-02-22T20:26:11.427Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:11.427Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to same cont",
+  "currentCursor": 35,
+  "promptLength": 35
+}
+[2026-02-22T20:26:11.427Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:11.835Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to same conte",
+  "currentCursor": 35,
+  "promptLength": 36
+}
+[2026-02-22T20:26:11.835Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:11.835Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to same conte",
+  "currentCursor": 36,
+  "promptLength": 36
+}
+[2026-02-22T20:26:11.835Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:11.978Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to same conten",
+  "currentCursor": 36,
+  "promptLength": 37
+}
+[2026-02-22T20:26:11.978Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:11.979Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to same conten",
+  "currentCursor": 37,
+  "promptLength": 37
+}
+[2026-02-22T20:26:11.979Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:12.058Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to same content",
+  "currentCursor": 37,
+  "promptLength": 38
+}
+[2026-02-22T20:26:12.058Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:26:12.059Z] [@Detection] Running with: {
+  "prompt": "make tags/tag redirect to same content",
+  "currentCursor": 38,
+  "promptLength": 38
+}
+[2026-02-22T20:26:12.059Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:28:12.496Z] [@Detection] Running with: {
+  "prompt": "",
+  "currentCursor": 0,
+  "promptLength": 0
+}
+[2026-02-22T20:28:12.497Z] [@Detection] No @ found before cursor 
+[2026-02-22T20:28:16.794Z] [shouldAllowCancel] {
+  "isFileListActive": false,
+  "hasPrompt": false
+}
+[2026-02-22T20:28:16.794Z] [shouldAllowCancel] Allowing cancel 
