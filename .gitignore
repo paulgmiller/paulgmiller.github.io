@@ -8,3 +8,5 @@ resources/
 _site/
 .jekyll-cache/
 .sass-cache/
+
+.dmux/
