@@ -20,7 +20,7 @@ Omakub certainly has options.
 This has been fun. Tiling window manager, no overlap. It is better at forcing you to organize things.
 Browser tabs still get out of control though.
 I have not dug into Arch/Pacman yet.
-But it does seem to go down when not in use overnight, so I need to figure out uptime.
+But it does seem to go down when not in use overnight, so I need to figure out uptime. [Maybe CPU idle bug?](https://chatgpt.com/share/699c927f-dc64-8009-a8b5-0b6619554c04)
 
 
 
