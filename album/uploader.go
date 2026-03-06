@@ -25,13 +25,12 @@ type s3uploader struct {
 func NewS3Uploader(ctx context.Context) *s3uploader {
 	accessKeyID := os.Getenv("ACCESS_KEY_ID")
 	if accessKeyID == "" {
-		log.Fatal("Please set the SECRET_ACCESS_KEY environment variable")
+		log.Fatal("please set the ACCESS_KEY_ID environment variable")
 	}
 	secretAccessKey := os.Getenv("SECRET_ACCESS_KEY")
 	if secretAccessKey == "" {
-		log.Fatal("Please set the SECRET_ACCESS_KEY environment variable")
+		log.Fatal("please set the SECRET_ACCESS_KEY environment variable")
 	}
-	log.Printf("Using access key ID: %s and Secret %s", accessKeyID, secretAccessKey)
 
 	cfg, err := config.LoadDefaultConfig(ctx,
 		config.WithCredentialsProvider(credentials.NewStaticCredentialsProvider(accessKeyID, secretAccessKey, "")),
@@ -47,12 +46,13 @@ func NewS3Uploader(ctx context.Context) *s3uploader {
 	return &s3uploader{client: client}
 }
 
-func (s *s3uploader) Put(ctx context.Context, fileName string, body io.Reader) error {
+func (s *s3uploader) Put(ctx context.Context, fileName string, contentType string, body io.Reader) error {
 	_, err := s.client.PutObject(ctx, &s3.PutObjectInput{
-		Bucket: aws.String(BUCKET_NAME),
-		Key:    aws.String(fileName),
-		Body:   body,
-		ACL:    types.ObjectCannedACLPublicRead,
+		Bucket:      aws.String(BUCKET_NAME),
+		Key:         aws.String(fileName),
+		Body:        body,
+		ACL:         types.ObjectCannedACLPublicRead,
+		ContentType: aws.String(contentType),
 	})
 	return err
 }
