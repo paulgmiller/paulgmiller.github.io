@@ -19,7 +19,7 @@ Below is how I think about the question.
 
 ---
 
-# 1. First principle: Buffett’s performance was statistically extreme
+## 1. First principle: Buffett’s performance was statistically extreme
 
 From 1965–2023 approximately:
 
@@ -40,9 +40,9 @@ The real question therefore becomes:
 
 ---
 
-# 2. Greg Abel (future CEO)
+## 2. Greg Abel (future CEO)
 
-## Background
+### Background
 
 Greg Abel currently runs Berkshire’s non-insurance operating businesses and previously led **Berkshire Hathaway Energy**.
 
@@ -52,7 +52,7 @@ Under his leadership:
 - to a **$100B+ enterprise**
 - with major expansion into renewables and infrastructure.
 
-## Strengths
+### Strengths
 
 Investors tend to view Abel as strong in three areas:
 
@@ -66,7 +66,7 @@ Buffett himself has repeatedly said:
 
 That is a remarkable endorsement coming from Buffett.
 
-## Limitations
+### Limitations
 
 However, Abel is **not Buffett**.
 
@@ -82,7 +82,7 @@ Confidence: **very high**.
 
 ---
 
-# 3. Todd Combs and Ted Weschler (investment managers)
+## 3. Todd Combs and Ted Weschler (investment managers)
 
 These two investment managers already run a significant portion of Berkshire’s equity portfolio.
 
@@ -100,7 +100,7 @@ They have been responsible for several notable investments widely believed to in
 - Amazon
 - Charter Communications
 
-## Their historical records
+### Their historical records
 
 **Ted Weschler**
 
@@ -116,11 +116,11 @@ Both are impressive investors, but **neither has demonstrated Buffett-level resu
 
 ---
 
-# 4. Structural advantages Berkshire still has
+## 4. Structural advantages Berkshire still has
 
 Even without Buffett’s stock picking ability, Berkshire retains several advantages that few companies possess.
 
-## Insurance float
+### Insurance float
 
 Berkshire’s insurance subsidiaries generate enormous float.
 
@@ -133,7 +133,7 @@ Most investment firms cannot replicate this structure.
 
 ---
 
-## Permanent capital
+### Permanent capital
 
 Unlike mutual funds or hedge funds, Berkshire never faces:
 
@@ -145,7 +145,7 @@ This allows Berkshire to hold investments **far longer than typical asset manage
 
 ---
 
-## Opportunistic crisis investing
+### Opportunistic crisis investing
 
 During financial crises Berkshire has repeatedly negotiated unusually favorable deals:
 
@@ -159,7 +159,7 @@ These deals occur because Berkshire can deploy **huge amounts of capital quickly
 
 ---
 
-## Massive cash reserves
+### Massive cash reserves
 
 Berkshire currently holds roughly: $160B+ in cash and T-bills
 
@@ -167,11 +167,11 @@ In a financial crisis this becomes extremely valuable optionality.
 
 ---
 
-# 5. Reasons Berkshire could underperform
+## 5. Reasons Berkshire could underperform
 
 There are also real structural headwinds.
 
-## Size
+### Size
 
 Berkshire’s market capitalization is roughly: ~$900B
 
@@ -180,7 +180,7 @@ At that scale it becomes difficult to find investments large enough to materiall
 
 ---
 
-## Apple concentration
+### Apple concentration
 
 Apple has represented roughly **40%+ of Berkshire’s public equity portfolio**.
 
@@ -188,7 +188,7 @@ Future Berkshire performance is therefore heavily linked to Apple’s trajectory
 
 ---
 
-## Cultural dependence on Buffett
+### Cultural dependence on Buffett
 
 Buffett shaped:
 
@@ -200,7 +200,7 @@ That reputation may weaken somewhat after he is gone.
 
 ---
 
-# 6. A realistic probability model
+## 6. A realistic probability model
 
 Based on historical base rates for great investors and Berkshire’s structural advantages:
 
@@ -216,7 +216,7 @@ Confidence: **moderate (~60%)**.
 
 ---
 
-# 7. The real decision framework
+## 7. The real decision framework
 
 For investors deciding whether to hold Berkshire or diversify, the question becomes:
 
@@ -233,7 +233,7 @@ If Berkshire’s expected excess return is:
 
 ---
 
-# 8. My current view
+## 8. My current view
 
 My expectation for Berkshire over the next couple of decades:
 
@@ -252,7 +252,7 @@ Which is still a remarkable outcome for a $900B company.
 
 ---
 
-# One final observation
+## One final observation
 
 Going forward, Berkshire’s biggest performance driver may not be stock picking at all.
 
