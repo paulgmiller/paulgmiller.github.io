@@ -124,4 +124,143 @@ Even without Buffett’s stock picking ability, Berkshire retains several advant
 
 Berkshire’s insurance subsidiaries generate enormous float.
 
-Roughly:
+Roughly: ~$160B+
+
+
+This float effectively acts as **low-cost leverage**.
+
+Most investment firms cannot replicate this structure.
+
+---
+
+## Permanent capital
+
+Unlike mutual funds or hedge funds, Berkshire never faces:
+
+- investor redemptions
+- quarterly capital flows
+- forced selling
+
+This allows Berkshire to hold investments **far longer than typical asset managers**.
+
+---
+
+## Opportunistic crisis investing
+
+During financial crises Berkshire has repeatedly negotiated unusually favorable deals:
+
+| Investment | Terms |
+|------|------|
+Goldman Sachs (2008) | 10% preferred shares |
+Bank of America (2011) | preferred + warrants |
+Occidental Petroleum (2019) | 8% preferred |
+
+These deals occur because Berkshire can deploy **huge amounts of capital quickly**.
+
+---
+
+## Massive cash reserves
+
+Berkshire currently holds roughly: $160B+ in cash and T-bills
+
+In a financial crisis this becomes extremely valuable optionality.
+
+---
+
+# 5. Reasons Berkshire could underperform
+
+There are also real structural headwinds.
+
+## Size
+
+Berkshire’s market capitalization is roughly: ~$900B
+
+
+At that scale it becomes difficult to find investments large enough to materially move the needle.
+
+---
+
+## Apple concentration
+
+Apple has represented roughly **40%+ of Berkshire’s public equity portfolio**.
+
+Future Berkshire performance is therefore heavily linked to Apple’s trajectory.
+
+---
+
+## Cultural dependence on Buffett
+
+Buffett shaped:
+
+- Berkshire’s acquisition discipline
+- its reputation for fair deals
+- its investor trust
+
+That reputation may weaken somewhat after he is gone.
+
+---
+
+# 6. A realistic probability model
+
+Based on historical base rates for great investors and Berkshire’s structural advantages:
+
+| Scenario | Probability |
+|------|------|
+Slight alpha (1–2%) | ~35–40% |
+Market-like returns | ~40–50% |
+Underperformance | ~15–25% |
+
+This leads to an **expected alpha near zero but slightly positive**, which is why I assign roughly a **40% chance that Berkshire still modestly outperforms the market**.
+
+Confidence: **moderate (~60%)**.
+
+---
+
+# 7. The real decision framework
+
+For investors deciding whether to hold Berkshire or diversify, the question becomes:
+
+> **Do you believe Berkshire will beat the market by more than ~0.5% annually?**
+
+Why 0.5%?
+
+Because that is roughly the annual cost of many diversification strategies such as exchange funds.
+
+If Berkshire’s expected excess return is:
+
+- **>0.5% annually → holding Berkshire may be rational**
+- **<0.5% annually → diversification may be preferable**
+
+---
+
+# 8. My current view
+
+My expectation for Berkshire over the next couple of decades:
+
+| Factor | Outlook |
+|------|------|
+Management quality | Very strong |
+Structural advantages | Significant |
+Ability to replicate Buffett alpha | Very unlikely |
+Chance of mild alpha | Reasonable |
+
+In other words:
+
+> Berkshire will likely remain **an exceptionally well-run conglomerate that performs roughly like the market, perhaps slightly better in some environments.**
+
+Which is still a remarkable outcome for a $900B company.
+
+---
+
+# One final observation
+
+Going forward, Berkshire’s biggest performance driver may not be stock picking at all.
+
+It may simply be **interest rates**.
+
+With over **$160B in Treasury bills**, every 1% increase in short-term rates generates roughly: ~$1.6B additional annual earnings
+
+
+That dynamic did not exist during the zero-rate era — and it may shape Berkshire’s future returns more than most investors realize.
+
+
