@@ -2,7 +2,7 @@
 layout: post
 title: Grocery Stores in major metros
 tags: [ tech, careme ]
-date: 2026-02-21
+date: 2026-03-11
 ---
 
 In case you wanted to know the major grocery store distributions. (kroger and albertsons have a ton of sub brands)
