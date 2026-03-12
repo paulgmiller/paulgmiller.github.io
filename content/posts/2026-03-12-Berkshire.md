@@ -7,7 +7,7 @@ For 20(?) years I've used berkshire hathaway as a balance to the rest of my tech
 
 So I asked chat gpt here's the AI slop below. 
 
-# Will Berkshire Hathaway Still Beat the Market After Buffett?
+## Will Berkshire Hathaway Still Beat the Market After Buffett?
 
 A question I’ve been thinking about while considering whether to exchange Berkshire Hathaway stock into a diversification fund:
 
