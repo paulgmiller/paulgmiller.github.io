@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Berkshire post Buffet    
+date: 2026-03-12
 ---
 For 20(?) years I've used berkshire hathaway as a balance to the rest of my tech heave portfolio. And buffet has been great but he and munger are gone now. I could get out now via an exchange fund but I would basically be betting that berkshire will underform the tech heave  sp 500 by 0.53% if I do that. 
 
