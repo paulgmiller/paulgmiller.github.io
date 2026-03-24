@@ -9,7 +9,6 @@ In case you wanted to know the major grocery store distributions. (kroger and al
 
 More data coming in hte future https://github.com/paulgmiller/careme/issues/99
 
-
 | metro_name | zip_code | albertsons | aldi | heb | kroger | publix | walmart | wegmans | wholefoods | total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Atlanta-Sandy Springs-Alpharetta GA | 30044 | 0 | 25 | 0 | 10 | 72 | 31 | 0 | 7 | 145 |
@@ -37,6 +36,6 @@ More data coming in hte future https://github.com/paulgmiller/careme/issues/99
 | St. Louis MO-IL | 63136 | 0 | 40 | 0 | 4 | 0 | 21 | 0 | 3 | 68 |
 | Tampa-St. Petersburg-Clearwater FL | 33647 | 0 | 21 | 0 | 0 | 54 | 25 | 0 | 2 | 102 |
 | Washington-Arlington-Alexandria DC-VA-MD-WV | 20906 | 56 | 35 | 0 | 5 | 0 | 9 | 8 | 23 | 136 |
-
+| total |  | 661 | 528 | 104 | 133 | 275 | 545 | 20 | 222 | 2488 |
 
 
