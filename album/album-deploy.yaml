@@ -26,12 +26,44 @@ spec:
       containers:
       - env:
         - name: ACCESS_KEY_ID
-          value: "5fa3c3b71308fdd6fffa16c0f2c7f637"
+          valueFrom:
+            secretKeyRef:
+              key: ACCESS_KEY_ID
+              name: album
         - name: SECRET_ACCESS_KEY
           valueFrom:
             secretKeyRef:
               key: SECRET_ACCESS_KEY
               name: album
+        - name: SESSION_SECRET
+          valueFrom:
+            secretKeyRef:
+              key: SESSION_SECRET
+              name: album
+        - name: GITHUB_TOKEN
+          valueFrom:
+            secretKeyRef:
+              key: GITHUB_TOKEN
+              name: album
+        - name: AUTH_PASSWORD
+          valueFrom:
+            secretKeyRef:
+              key: AUTH_PASSWORD
+              name: album
+        - name: BASE_PATH
+          value: /album
+        - name: BLOG_TIMEZONE
+          value: America/Los_Angeles
+        - name: COOKIE_SECURE
+          value: "true"
+        - name: GITHUB_BASE_BRANCH
+          value: master
+        - name: GITHUB_OWNER
+          value: paulgmiller
+        - name: GITHUB_REPO
+          value: paulgmiller.github.io
+        - name: ALLOWED_EMAIL
+          value: paul.miller@gmail.com
         image: paulgmiller/album:df617a9
         imagePullPolicy: IfNotPresent
         name: album
