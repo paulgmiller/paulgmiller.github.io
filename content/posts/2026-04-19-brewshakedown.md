@@ -1,17 +1,18 @@
 ---
 layout: post
-title: brew gewr shakedown 
+title: brew gewr shakedown
 tags: [beer]
+date: 2026-04-19
 ---
 # 🍺 Cascade West Coast Pale — Brew Day Plan (Anvil + Sparge, Adjusted)
 
 ## 📋 Targets
-- OG: ~1.050  
-- FG: ~1.010  
-- ABV: ~5.2%  
-- IBUs: ~50–55 (from 60 min addition)  
-- Batch Size: 5 gallons  
-- Yeast: BRY-97  
+- OG: ~1.050
+- FG: ~1.010
+- ABV: ~5.2%
+- IBUs: ~50–55 (from 60 min addition)
+- Batch Size: 5 gallons
+- Yeast: BRY-97
 
 ---
 
@@ -74,7 +75,7 @@ tags: [beer]
 
 ## Flameout / Whirlpool
 
-1. Turn off heat  
+1. Turn off heat
 2. Cool to **~180°F**
 3. Add **1 oz Cascade**
 4. Stir gently once
