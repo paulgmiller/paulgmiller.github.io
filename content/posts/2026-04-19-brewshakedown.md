@@ -1,8 +1,8 @@
 ---
 layout: post
 title: brew gewr shakedown 
+tags: [beer]
 ---
-Markdown
 # 🍺 Cascade West Coast Pale — Brew Day Plan (Anvil + Sparge, Adjusted)
 
 ## 📋 Targets
