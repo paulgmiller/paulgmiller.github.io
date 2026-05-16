@@ -17,7 +17,7 @@ Inpiried by [Megan Mcardle](https://cookerymonster.substack.com/p/the-2020-annua
 * [Grill basket](https://amzn.to/4dpMQab) Grilling vegatables is a pain.
 * Graters [Big](https://amzn.to/4nvOKL4) and [Small](https://amzn.to/4uXwY6e)
 * [Nordic ware baking pans](https://amzn.to/4tFvkoI) though I got mine at costco and they're yellow? 
-
+[generic thermapen](https://amzn.to/3R4J5zL) are the steaks done?
 ## Things I am considering
 
 
