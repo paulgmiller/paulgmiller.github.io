@@ -7,7 +7,8 @@ date: 2026-05-16
 
 Inpiried by [Megan Mcardle](https://cookerymonster.substack.com/p/the-2020-annual-kitchen-gift-guide)
 
-## All things I actually own. 
+## Things I actually own. 
+
 
 * [All-Clad Pans](https://amzn.to/4fwMHV0). Great with induction stand up pretty well 
 * [Weber Spirit 3](https://amzn.to/4fwMHV0). Cheapest weber grill and not gigantic. Same quality though as thousand dollar grills.
@@ -18,6 +19,8 @@ Inpiried by [Megan Mcardle](https://cookerymonster.substack.com/p/the-2020-annua
 * [Nordic ware baking pans](https://amzn.to/4tFvkoI) though I got mine at costco and they're yellow? 
 
 ## Things I am considering
+
+
 * [Cheap meat slicer!](https://amzn.to/3Rdi4du)
 * [Ramen Bowls](https://amzn.to/3Rdi4du)
 * [Wine Glasses](https://amzn.to/498ufOF) or [rounder](https://amzn.to/4dP2FbO)  Need ones that go in dish washer, be thin like crystal and don't break the bank. Costco hasn't had our favorites in years now but I hear good things abotu zwiesel 
