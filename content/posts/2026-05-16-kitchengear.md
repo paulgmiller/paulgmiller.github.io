@@ -15,6 +15,7 @@ Inpiried by [Megan Mcardle](https://cookerymonster.substack.com/p/the-2020-annua
 * [Generic Olive oil bottle](https://amzn.to/3RJ5wK). Then you can buy the bulk good stuff at costco. Though maybe I should try [Ceramic](https://amzn.to/3RfALNx)
 * [Grill basket](https://amzn.to/4dpMQab) Grilling vegatables is a pain.
 * Graters [Big](https://amzn.to/4nvOKL4) and [Small](https://amzn.to/4uXwY6e)
+* [Nordic ware baking pans](https://amzn.to/4tFvkoI) though I got mine at costco and they're yellow? 
 
 ## Things I am considering
 * [Cheap meat slicer!](https://amzn.to/3Rdi4du)
