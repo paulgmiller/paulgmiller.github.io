@@ -32,3 +32,9 @@ But these books give great general cooking guidance too:
 * [Ramen Bowls](https://amzn.to/3Rdi4du)
 * [Wine Glasses](https://amzn.to/498ufOF) or [rounder](https://amzn.to/4dP2FbO)  Need ones that go in dish washer, be thin like crystal and don't break the bank. Costco hasn't had our favorites in years now but I hear good things abotu zwiesel 
 * An actual [knife shapener](https://amzn.to/4tKwTkZ)
+
+
+## Next up boolks
+
+* [Every Grain of rice](https://amzn.to/4tzucTj)
+* [Food Lab](https://amzn.to/4uarZim)
