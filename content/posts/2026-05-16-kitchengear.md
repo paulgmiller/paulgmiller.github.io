@@ -34,7 +34,7 @@ But these books give great general cooking guidance too:
 * An actual [knife shapener](https://amzn.to/4tKwTkZ)
 
 
-## Next up boolks
+## Next up books
 
 * [Every Grain of rice](https://amzn.to/4tzucTj)
 * [Food Lab](https://amzn.to/4uarZim)
