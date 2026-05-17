@@ -19,6 +19,12 @@ Inpiried by [Megan Mcardle](https://cookerymonster.substack.com/p/the-2020-annua
 * [Nordic ware baking pans](https://amzn.to/4tFvkoI) though I got mine at costco and they're yellow? 
 * [thermapen](https://amzn.to/43eK9ne) or [generic](https://amzn.to/3R4J5zL) are the steaks done?
 
+## Books I use. 
+In part I'm am building http://careme.cooking is because I don't want to lookup recipes I want them given to me based on my store.
+But these books give great general cooking guidance too:
+* [Salt, Fat, Acid, Heat](https://amzn.to/4dNQgF4) also a netflix series
+* [Six Seasons](https://amzn.to/4eSBo9w). 
+
 ## Things I am considering
 
 
