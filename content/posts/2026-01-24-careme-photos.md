@@ -1,7 +1,7 @@
 ---
 layout: post
 title: careme beta testing
-tags: [ tech, family, photos ]
+tags: [ tech, family, photos, cooking ]
 date: 2026-01-24
 ---
 
