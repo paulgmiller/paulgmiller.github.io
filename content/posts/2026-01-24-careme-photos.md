@@ -1,11 +1,11 @@
 ---
 layout: post
 title: careme beta testing
-tags: [ tech, family, photos ]
+tags: [ tech, family, photos, cooking ]
 date: 2026-01-24
 ---
 
-Been beta testing my own [careme](https://careme.coooking) recipes. Going to try and update some of these with recipe links.
+Been beta testing my own [careme](https://careme.cooking) recipes. Going to try and update some of these with recipe links.
 <div class="fotorama" data-allowfullscreen="true">
 <!--https://photos.app.goo.gl/83E1cXchei89Qsg77-->
     <img src="https://images.northbriton.net/cdn-cgi/image/width=800/https://images.northbriton.net/AP1GczO4qkM5zaXym17qH8Cy2IpWW_SHdWDmkKMiRx_VcN4ZBG9_dwI3ybDdri2v8n9XFNdCprnv72kD2JCwMnSkz38Mqa95OORDDjppLMGimj0DLbQATOf3" data-full="https://images.northbriton.net/AP1GczO4qkM5zaXym17qH8Cy2IpWW_SHdWDmkKMiRx_VcN4ZBG9_dwI3ybDdri2v8n9XFNdCprnv72kD2JCwMnSkz38Mqa95OORDDjppLMGimj0DLbQATOf3">

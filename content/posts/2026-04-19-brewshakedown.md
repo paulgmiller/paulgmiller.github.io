@@ -1,6 +1,6 @@
 ---
 layout: post
-title: brew gewr shakedown
+title: brew gear shakedown
 tags: [beer]
 date: 2026-04-19
 ---
