@@ -5,7 +5,7 @@ tags: [hiking, photos]
 date: 2026-06-11
 ---
 
-Wonderful day. summit 4 or 5 
+Wonderful day. summit 4 or 5. Still got back in time to make [Mojo Tri tip](https://careme.cooking/recipe/NwrYtpVrNrWXl245wX3uiA==)
 
 <div class="fotorama" data-allowfullscreen="true">
 <!--https://photos.app.goo.gl/3GXBEFUCqh1DdWgd7-->
