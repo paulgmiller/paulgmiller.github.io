@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mt Washington 2026
+title: Granite Creek
 tags: [hiking, photos]
 date: 2026-05-22
 ---
