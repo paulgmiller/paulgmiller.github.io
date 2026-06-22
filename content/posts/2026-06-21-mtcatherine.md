@@ -1,4 +1,3 @@
-	"issaquah-carts": "70100658",
 ---
 layout: post
 title: Mt. Catherine
@@ -6,7 +5,7 @@ tags: [hiking, photos]
 date: 2026-06-21
 ---
 
-Fathers day! Grateful my wife and kids put up with me. Dragged them all up mt. catherine. 
+Fathers day! Grateful my wife and kids put up with me. Dragged them all up mt. catherine.  Wife cooked me up [a careme meal of salmon and vegtables](https://careme.cooking/recipe/ArlGcKo1-GQN0_Tw955SBw==)
 
 <div class="fotorama" data-allowfullscreen="true">
 <!--https://photos.app.goo.gl/JaVpnTjZAyJoDh576-->
