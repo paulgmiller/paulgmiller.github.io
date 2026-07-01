@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Salt Fat Acid Heat Highlights
-tags: [cooking]
+tags: [cooking, books]
 date: 2026-05-18
 ---
 
