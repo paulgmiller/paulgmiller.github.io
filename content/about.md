@@ -21,9 +21,9 @@ I may sometimes post on [bluesky as northbriton.net](https://bsky.app/profile/no
 All of these have code at https://github.com/paulgmiller
 
 ## Blogs of people I know
-[Rob Meyer](https://robmeyer.net/) 
-[Jack Ma](https://jackma.com/)
-[Intern Caleb](https://calebschoepp.com/)
+* [Rob Meyer](https://robmeyer.net/) 
+* [Jack Ma](https://jackma.com/)
+* [Intern Caleb](https://calebschoepp.com/)
 
 Don't have a blog? why not? 
 
