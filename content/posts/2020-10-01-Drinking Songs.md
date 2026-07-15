@@ -3,6 +3,8 @@ layout: post
 title: Sad Country Drinking songs
 tags: [ family ]
 date: 2020-10-01
+aliases:
+  - /2020/10/01/Drinking-Songs.html
 ---
 
 These are the sad ones. I'll get to the fun ones later..
@@ -81,4 +83,3 @@ These are the sad ones. I'll get to the fun ones later..
 More to come....
 
 [hattip](https://hymiesrecords.com/10-depressing-country-drinking-songs/#:~:text=%2021%20Apr%2010%20Depressing%20Country%20Drinking%20Songs,Accent...%204%2006%20whiskey%20bottle.%20%20More%20)
-

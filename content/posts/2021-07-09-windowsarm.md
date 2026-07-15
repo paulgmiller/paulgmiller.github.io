@@ -3,6 +3,8 @@ layout: post
 title: Windows Arm
 tags: [ tech ]
 date: 2021-07-09
+aliases:
+  - /2021/07/09/windowsarm.html
 ---
 
 ## WHy am I doing this?

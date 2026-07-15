@@ -5,6 +5,8 @@ author: "Paul Miller"
 tags: ["Corona Virus"]
 comments: true
 date: 2020-05-03
+aliases:
+  - /2020/05/03/This-time-is-differnet.html
 ---
 
 Looking back on why I was so wrong about [corona virus bet]({{

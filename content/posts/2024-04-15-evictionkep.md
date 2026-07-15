@@ -3,6 +3,8 @@ layout: post
 title: Evictions KEP 
 tags: [ tech ]
 date: 2024-04-15
+aliases:
+  - /2024/04/15/evictionkep.html
 ---
 Update: Had an intern try this: https://github.com/javier090/k8s-pdb-autoscaler
 
@@ -37,5 +39,4 @@ Since its based on labels the knowing does this pdb just apply to this deploymen
 ### This may also help with not dropping traffic 
 [Endpoints controller tries to remove terminating pods](https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/)
 but again if you're current replicas are handling all the traffic they can handle (aggressive hpa settings or jsut currently running hot) then you may need surged nodes to be ready to  handle existing traffic. 
-
 

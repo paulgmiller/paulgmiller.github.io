@@ -3,6 +3,8 @@ layout: post
 title: Darkly Mild
 tags: [ beer ]
 date: 2019-03-30
+aliases:
+  - /2019/03/30/Mildly-Dark.html
 ---
 ## Malt
 -  British Pale 4 lbs

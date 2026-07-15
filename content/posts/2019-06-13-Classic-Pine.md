@@ -3,6 +3,8 @@ layout: post
 title: Classic Pine
 tags: [ beer ]
 date: 2019-06-13
+aliases:
+  - /2019/06/13/Classic-Pine.html
 ---
 ## Malt
 - 10 lbs Pale Malt 

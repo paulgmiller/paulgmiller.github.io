@@ -3,6 +3,8 @@ layout: post
 title: No Hard Feelings ESB
 tags: [ beer ]
 date: 2018-07-04
+aliases:
+  - /2018/07/04/No-Hard-Feelings.html
 ---
 ## Malt
 -  5 lbs 2 row pale

@@ -6,6 +6,8 @@ tags: [tech]
 permalink: realblockchain
 comments: true
 date: 2018-04-12
+aliases:
+  - /realblockchain
 ---
 
 So yeah 98% of blockchain / smart contract idea/startups might be scams. That happens but it's fun to try and figure out what's real. 

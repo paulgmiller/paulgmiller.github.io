@@ -3,6 +3,8 @@ layout: post
 title: Wintana's Winter Wonder beer.
 tags: [ beer ]
 date: 2011-01-01
+aliases:
+  - /2011/01/01/Wintana's-Winter-Wonder-beer..html
 ---
 ## Malt
 -  American Two-row Pale, 120 ozs
@@ -22,4 +24,3 @@ date: 2011-01-01
 ## Yeast
 -  Wyeast American Ale (1056), Liquid
 ## Notes
-

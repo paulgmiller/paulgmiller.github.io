@@ -3,6 +3,8 @@ layout: post
 title: memorial day 
 tags: [ family, photos ]
 date: 2025-05-28
+aliases:
+  - /2025/05/28/memorialday.html
 ---
 <div class="fotorama" data-allowfullscreen="true">
     <!--https://photos.app.goo.gl/PMBJAKknWXwz2mr66-->

@@ -5,6 +5,8 @@ author: "Paul Miller"
 tags: ["beer"]
 comments: true
 date: 2023-05-24
+aliases:
+  - /2023/05/24/Ipa-stack-rank.html
 ---
 Conditions. Non-seasonal (no fresh hop). Non double (< 7%)
 ## Available 
@@ -46,6 +48,4 @@ Wyeast 1792 (Fat Tire Ale), Wyeast 1272 (American Ale II), or White Labs WLP051 
 
 ### Step by Step
 Mash at 148 °F (64 °C). Boil for 90 minutes, adding hops at times indicated. Cool wort and transfer to fermenter. Ferment at 68 °F (20 °C). Dry hop in secondary or keg for one week and then bottle or keg.
-
-
 

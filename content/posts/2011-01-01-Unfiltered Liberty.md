@@ -3,6 +3,8 @@ layout: post
 title: Unfiltered Liberty
 tags: [ beer ]
 date: 2011-01-01
+aliases:
+  - /2011/01/01/Unfiltered-Liberty.html
 ---
 ## Malt
 -  Wheat Dry Extract, 48 ozs
@@ -15,4 +17,3 @@ date: 2011-01-01
 ## Yeast
 -  Wyeast German Wheat (3333), Liquid
 ## Notes
-

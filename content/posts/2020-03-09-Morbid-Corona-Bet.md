@@ -5,6 +5,8 @@ author: "Paul Miller"
 tags: ["bets"]
 comments: true
 date: 2020-03-09
+aliases:
+  - /2020/03/09/Morbid-Corona-Bet.html
 ---
 
 From the honorable [Elliot Olds](https://twitter.com/elliot_olds). 
@@ -46,4 +48,3 @@ https://www.worldometers.info/coronavirus/country/us/)
 [King county graph](https://www.kingcounty.gov/depts/health/communicable-diseases/disease-control/novel-coronavirus/data-dashboard.aspx)
 
 [UW virology dashboard with testing data](https://depts.washington.edu/labmed/covid19/)
-

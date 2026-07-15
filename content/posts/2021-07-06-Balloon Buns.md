@@ -5,6 +5,8 @@ author: "Paul Miller"
 tags: ["recipes"]
 comments: true
 date: 2021-07-06
+aliases:
+  - /2021/07/06/Balloon-Buns.html
 ---
 Balloon Buns
 

@@ -3,6 +3,8 @@ layout: post
 title: "Rodgers covid"
 tags: ["family"]
 date: 2021-10-28
+aliases:
+  - /2021/10/28/Rodgers-Covid.html
 ---
 Rodgers Covid
 
@@ -55,6 +57,4 @@ Billiosn of dollars for pharmecueticals companies.
 Ivermectin is generic so nobody can make any money off of it.
 
 Accuses others of living in an echo chamber
-
-
 
