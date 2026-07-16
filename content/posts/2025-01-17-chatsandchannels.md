@@ -3,6 +3,8 @@ layout: post
 title: Chats vs Channels
 tags: [ tech ]
 date: 2025-01-17
+aliases:
+  - /2025/01/17/chatsandchannels.html
 ---
 
 I have been on Don Quixote type quest to get my coworkers to post useful discussions and try and mimimize chat use to 1:1 

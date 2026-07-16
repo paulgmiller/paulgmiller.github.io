@@ -5,6 +5,8 @@ author: "Paul Miller"
 tags: [hiking]
 comments: true
 date: 2018-04-21
+aliases:
+  - /2018/04/21/FinishTheWonderland.html
 ---
 ![trail profile]({{ "/img/wonderland2ndhalf.JPG" | absolute_url }})
 

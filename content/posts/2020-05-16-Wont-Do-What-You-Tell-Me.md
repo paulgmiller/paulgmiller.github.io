@@ -3,6 +3,8 @@ layout: post
 title: Won't do what you tell me IPA
 tags: [ beer ]
 date: 2020-05-16
+aliases:
+  - /2020/05/16/Wont-Do-What-You-Tell-Me.html
 ---
 ## Malt
 - 13 lbs viking pale malt
@@ -27,4 +29,3 @@ All Whole cone.
 - Gypum @ BOIL
 
 Accidentally drained alot of wort into a bucket. whoops. Had to put the bucket into before the boil. May be a pale ale. 
-

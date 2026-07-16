@@ -3,6 +3,8 @@ layout: post
 title: Palm springs
 tags: [ family, photos ]
 date: 2025-02-15
+aliases:
+  - /2025/02/15/palmsprings.html
 ---
 
 

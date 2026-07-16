@@ -60,7 +60,8 @@ images:
       caption: Summmerland
       alttext: pretty
 date: 2018-11-18
+aliases:
+  - /2018/11/18/Panoramas.html
 ---
 
 Been very happy with whay you can do with a cell phone camera and [Microsoft ICE](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/)
-

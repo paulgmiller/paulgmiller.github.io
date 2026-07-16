@@ -3,6 +3,8 @@ layout: post
 title: mt washington
 tags: [ family, photos ]
 date: 2023-07-15
+aliases:
+  - /2023/07/15/mtwashintgon.html
 ---
 
 Not Mt Granite yet but moving that direction.

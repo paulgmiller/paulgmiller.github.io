@@ -5,6 +5,8 @@ author: "Paul Miller"
 tags: ["recipes"]
 comments: true
 date: 2023-04-23
+aliases:
+  - /2023/04/23/HotItalianSausage.html
 ---
 A blue apron favorite.
 

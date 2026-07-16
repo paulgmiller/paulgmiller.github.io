@@ -2,6 +2,8 @@
 layout: post
 title: "Chanterelle and Corn Chowder with Basil"
 date: 2025-08-09
+aliases:
+  - /2025/08/09/corn-chowder.html
 tags: [recipes]
 ---
 
