@@ -2,6 +2,7 @@
 layout: post
 title:  Putrid Pete  
 date: 2026-07-13 
+tags: [hiking]
 ---
 
 I'll just do a quick bandera summit. Hmmm this putrid peak trial is right here. Maybe I'll take that then ridge walk to defiance and return via mason lake. What could go wrong.
