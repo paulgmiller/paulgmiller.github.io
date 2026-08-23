@@ -2,7 +2,7 @@
 layout: post
 title: hyprbuntu
 tags: [tech]
-date: 2026-07-07
+date: 2026-08-28
 ---
 
 
