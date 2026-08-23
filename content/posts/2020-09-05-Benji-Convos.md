@@ -3,6 +3,8 @@ layout: post
 title: Conversations with Benji
 tags: [ family ]
 date: 2020-09-05
+aliases:
+  - /2020/09/05/Benji-Convos.html
 ---
 
 
@@ -26,5 +28,3 @@ date: 2020-09-05
 > Me: Maybe  
 > Benji: Sometimes in my dreams I'm there.  
 > Me: *heart breaks*  
-
-

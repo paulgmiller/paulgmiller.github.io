@@ -3,6 +3,8 @@ layout: post
 title: Last Day of Skiing
 tags: [ family, photos ]
 date: 2024-03-30
+aliases:
+  - /2024/03/30/Last-Ski-Day.html
 ---
 
 

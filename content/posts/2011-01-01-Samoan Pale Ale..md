@@ -3,6 +3,8 @@ layout: post
 title: Samoan Pale Ale.
 tags: [ beer ]
 date: 2011-01-01
+aliases:
+  - /2011/01/01/Samoan-Pale-Ale..html
 ---
 ## Malt
 -  Pilsner Malt, 80 ozs

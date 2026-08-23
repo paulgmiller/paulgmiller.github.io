@@ -3,6 +3,8 @@ layout: post
 title: wireguard kubernetes
 tags: [ tech ]
 date: 2025-08-18
+aliases:
+  - /2025/08/18/wireguard-kubernetes.html
 ---
 
 What if you built your kubernetes cluster with wireguard/tailscale from  the ground up. 
@@ -25,4 +27,3 @@ Can we prove this out by
 2) Creating a BYO CNI cluster
 3) Adding a Demonset to VM nodes that boostraps tailscale and gets a /24 + brige plugin
 4) Create a script that adds us to tailscale then gets a bootstrap token and joins api server from some random home machine? 
-

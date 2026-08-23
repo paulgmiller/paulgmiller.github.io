@@ -3,6 +3,8 @@ layout: post
 title: GigaPilsner
 tags: [ beer ]
 date: 2020-02-17
+aliases:
+  - /2020/02/17/Gigapilsner.html
 ---
 ## Malt
 - 11 lbs viking pilsner malt
@@ -31,4 +33,3 @@ date: 2020-02-17
 - Drinkable but not very clear/crisp.
 
 ![prost](https://rpvokg.dm.files.1drv.com/y4mbOVwdiIaFV5_tk-wPifaQNHAvMoI4XfqKoMDOgkf7jEZCyMeB-r2IHCFIFCrg0r11KU2ngWyL5JYVI4UJ-LoVzr3m23ZB5bzX3eEJrlhLm2CTrL0K2DPBAKOLh4MxfJXRqzzlHN54xDPyoh4FnB932MKr6GKTjB6kwx7UDrddb_gdN5vbTgg5MHPtk1PgmYZTpCqt4KD3FOKRSgclmq_pw?width=3024&height=4032&cropmode=none)
-

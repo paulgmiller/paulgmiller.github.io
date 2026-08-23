@@ -5,6 +5,8 @@ author: "Paul Miller"
 tags: ["tech"]
 comments: true
 date: 2019-01-01
+aliases:
+  - /2019/01/01/Lip-reading-cellphone.html
 ---
 
 Tired of typing on a phone with my fat fingers. Wondering if the front facing camera can just do lip reading. 
@@ -25,8 +27,6 @@ Here are some resources:
 ### Could try and do subvocalization or more crazy brain stuff
 - https://dam-prod.media.mit.edu/x/2018/03/23/p43-kapur_BRjFwE6.pdf
 - https://resnet.microsoft.com/video/42992
-
-
 
 
 

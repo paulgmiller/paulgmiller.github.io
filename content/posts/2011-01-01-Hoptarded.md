@@ -3,6 +3,8 @@ layout: post
 title: Hoptarded
 tags: [ beer ]
 date: 2011-01-01
+aliases:
+  - /2011/01/01/Hoptarded.html
 ---
 ## Malt
 -  American Two-row Pale, 72 ozs

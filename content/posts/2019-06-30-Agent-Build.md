@@ -3,6 +3,8 @@ layout: post
 title: A CI/CD we can believe in
 tags: [ tech ]
 date: 2019-06-30
+aliases:
+  - /2019/06/30/Agent-Build.html
 ---
 
 ## Here to Help not to Hinder. 

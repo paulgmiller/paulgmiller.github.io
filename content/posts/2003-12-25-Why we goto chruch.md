@@ -5,6 +5,8 @@ author: "Richard Miller"
 tags: ["family"]
 comments: false
 date: 2003-12-25
+aliases:
+  - /2003/12/25/Why-we-goto-chruch.html
 ---
 
 What follows is a letter from my Dad to PJ about why we goto church. What I like most about it is it's modesty and ambivalence. I find it far more convicing than most clarion calls to faith.

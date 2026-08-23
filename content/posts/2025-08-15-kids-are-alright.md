@@ -3,6 +3,8 @@ layout: post
 title: kids are alright
 tags: [ tech ]
 date: 2025-08-15
+aliases:
+  - /2025/08/15/kids-are-alright.html
 ---
 
 The kids are alright.

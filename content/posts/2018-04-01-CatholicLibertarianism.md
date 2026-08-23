@@ -5,6 +5,8 @@ author: "Paul Miller"
 tags: ["family"]
 comments: true
 date: 2018-04-01
+aliases:
+  - /2018/04/01/CatholicLibertarianism.html
 ---
 
 *Expect this to be updated just an outline for now* 

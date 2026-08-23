@@ -3,6 +3,8 @@ layout: post
 title: Oahu West side february
 tags: [ family, photos ]
 date: 2023-02-15
+aliases:
+  - /2023/02/15/Hawaiialbum.html
 ---
 
 Some quality time with the majumders. Stolen kids shoes but not as much rain as I thought
@@ -21,5 +23,3 @@ Some quality time with the majumders. Stolen kids shoes but not as much rain as 
     <img src="https://images.northbriton.net/AP1GczNsV70yPLwxs31qh1_0TPr3kGlGOH2Zf1fbABDYIG7hAoVgbVKpBDCvLM_B6ZJr0l71CWIz414a_4lJMiBiaDfuOu1oh0pQW5uHUD6aJ1i8XmcP8dWo">
     <img src="https://images.northbriton.net/AP1GczOYstw1rH9Xbv4JVAd9hOLBc63mQjmabszEGIQxuMNPDKAPYZd1so_Kl1w5sbZ1MWwRAzaPd11CAGxiev4XNvDEiZ0VIe9W7GqKtKnyx5a5UUOPLLSj">
 </div>
-
-

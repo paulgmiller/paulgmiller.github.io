@@ -3,6 +3,8 @@ layout: post
 title: Brewing water
 tags: [ beer ]
 date: 2018-12-17
+aliases:
+  - /2018/12/17/Brewing-Water.html
 ---
 Right now I filter my water (also sadly my cooling water which is pretty wasteful). But I don't try and control salts. Leaving some more info here for later. 
 

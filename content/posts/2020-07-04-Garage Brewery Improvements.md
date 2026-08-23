@@ -3,6 +3,8 @@ layout: post
 title: Garage brewery improvments
 tags: [ beer ]
 date: 2020-07-04
+aliases:
+  - /2020/07/04/Garage-Brewery-Improvements.html
 ---
 ## likely.
 - power strip with switches.

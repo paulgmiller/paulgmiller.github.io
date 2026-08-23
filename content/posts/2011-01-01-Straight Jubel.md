@@ -3,6 +3,8 @@ layout: post
 title: Straight Jubel
 tags: [ beer ]
 date: 2011-01-01
+aliases:
+  - /2011/01/01/Straight-Jubel.html
 ---
 ## Malt
 -  American Two-row Pale, 168 ozs
@@ -21,4 +23,3 @@ date: 2011-01-01
 ## Yeast
 -  American Ale, Liquid
 ## Notes
-

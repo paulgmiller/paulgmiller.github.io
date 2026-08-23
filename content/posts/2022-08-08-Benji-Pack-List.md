@@ -5,6 +5,8 @@ author: "Paul Miller"
 tags: [hiking]
 comments: true
 date: 2022-08-08
+aliases:
+  - /2022/08/08/Benji-Pack-List.html
 ---
 
 Plan is to do [Olallie lake](https://www.wta.org/go-hiking/hikes/talapus-and-olallie-lakes) then later [Cascade pass](https://www.wta.org/go-hiking/hikes/cascade-pass) to Stehkin. 

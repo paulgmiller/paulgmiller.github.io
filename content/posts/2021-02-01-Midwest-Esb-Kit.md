@@ -3,6 +3,8 @@ layout: post
 title: Backwards ESB Kit
 tags: [ beer ]
 date: 2021-02-01
+aliases:
+  - /2021/02/01/Midwest-Esb-Kit.html
 ---
 ## Malt
 -  Maris Otter - 9 lbs
@@ -21,5 +23,3 @@ date: 2021-02-01
 Mash at 153. Mashout at 180 (over 10 minutes).
 Accidentally flipped goldigns and willamette. Spilled Willamette on floor so added some cluster fuggle.
 Yeast was going furious in < 20 hours
-
-

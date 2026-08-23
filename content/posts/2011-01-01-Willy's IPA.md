@@ -3,6 +3,8 @@ layout: post
 title: Willy's IPA
 tags: [ beer ]
 date: 2011-01-01
+aliases:
+  - /2011/01/01/Willy's-IPA.html
 ---
 ## Malt
 -  Briess DME Golden Light , 96 ozs
@@ -17,4 +19,3 @@ date: 2011-01-01
 ## Yeast
 -  Ringwood Ale, Liquid
 ## Notes
-

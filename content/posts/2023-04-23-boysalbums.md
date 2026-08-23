@@ -3,6 +3,8 @@ layout: post
 title: single dad weekend with the boys
 tags: [ family, photos ]
 date: 2023-04-23
+aliases:
+  - /2023/04/23/boysalbums.html
 ---
 
 

@@ -3,6 +3,8 @@ layout: post
 title: miss universe costumes
 tags: [ family ]
 date: 2023-01-20
+aliases:
+  - /2023/01/20/MissUniverseCostumes.html
 ---
 
 My wife and I really enjoy watching this display of.... something.

@@ -2,6 +2,8 @@
 layout: post
 title: "Cocoa-Cajun Flank Steak Marinade"
 date: 2025-08-02
+aliases:
+  - /2025/08/02/cocoa-cajun.html
 tags: [recipes]
 ---
 

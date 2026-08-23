@@ -3,6 +3,8 @@ layout: post
 title: "Wrestling stories."
 tags: ["family"]
 date: 2021-01-10
+aliases:
+  - /2021/01/10/Wrestling-Stories.html
 ---
 
 Writing these down. 

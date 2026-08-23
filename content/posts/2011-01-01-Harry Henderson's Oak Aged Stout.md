@@ -3,6 +3,8 @@ layout: post
 title: Harry Henderson's Oak Aged Stout
 tags: [ beer ]
 date: 2011-01-01
+aliases:
+  - /2011/01/01/Harry-Henderson's-Oak-Aged-Stout.html
 ---
 ## Malt
 -  Briess Pilsen Light DME, 96 ozs

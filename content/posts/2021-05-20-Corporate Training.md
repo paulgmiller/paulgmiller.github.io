@@ -5,6 +5,8 @@ author: "Paul Miller"
 tags: ["tech"]
 comments: true
 date: 2021-05-20
+aliases:
+  - /2021/05/20/Corporate-Training.html
 ---
 I kind of despis most corporate training. It's all the same and I don't think 90% of participants force to take it get anything out of it.
 
@@ -17,4 +19,3 @@ I kind of despis most corporate training. It's all the same and I don't think 90
 1. here's a group of values that you should strive towards even though several of them are in direct conflict
 
 Maybe some very unreflective people go through them and decide they have been big jerks? I don't know.
-

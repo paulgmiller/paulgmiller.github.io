@@ -3,6 +3,8 @@ layout: post
 title: Straight to Jubel
 tags: [ beer ]
 date: 2020-10-01
+aliases:
+  - /2020/10/01/Straight-to-Jubel.html
 ---
 ## Malt
 -  American Two-row Pale, 160 ozs

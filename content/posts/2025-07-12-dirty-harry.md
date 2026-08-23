@@ -3,6 +3,8 @@ layout: post
 title: dirty harry's balcony 
 tags: [ family, photos ]
 date: 2025-07-12
+aliases:
+  - /2025/07/12/dirty-harry.html
 ---
 
 <div class="fotorama" data-allowfullscreen="true">

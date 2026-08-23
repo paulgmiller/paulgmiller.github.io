@@ -3,6 +3,8 @@ layout: post
 title: "Vaccine Maximalism"
 tags: ["family"]
 date: 2021-10-28
+aliases:
+  - /2021/10/28/vaccine-maximalism.html
 ---
 
 I a extemely pro vaccine so I thought I should write down why as a starting point for anyone that cares
@@ -32,6 +34,5 @@ I don't like the government or other people telling me what to do. But lockdowns
 
 # Oddities.
  We should have done challenge trials back in late spring of 2020. By fall of 2020 the government should have basically have an open trial. Kids authoritzation shold have been immediately followed adults and left to peioatrician disgression
-
 
 

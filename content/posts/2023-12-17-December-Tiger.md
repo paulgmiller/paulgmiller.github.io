@@ -3,6 +3,8 @@ layout: post
 title: december tiger
 tags: [ family, photos ]
 date: 2023-12-17
+aliases:
+  - /2023/12/17/December-Tiger.html
 ---
 As an old lady said coming down. What a lovely spring day. 
 

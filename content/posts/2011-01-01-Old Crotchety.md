@@ -3,6 +3,8 @@ layout: post
 title: Old Crotchety
 tags: [ beer ]
 date: 2011-01-01
+aliases:
+  - /2011/01/01/Old-Crotchety.html
 ---
 ## Malt
 -  American Two-row Pale, 80 ozs
@@ -19,4 +21,3 @@ date: 2011-01-01
 -  American Ale, Liquid
 -  Champagne Yeast, Liquid
 ## Notes
-

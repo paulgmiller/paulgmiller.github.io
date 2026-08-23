@@ -3,6 +3,8 @@ layout: post
 title: The Wreck Porter
 tags: [ beer ]
 date: 2018-09-15
+aliases:
+  - /2018/09/15/The-Wreck-Porter.html
 ---
 ## Malt
 - 8lbs Pale Malt

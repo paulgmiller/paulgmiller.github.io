@@ -3,6 +3,8 @@ layout: post
 title: slog is neat
 tags: [ tech ]
 date: 2025-10-23
+aliases:
+  - /2025/10/23/slogoutline.html
 ---
 
 Why did golang get a new logging framework after ~10 years? 
