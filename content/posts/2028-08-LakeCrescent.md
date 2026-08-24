@@ -1,0 +1,18 @@
+---
+layout: post
+title: Lake Crescent 2026
+date: 08-20-2026
+---
+
+<div class="fotorama" data-allowfullscreen="true">
+<!--https://photos.app.goo.gl/rPhP3sw4Siq3QWeQ7-->
+    <img src="https://images.northbriton.net/cdn-cgi/image/width=800/https://images.northbriton.net/AP1GczN-rxJgvMqIHWjOM9gof-QK1Bt9XPYApzFC91F7O92AgwLdwzQ-QaFsg7Le3KWx5KUgAg5e4AYDFlszEO18VYiat4BY-ZaNjs__vLQ2l0RLBSF5NAlU" data-full="https://images.northbriton.net/AP1GczN-rxJgvMqIHWjOM9gof-QK1Bt9XPYApzFC91F7O92AgwLdwzQ-QaFsg7Le3KWx5KUgAg5e4AYDFlszEO18VYiat4BY-ZaNjs__vLQ2l0RLBSF5NAlU">
+    <img src="https://images.northbriton.net/cdn-cgi/image/width=800/https://images.northbriton.net/AP1GczMuAuirQoQ2pUJ43-fS4NBZ0gr8_sjRfeCwFillSOG80CaBMkNeeYelLB2ph7gSZUqQnb1rsz-MGntqBxfxztMq1R00GMsKfm3YX-AMaVIeAyPXLClm" data-full="https://images.northbriton.net/AP1GczMuAuirQoQ2pUJ43-fS4NBZ0gr8_sjRfeCwFillSOG80CaBMkNeeYelLB2ph7gSZUqQnb1rsz-MGntqBxfxztMq1R00GMsKfm3YX-AMaVIeAyPXLClm">
+    <img src="https://images.northbriton.net/cdn-cgi/image/width=800/https://images.northbriton.net/AP1GczPuQets-6kBwWNn4V9gM6FNX1V-E4GjTacZ2QqxKCoUKnHZvO678kDB-BLijg6gwI43Yvm-f7_uCNDFQwgGc3na9bBLCqmQgTWNDzA61DKzGRdjx4yp" data-full="https://images.northbriton.net/AP1GczPuQets-6kBwWNn4V9gM6FNX1V-E4GjTacZ2QqxKCoUKnHZvO678kDB-BLijg6gwI43Yvm-f7_uCNDFQwgGc3na9bBLCqmQgTWNDzA61DKzGRdjx4yp">
+    <img src="https://images.northbriton.net/cdn-cgi/image/width=800/https://images.northbriton.net/AP1GczMlbzHiILd0CSlzp80nw8tZpMtOGfFR61pyNfLNxrZ6k79vo6CVNLYnyFFVpCcUAgV7YEGR6xC_ZBpRT_UxGOPTFQmo0mvistdFTsE_rgPNy9FKusb2" data-full="https://images.northbriton.net/AP1GczMlbzHiILd0CSlzp80nw8tZpMtOGfFR61pyNfLNxrZ6k79vo6CVNLYnyFFVpCcUAgV7YEGR6xC_ZBpRT_UxGOPTFQmo0mvistdFTsE_rgPNy9FKusb2">
+    <img src="https://images.northbriton.net/cdn-cgi/image/width=800/https://images.northbriton.net/AP1GczOKuJsWbJPtamsm6hn2LHXSlCR6QbMQ7KLudr1yCxny0zlS3WxQYXHBsw_P2HI2xuawx85ELE0G4t8lA8Wn9E4u3Bk86lEOTnWhqzod-WtZsQxWTcB5" data-full="https://images.northbriton.net/AP1GczOKuJsWbJPtamsm6hn2LHXSlCR6QbMQ7KLudr1yCxny0zlS3WxQYXHBsw_P2HI2xuawx85ELE0G4t8lA8Wn9E4u3Bk86lEOTnWhqzod-WtZsQxWTcB5">
+    <img src="https://images.northbriton.net/cdn-cgi/image/width=800/https://images.northbriton.net/AP1GczOcbrFEcIwUH3aj3uxE1LNImj5peF-N5gXVpSqjwv6NXJX4VVoMrYItZ36GH7DgRMrqV9X2e3qfEnl8_s8KufJQlHMEC1WhFLgJJ2XoTh9cQDZa5K_S" data-full="https://images.northbriton.net/AP1GczOcbrFEcIwUH3aj3uxE1LNImj5peF-N5gXVpSqjwv6NXJX4VVoMrYItZ36GH7DgRMrqV9X2e3qfEnl8_s8KufJQlHMEC1WhFLgJJ2XoTh9cQDZa5K_S">
+    <img src="https://images.northbriton.net/cdn-cgi/image/width=800/https://images.northbriton.net/AP1GczPINZSTlKOES7mk1j8v2OZCYn1RrSu57UoJXNFHoJjCfxuSvOj6JpdOFm5iFXhcjUiLXdLryw7z-5vJ_qwRoxmUGQjOGM7fHSJYzw2s_Uqahyw07Ixm" data-full="https://images.northbriton.net/AP1GczPINZSTlKOES7mk1j8v2OZCYn1RrSu57UoJXNFHoJjCfxuSvOj6JpdOFm5iFXhcjUiLXdLryw7z-5vJ_qwRoxmUGQjOGM7fHSJYzw2s_Uqahyw07Ixm">
+    <img src="https://images.northbriton.net/cdn-cgi/image/width=800/https://images.northbriton.net/AP1GczO_niNxdP-mnE_Gk4ATQQioIArPPQxaVnwgPjPKqE1Fq4YYjYk_sGf9wFBvJLMXEKN0wpzF6Wu-yS5cseAjFy0GGP8_-5KHqSSRTSQkFNLW9LUKjVLx" data-full="https://images.northbriton.net/AP1GczO_niNxdP-mnE_Gk4ATQQioIArPPQxaVnwgPjPKqE1Fq4YYjYk_sGf9wFBvJLMXEKN0wpzF6Wu-yS5cseAjFy0GGP8_-5KHqSSRTSQkFNLW9LUKjVLx">
+    <img src="https://images.northbriton.net/cdn-cgi/image/width=800/https://images.northbriton.net/AP1GczP6Fm89eC3QITHQl1RJ1C5Qc7zZyyT7QkpKgfKyf4t7MgSRNvs0HX0CwXSvHXkYg_ENf59onTyytKPxQ-aTKG7Z6JCk_cNWUhzoPVcfQLQ-jJxfupTC" data-full="https://images.northbriton.net/AP1GczP6Fm89eC3QITHQl1RJ1C5Qc7zZyyT7QkpKgfKyf4t7MgSRNvs0HX0CwXSvHXkYg_ENf59onTyytKPxQ-aTKG7Z6JCk_cNWUhzoPVcfQLQ-jJxfupTC">
+</div>
