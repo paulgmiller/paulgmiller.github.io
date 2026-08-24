@@ -16,7 +16,7 @@ So considering a meta deb package to just let me install the folliowing items an
 hyprland
 hypridle  
 waybar
-fuzzel (hyperlauncher) 
+fuzzel (hyperlauncher or walker? https://github.com/abenz1267/walker) 
 
 maybe hyprpolkitagent and xdg-desktop-portal-hyprland
 
