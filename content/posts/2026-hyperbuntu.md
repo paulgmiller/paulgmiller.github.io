@@ -9,7 +9,7 @@ date: 2026-08-28
 So omarchy 4.0 dropped but maybe I'm not ready to go all in [see](https://マリウス.com/a-word-on-omarchy/#summary). Kind of grown used the the boringness of ubuntu but want [hyprland](https://wiki.hypr.land/)
 
 This is close but maybe too much https://wiki.hypr.land/Hypr-Ecosystem/hyprlauncher/
-
+So much here  https://github.com/hyprland-community/awesome-hyprland
 
 So considering a meta deb package to just let me install the folliowing items and setup 
 
