@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lake Crescent 2026
-date: 08-20-2026
+date: 2026-08-20
 ---
 
 <div class="fotorama" data-allowfullscreen="true">
