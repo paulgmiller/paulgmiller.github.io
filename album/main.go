@@ -3,7 +3,9 @@ package main
 import (
 	"bytes"
 	"context"
+	"encoding/json"
 	"fmt"
+	"html"
 	"io"
 	"log"
 	"net/http"
@@ -11,36 +13,72 @@ import (
 	"os"
 	"path"
 	"regexp"
+	"strings"
+	"time"
+	_ "time/tzdata"
+	"unicode"
 
 	"github.com/samber/lo"
 )
 
 const (
-	REGEX = `(https:\/\/lh3\.googleusercontent\.com\/\w{2}\/[a-zA-Z0-9\-_]{64,})`
+	REGEX             = `(https:\/\/lh3\.googleusercontent\.com\/\w{2}\/[a-zA-Z0-9\-_]{64,})`
+	defaultAlbumTitle = "Photo Album"
+	githubNewPostURL  = "https://github.com/paulgmiller/paulgmiller.github.io/new/master/content/posts"
 )
 
-func getPhotoURLs(albumURL string) ([]string, error) {
+var titleRegex = regexp.MustCompile(`(?is)<title[^>]*>(.*?)</title>`)
+
+type album struct {
+	title     string
+	photoURLs []string
+}
+
+func getAlbum(albumURL string) (album, error) {
 	resp, err := http.Get(albumURL)
 	if err != nil {
-		return nil, err
+		return album{}, err
 	}
 	defer resp.Body.Close()
+	if resp.StatusCode < http.StatusOK || resp.StatusCode >= http.StatusMultipleChoices {
+		return album{}, fmt.Errorf("album request returned %s", resp.Status)
+	}
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
-		return nil, err
+		return album{}, err
+	}
+	return parseAlbum(body)
+}
+
+func parseAlbum(body []byte) (album, error) {
+	title := defaultAlbumTitle
+	if titleMatch := titleRegex.FindSubmatch(body); len(titleMatch) == 2 {
+		title = strings.TrimSpace(html.UnescapeString(string(titleMatch[1])))
+		title = strings.TrimSpace(strings.TrimSuffix(title, " - Google Photos"))
+		if title == "" || title == "Google Photos" {
+			title = defaultAlbumTitle
+		}
 	}
 
 	re := regexp.MustCompile(REGEX)
 	matches := re.FindAllString(string(body), -1)
 
 	if len(matches) <= 1 {
-		return nil, fmt.Errorf("no images found")
+		return album{}, fmt.Errorf("no images found")
 	}
 
 	matches = lo.Uniq(matches[1 : len(matches)-1])
 
-	return matches, nil
+	return album{title: title, photoURLs: matches}, nil
+}
+
+func getPhotoURLs(albumURL string) ([]string, error) {
+	album, err := getAlbum(albumURL)
+	if err != nil {
+		return nil, err
+	}
+	return album.photoURLs, nil
 }
 
 type uploader interface {
@@ -102,12 +140,15 @@ func mirror(ctx context.Context, photoURLs []string, client uploader) ([]string,
 	return result, nil
 }
 
-var header = `<div class="fotorama" data-allowfullscreen="true">
+var galleryHeader = `<div class="fotorama" data-allowfullscreen="true">
 <!--%s-->
 `
 
-func output(urls []string, albumURL string, w io.Writer) error {
-	if _, err := fmt.Fprintf(w, header, albumURL); err != nil {
+func output(urls []string, albumURL, title, date string, w io.Writer) error {
+	if _, err := fmt.Fprintf(w, "---\nlayout: post\ntitle: %s\ndate: %s\n---\n\n", yamlString(title), date); err != nil {
+		return err
+	}
+	if _, err := fmt.Fprintf(w, galleryHeader, albumURL); err != nil {
 		return err
 	}
 	for _, url := range urls {
@@ -121,6 +162,50 @@ func output(urls []string, albumURL string, w io.Writer) error {
 	return nil
 }
 
+func yamlString(value string) string {
+	value = strings.Join(strings.Fields(value), " ")
+	if value != "" && !strings.ContainsAny(value, ":#{}[],&*!|>'\"%@`") && !strings.Contains("-?:", value[:1]) {
+		return value
+	}
+	encoded, _ := json.Marshal(value)
+	return string(encoded)
+}
+
+func slugify(value string) string {
+	var slug strings.Builder
+	separator := false
+	for _, r := range strings.ToLower(value) {
+		if unicode.IsLetter(r) || unicode.IsDigit(r) {
+			if separator && slug.Len() > 0 {
+				slug.WriteByte('-')
+			}
+			slug.WriteRune(r)
+			separator = false
+		} else {
+			separator = true
+		}
+	}
+	if slug.Len() == 0 {
+		return "album"
+	}
+	return slug.String()
+}
+
+func newPostURL(title, date, content string) string {
+	query := url.Values{}
+	query.Set("filename", fmt.Sprintf("%s-%s.md", date, slugify(title)))
+	query.Set("value", content)
+	return githubNewPostURL + "?" + query.Encode()
+}
+
+func today() string {
+	location, err := time.LoadLocation("America/Los_Angeles")
+	if err != nil {
+		location = time.Local
+	}
+	return time.Now().In(location).Format(time.DateOnly)
+}
+
 func serve(w http.ResponseWriter, r *http.Request, u uploader) {
 	err := r.ParseForm()
 	if err != nil {
@@ -132,22 +217,23 @@ func serve(w http.ResponseWriter, r *http.Request, u uploader) {
 		http.Error(w, "missign album", http.StatusBadRequest)
 		return
 	}
-	photos, err := getPhotoURLs(albumURL)
+	album, err := getAlbum(albumURL)
 	if err != nil {
 		http.Error(w, "failed to scrape: "+err.Error(), http.StatusInternalServerError)
 		return
 	}
-	mirroredURLs, err := mirror(r.Context(), photos, u)
+	mirroredURLs, err := mirror(r.Context(), album.photoURLs, u)
 	if err != nil {
 		http.Error(w, "failed to mirror: "+err.Error(), http.StatusInternalServerError)
 		return
 	}
-	w.Header().Set("Content-Type", "text/plain")
-	if err := output(mirroredURLs, albumURL, w); err != nil {
+	date := today()
+	var content bytes.Buffer
+	if err := output(mirroredURLs, albumURL, album.title, date, &content); err != nil {
 		http.Error(w, "failed to write: "+err.Error(), http.StatusInternalServerError)
 		return
 	}
-
+	http.Redirect(w, r, newPostURL(album.title, date, content.String()), http.StatusSeeOther)
 }
 
 func main() {
@@ -163,17 +249,17 @@ func main() {
 	}
 	albumURL := os.Args[1]
 
-	photoURLs, err := getPhotoURLs(albumURL)
+	album, err := getAlbum(albumURL)
 	if err != nil {
 		log.Fatalf("Failed to retrieve photo URLs: %v", err)
 	}
 
-	mirroredURLs, err := mirror(ctx, photoURLs, uploader)
+	mirroredURLs, err := mirror(ctx, album.photoURLs, uploader)
 	if err != nil {
 		log.Fatalf("Failed to mirror photos: %v", err)
 	}
 
-	if err := output(mirroredURLs, albumURL, os.Stdout); err != nil {
+	if err := output(mirroredURLs, albumURL, album.title, today(), os.Stdout); err != nil {
 		log.Fatalf("Failed to mirror photos: %v", err)
 	}
 
