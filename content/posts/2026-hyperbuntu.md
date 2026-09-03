@@ -15,25 +15,28 @@ Seems like I can make ubuntu's login screen (gdm) launch hyperland for me and ke
 
 https://github.com/paulgmiller/hybuntu
 
+Some things also still offer up deb packages <img width="244" height="429" alt="image" src="https://github.com/user-attachments/assets/a84958cc-6a52-4abb-b113-d7a91bd9e7df" />
+
+
 ### omarchy 4 quatgro noites
 
-tailscale (through omarchy)
-golang (ui pacman got 1.27 where did it puit it)
-docker (installed need to make it non sudo)
-vscode (through omarchy )
-jellyfin ( thorugh pacman -S jellyfin-server)
-codex (though omarchy )
-spotify (through omarchy, login failed )
-ghosttty (ui pacman?)+
-gh cli (sudo pacman -S github-cli)
-zsh (ui pacman or  pacman -S zsh)
-oh-my-zhs
+* tailscale (through omarchy)
+* golang (ui pacman got 1.27 where did it puit it)
+* docker (installed need to make it non sudo)
+* vscode (through omarchy )
+* jellyfin ( thorugh pacman -S jellyfin-server)
+* codex cli (though omarchy )
+* spotify (through omarchy, login failed )
+* ghosttty (ui pacman?)+
+* gh cli (sudo pacman -S github-cli)
+* zsh (ui pacman or  pacman -S zsh) 
+* oh-my-zsh
 
 
 changed monitors.lua
 
 changed lookandfeel.lua
-
+```
 -- https://wiki.hypr.land/Configuring/Basics/Variables/#general
  hl.config({
    general = {
@@ -66,4 +69,4 @@ hl.monitor({
   scale = 1,
   transform = 1
 })
-
+```
