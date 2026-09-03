@@ -15,7 +15,9 @@ Seems like I can make ubuntu's login screen (gdm) launch hyperland for me and ke
 
 https://github.com/paulgmiller/hybuntu
 
-Some things also still offer up deb packages <img width="244" height="429" alt="image" src="https://github.com/user-attachments/assets/a84958cc-6a52-4abb-b113-d7a91bd9e7df" />
+Some things also still offer up deb packages
+
+<img width="244" height="429" alt="image" src="https://github.com/user-attachments/assets/a84958cc-6a52-4abb-b113-d7a91bd9e7df" />
 
 
 ### omarchy 4 quatgro noites
