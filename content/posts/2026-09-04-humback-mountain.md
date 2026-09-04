@@ -2,6 +2,7 @@
 layout: post
 title: Humback mountain
 date: 2026-09-04
+tags: [hiking, photos]
 ---
 
 New summit! getting close to i90 completion. Pretty unmainted and steep but good views and weather hed. 

@@ -2,6 +2,7 @@
 layout: post
 title: 2026 Granite 
 date: 2026-08-07
+tags: [hiking, photos]
 ---
 Went up with former intern. Somehow phone lost my panorama at the top but ther's marmots
 
