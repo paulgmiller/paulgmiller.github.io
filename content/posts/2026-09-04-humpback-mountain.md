@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Humback mountain
+title: Humpback mountain
 date: 2026-09-04
 tags: [hiking, photos]
 ---
