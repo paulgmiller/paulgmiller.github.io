@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>I-90 Summits — Bellevue to Snoqualmie Pass</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <style>
+    html, body, #map { height: 100%; margin: 0; }
+    body { font-family: "Segoe UI", system-ui, sans-serif; background: #173322; }
+    .star-marker { color: #ffd54a; font-size: 34px; line-height: 34px; text-align: center; text-shadow: 0 1px 2px #000, 0 0 5px #000; filter: drop-shadow(0 1px 1px #0008); }
+    .leaflet-popup-content { margin: 12px 14px; min-width: 150px; }
+    .leaflet-popup-content strong { display: block; font-size: 16px; margin-bottom: 3px; }
+    .leaflet-popup-content a { color: #13678b; font-weight: 600; }
+    .map-title { padding: 8px 12px; color: #fff; background: #13291ee8; border-radius: 5px; box-shadow: 0 1px 5px #0008; }
+    .map-title strong { display: block; font-size: 17px; }
+    .map-title span { font-size: 12px; color: #d8e4dc; }
+  </style>
+</head>
+<body>
+  <div id="map" aria-label="Interactive map showing the 2026 I-90 hikes"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    const hikes = [
+      { name: "West Tiger 1", date: "July 6", lat: 47.4690, lon: -121.9444, url: "/posts/2026-07-06-westiger/" },
+      { name: "Mount Si", date: "April 30", lat: 47.5076, lon: -121.7401, url: "/posts/2026-04-30-si/" },
+      { name: "Mount Washington", date: "May 10", lat: 47.4253, lon: -121.7017, url: "/posts/2026-05-10-mt-wash/" },
+      { name: "Mailbox Peak", date: "May 3", lat: 47.4624, lon: -121.6392, url: "/posts/2026-05-03-mailbox/" },
+      { name: "Granite Creek", date: "May 22", lat: 47.4920, lon: -121.6399, url: "/posts/2026-05-23-granitecreek/", note: "Trailhead" },
+      { name: "McClellan Butte", date: "June 11", lat: 47.4069, lon: -121.6222, url: "/posts/2026-06-11-mcclellan/" },
+      { name: "Putrid Pete", date: "July 13", lat: 47.4247, lon: -121.5836, url: "/posts/2026-07-13-putridpete/" },
+      { name: "Granite Mountain", date: "August 7", lat: 47.4176, lon: -121.4814, url: "/posts/2026-08-granite/" },
+      { name: "Snow Lake", date: "June 13", lat: 47.4666, lon: -121.4566, url: "/posts/2026-06-13-snowlake/" },
+      { name: "Gem Lake", date: "August 27", lat: 47.4766, lon: -121.4662, url: "/posts/2026-08-27-gem-lake/" },
+      { name: "Humpback Mountain", date: "September 4", lat: 47.3729, lon: -121.4951, url: "/posts/2026-09-04-humback-mountain/" },
+      { name: "Mount Catherine", date: "June 21", lat: 47.3715, lon: -121.4630, url: "/posts/2026-06-21-mtcatherine/" }
+    ];
+
+    const map = L.map("map", { zoomControl: true });
+    const satellite = L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}", {
+      maxZoom: 18,
+      attribution: "Tiles &copy; Esri"
+    }).addTo(map);
+    const topo = L.tileLayer("https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png", {
+      maxZoom: 17,
+      attribution: "Map data &copy; OpenStreetMap contributors, SRTM | Map style &copy; OpenTopoMap"
+    });
+    L.control.layers({ "Satellite": satellite, "Topographic": topo }, null, { position: "topright" }).addTo(map);
+
+    const icon = L.divIcon({ className: "", html: '<div class="star-marker" aria-hidden="true">★</div>', iconSize: [34, 34], iconAnchor: [17, 17], popupAnchor: [0, -15] });
+    const bounds = [];
+    hikes.forEach((hike) => {
+      const point = [hike.lat, hike.lon];
+      bounds.push(point);
+      L.marker(point, { icon, title: hike.name, alt: hike.name })
+        .addTo(map)
+        .bindTooltip(hike.name, { direction: "top", offset: [0, -14] })
+        .bindPopup(`<strong>${hike.name}</strong>${hike.date}${hike.note ? ` · ${hike.note}` : ""}<br><a href="${hike.url}" target="_top">Read the hike post →</a>`);
+    });
+    map.fitBounds(bounds, { padding: [35, 35] });
+
+    const title = L.control({ position: "topleft" });
+    title.onAdd = () => {
+      const div = L.DomUtil.create("div", "map-title");
+      div.innerHTML = "<strong>2026 I-90 hikes</strong><span>Bellevue → Snoqualmie Pass · click a star</span>";
+      return div;
+    };
+    title.addTo(map);
+  </script>
+</body>
+</html>
