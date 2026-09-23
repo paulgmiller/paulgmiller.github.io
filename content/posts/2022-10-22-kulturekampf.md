@@ -5,6 +5,8 @@ author: "Paul Miller"
 tags: [work]
 comments: true
 date: 2022-10-22
+aliases:
+  - /2022/10/22/kulturekampf.html
 ---
 
 Draft. More to come. 

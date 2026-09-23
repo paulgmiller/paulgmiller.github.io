@@ -3,6 +3,8 @@ layout: post
 title: irrational beliefs
 tags: [ family ]
 date: 2023-02-23
+aliases:
+  - /2023/02/23/Irrational-Beliefs.html
 ---
 This list will grow over time. 
 
@@ -13,6 +15,4 @@ This list will grow over time.
 * Green lawns are great.
 * Hamilton (the musical)  is terrible. 
 * pickup truck are great
-
-
 

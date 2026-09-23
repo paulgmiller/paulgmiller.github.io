@@ -3,6 +3,8 @@ layout: post
 title: No Direction Home
 tags: [ family, books ]
 date: 2023-03-14
+aliases:
+  - /2023/03/14/NoDirectionHome.html
 ---
 
 I watched No Direction home over a couple of days. It's 4 hours but its great mostly because of the other artists you get to see/hear. 
@@ -39,4 +41,3 @@ But the best part is dylan playing with the media.
     <em>Hands glasses to reporter who proceeds to stick them in his mouth.</em>
 
 * <em>Dylan surronded by people taking is picture proceeds to take out a camera an snap pictures back</em>
-

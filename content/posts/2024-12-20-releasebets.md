@@ -3,6 +3,8 @@ layout: post
 title: Release Bets
 tags: [ tech ]
 date: 2024-12-20
+aliases:
+  - /2024/12/20/releasebets.html
 ---
 ## The Problem 
 Big wig at some tech company awants to make a big jump in quality. A common and reasonable sounding thing to would be to bring in some bar raisers. They don't have enough people they trust to do it at the Pull Request level so Big Wing decides to have them review each release. (Continuous Deployment isn't happening for .... reasons....). Now the bar raiser has an interesting incentive problem.
@@ -14,4 +16,3 @@ Bar raisers don't have much incentive to get the code out but they have a big in
 Releaser  should give the bar raisers odds their release will cause an outage (defining outages is hard but lets assume we have one). If I'm really safe I might say this release only has a 1% chance of causing an outage (anyone that says 0% is a fool). Then the bar raiser now has some information and if they want to talk about the issue they need to ante a minimum amount of money to the bet (lets say $10). If after discussion the odds don't change the bet is locked. If the odds change (a good thing new information being exposed!) then releaser forfeits the ante and the bar raiser can still take whatever odds that come out if they want. This both focuses the discussions using time most effectively and aligns incentives to bring out truth rather than block or override.
 
 This works best for single change releases. If the releasees do bulk releases need PR reviewers to all give predictions and aggregate them which is harder but still doable. This is basically a [prediction](https://googleblog.blogspot.com/2005/09/putting-crowd-wisdom-to-work.html) [market](https://www.overcomingbias.com/p/lobbying-for-prhtml). It works better the more people that can participate and the more liquid the market is. Ideally I'd be able to go bet against the release of some division far from me if I have reason to doubt. Insider Trading is a goodness here!
-

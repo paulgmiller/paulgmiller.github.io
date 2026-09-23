@@ -3,6 +3,8 @@ layout: post
 title: American Dunkelweizen
 tags: [ beer ]
 date: 2011-01-01
+aliases:
+  - /2011/01/01/American-Dunkelweizen.html
 ---
 ## Malt
 -  Wheat Dry Extract, 48 ozs
@@ -16,4 +18,3 @@ date: 2011-01-01
 ## Yeast
 -  Bavarian Wheat Yeast, Liquid
 ## Notes
-

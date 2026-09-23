@@ -5,6 +5,8 @@ author: "Paul Miller"
 tags: ["recipes"]
 comments: true
 date: 2020-05-26
+aliases:
+  - /2020/05/26/Carne-Asada-Street-Tacos.html
 ---
 
 ## Ingredients

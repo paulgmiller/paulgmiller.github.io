@@ -3,6 +3,8 @@ layout: post
 title: Original Sin Stout
 tags: [ beer ]
 date: 2011-01-01
+aliases:
+  - /2011/01/01/Original-Sin-Stout.html
 ---
 ## Malt
 -  Dark Dry Malt Extract, 80 ozs
@@ -18,4 +20,3 @@ date: 2011-01-01
 ## Yeast
 -  White Labs English Ale (WLP002), Liquid
 ## Notes
-

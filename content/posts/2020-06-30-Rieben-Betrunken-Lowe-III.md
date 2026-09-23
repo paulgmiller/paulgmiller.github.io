@@ -3,6 +3,8 @@ layout: post
 title: Reiben Betrunken Lowe II
 tags: [ beer ]
 date: 2020-06-30
+aliases:
+  - /2020/06/30/Rieben-Betrunken-Lowe-III.html
 ---
 ## Malt
 - 6lbs  pilsner malt
@@ -25,5 +27,3 @@ date: 2020-06-30
 -  Dry and remember ph nuetralizer
 - Yeast nutrient
 - really slow start as I cooked it too much
-
-

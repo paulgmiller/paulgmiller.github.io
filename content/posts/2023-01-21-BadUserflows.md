@@ -3,6 +3,8 @@ layout: post
 title: Bad User Flows
 tags: [ tech ]
 date: 2023-01-21
+aliases:
+  - /2023/01/21/BadUserflows.html
 ---
 
 
@@ -18,4 +20,3 @@ You need an email code too. Sent a differnt one. Enter it.
 Change your password or skip? Skip? I guess? Why are you asking?
 
 Time for taxes. 
-

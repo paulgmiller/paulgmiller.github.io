@@ -5,6 +5,8 @@ author: "Paul Miller"
 tags: ["tech", "bets"]
 comments: true
 date: 2020-01-31
+aliases:
+  - /2020/01/31/Bitcoing-Selfdriving-Bet.html
 ---
 
 So back in the heady days of 2014 before I had one let alone two children Elliot being a sporting gentle man made a bet about self driving cars. Here is the text transcribed from whats app messages.
@@ -20,4 +22,3 @@ Also here is a hilarous email statement from dec 2014: "Clearly I'm just waiting
 Elliot generously and manfully paid up .3 bitcoin in the first week of january. While I mdade 10k elliot technically made more. 
 
 Tesla was the closest thing but it was too hard to get on their Beta at the time (might have to buy 20-50 model 3's to get one). 
-

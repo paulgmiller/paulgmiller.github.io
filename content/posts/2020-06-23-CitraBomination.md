@@ -3,6 +3,8 @@ layout: post
 title: Citrabomination
 tags: [ beer ]
 date: 2020-06-23
+aliases:
+  - /2020/06/23/CitraBomination.html
 ---
 ## Malt
 - 10 lbs  pale malt

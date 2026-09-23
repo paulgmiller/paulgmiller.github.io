@@ -5,6 +5,8 @@ author: "Paul Miller"
 tags: ["tech"]
 comments: true
 date: 2019-11-03
+aliases:
+  - /2019/11/03/Test-drive.html
 ---
 
 ## Ford

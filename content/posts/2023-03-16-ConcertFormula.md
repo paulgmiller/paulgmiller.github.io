@@ -3,6 +3,8 @@ layout: post
 title: Concert formulas
 tags: [ family ]
 date: 2023-03-16
+aliases:
+  - /2023/03/16/ConcertFormula.html
 ---
 
 I have opinions about concerts.

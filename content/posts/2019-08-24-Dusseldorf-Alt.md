@@ -3,6 +3,8 @@ layout: post
 title: Dusseldorf Alt
 tags: [ beer ]
 date: 2019-08-24
+aliases:
+  - /2019/08/24/Dusseldorf-Alt.html
 ---
 ## Malt
 - 8 lbs 2 row pale
@@ -32,4 +34,3 @@ Clone recipe from More beer. Missing 1lb of munich and .5 lb vienna initially
 Very good!
 
 ![prost](https://pichjw.dm.files.1drv.com/y4mSkIw8KvPyi1KRLrWlOZOwwYJzfnPj9mISz8RCCbJoySP1Iyw2K2e7jot2bOa4XjdNFaV3DVt_Vj9joyrH2VkZBLvVvYxuBFUkzs-e6_cOcTNFHb8Kt0TkwPBHnWYYYhUL28Wj5Tb07cV3xXteCNKO8caTHqA4A7Uz4TQn-CGkWkx2vOKRvF7qPlLyG8XBVKqD_AYQ67tHmbo9RzARr6w4w?width=3024&height=4032&cropmode=none)
-

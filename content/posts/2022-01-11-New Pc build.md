@@ -3,6 +3,8 @@ layout: post
 title: New PC build
 tags: [ tech ]
 date: 2022-01-11
+aliases:
+  - /2022/01/11/New-Pc-build.html
 ---
 
 [Windows Arm](2021/07/09/windowsarm.html) laptop is kind of lackinga and pc part picker is fun.

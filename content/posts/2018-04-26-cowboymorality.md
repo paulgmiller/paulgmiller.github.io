@@ -5,6 +5,8 @@ author: "Paul Miller"
 tags: [family]
 comments: true
 date: 2018-04-26
+aliases:
+  - /2018/04/26/cowboymorality.html
 ---
 
 [Spotify Playlist](https://open.spotify.com/user/126772449/playlist/6rhFwlWnRaBjOZEvohDhLZ?si=EyW4sZGdQx-oRxk-ROUftg) missing 5 songs that are hyperlinked/* below. 
@@ -88,6 +90,5 @@ There isn't a really good reason for this to be here.
 
 
 At a later time I will do drinking country songs. 
-
 
 

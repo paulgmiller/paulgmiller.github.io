@@ -3,6 +3,8 @@ layout: post
 title: Trout lake 
 tags: [ family, photos ]
 date: 2024-06-15
+aliases:
+  - /2024/06/15/Trout-Lake.html
 ---
 
 

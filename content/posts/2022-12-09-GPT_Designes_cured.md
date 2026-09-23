@@ -3,6 +3,8 @@ layout: post
 title: chatgpt designs kured.
 tags: [ tech ]
 date: 2022-12-09
+aliases:
+  - /2022/12/09/GPT_Designes_cured.html
 ---
 
 **Update. Chatgpt got alot better and basically solves this now.  https://chatgpt.com/share/6887cbb3-9380-8009-910f-0306b039230f**

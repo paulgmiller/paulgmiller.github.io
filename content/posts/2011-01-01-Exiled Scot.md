@@ -3,6 +3,8 @@ layout: post
 title: Exiled Scot
 tags: [ beer ]
 date: 2011-01-01
+aliases:
+  - /2011/01/01/Exiled-Scot.html
 ---
 ## Malt
 -  American Two-row Pale, 128 ozs

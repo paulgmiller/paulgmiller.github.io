@@ -5,6 +5,8 @@ author: "Paul Miller"
 tags: ["recipes"]
 comments: true
 date: 2020-05-26
+aliases:
+  - /2020/05/26/Beer-Pickles.html
 ---
 
 Beer pickles. From some beer cookbook I got for christmas. 
@@ -38,7 +40,5 @@ heat till disolved by not boiling?
  
 I didn't have mustard seeds or dill seeds so I did corriander, dill weed and celery salt (proportions unknown)
  
-
-
 
 

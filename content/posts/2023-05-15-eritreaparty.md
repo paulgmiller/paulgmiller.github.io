@@ -3,6 +3,8 @@ layout: post
 title: Eritrea Partry
 tags: [ family, photos ]
 date: 2023-05-15
+aliases:
+  - /2023/05/15/eritreaparty.html
 ---
 
 They sure can throw one. 

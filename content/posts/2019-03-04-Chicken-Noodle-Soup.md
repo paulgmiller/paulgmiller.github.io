@@ -5,6 +5,8 @@ author: "Paul Miller"
 tags: ["recipes"]
 comments: true
 date: 2019-03-04
+aliases:
+  - /2019/03/04/Chicken-Noodle-Soup.html
 ---
 
 From my mother:

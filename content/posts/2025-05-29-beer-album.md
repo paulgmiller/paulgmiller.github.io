@@ -3,6 +3,8 @@ layout: post
 title: beer
 tags: [ beer, photos ]
 date: 2025-05-29
+aliases:
+  - /2025/05/29/beer-album.html
 ---
 
 "Beer is proof that god loves us and wants us to be happy"

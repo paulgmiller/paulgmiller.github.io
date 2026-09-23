@@ -3,6 +3,8 @@ layout: post
 title: memeorial day hiking
 tags: [ family, photos, hiking]
 date: 2023-06-07
+aliases:
+  - /2023/06/07/memorial-day-hiking.html
 ---
 
 Got above the clouds for early mt si victory and got family stuck on highway 2 after wallace falls
