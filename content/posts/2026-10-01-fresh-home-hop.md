@@ -9,6 +9,16 @@ tags:
 
 # Fresh Cascade Pale Ale
 
+<div class="fotorama" data-allowfullscreen="true">
+<!--https://photos.app.goo.gl/pD9U89bkGuBEUDTX7-->
+    <img src="https://images.northbriton.net/cdn-cgi/image/width=800/https://images.northbriton.net/AP1GczM2Xeod-5u3UQTGaWY9w63LKdlhalcZd-b3qgREuE9LrClwSp9ygFqyEr0sYweHnp1lLzWg__F8-_nWI-83MQgQ6PArkLKJrxmSvrDwSXZ-2IGLJj01" data-full="https://images.northbriton.net/AP1GczM2Xeod-5u3UQTGaWY9w63LKdlhalcZd-b3qgREuE9LrClwSp9ygFqyEr0sYweHnp1lLzWg__F8-_nWI-83MQgQ6PArkLKJrxmSvrDwSXZ-2IGLJj01">
+    <img src="https://images.northbriton.net/cdn-cgi/image/width=800/https://images.northbriton.net/AP1GczMyQDpQxXSmuWdZMh-9jtuKcfxDPprnaM5VECikz3WkmJAh5aPNDF4FCTO0DEyF95VZWhOETMonAKbi_LqiJNam8y66V_jRZ8lJun5PK6LueeNg56hR" data-full="https://images.northbriton.net/AP1GczMyQDpQxXSmuWdZMh-9jtuKcfxDPprnaM5VECikz3WkmJAh5aPNDF4FCTO0DEyF95VZWhOETMonAKbi_LqiJNam8y66V_jRZ8lJun5PK6LueeNg56hR">
+    <img src="https://images.northbriton.net/cdn-cgi/image/width=800/https://images.northbriton.net/AP1GczMIchYDePA2SEYCOn0Wh6tin6VaRSy4YfPIcP1se3ShVQCvRju0nj-7UDFmStnm2V4A3w-ljwus2qMHHF7Jyra8Jz5rn-GVd_ENsIHkQGZPQ2efgzx_" data-full="https://images.northbriton.net/AP1GczMIchYDePA2SEYCOn0Wh6tin6VaRSy4YfPIcP1se3ShVQCvRju0nj-7UDFmStnm2V4A3w-ljwus2qMHHF7Jyra8Jz5rn-GVd_ENsIHkQGZPQ2efgzx_">
+    <img src="https://images.northbriton.net/cdn-cgi/image/width=800/https://images.northbriton.net/AP1GczPegioF2ZGNtb7s8Qb-a01XCS8fzbC7F1mDKH8GiXoRJw4HF5oYGnPpkriKKfRxjraOBR-0IRbtPB9oKq6652h3nP15l-Ce8awy6ZpYeq0UlUaDNQLZ" data-full="https://images.northbriton.net/AP1GczPegioF2ZGNtb7s8Qb-a01XCS8fzbC7F1mDKH8GiXoRJw4HF5oYGnPpkriKKfRxjraOBR-0IRbtPB9oKq6652h3nP15l-Ce8awy6ZpYeq0UlUaDNQLZ">
+    <img src="https://images.northbriton.net/cdn-cgi/image/width=800/https://images.northbriton.net/AP1GczPvtWmuf5OqWvcK6bvG_DoYq4Lj6U08V639iC1hIQVwY05W-91vx5zuLQsspIxeuFrXYdp-b3V9BS9K8O3k1y7tULwERhT-_v3i5_KTOazNEEexNC85" data-full="https://images.northbriton.net/AP1GczPvtWmuf5OqWvcK6bvG_DoYq4Lj6U08V639iC1hIQVwY05W-91vx5zuLQsspIxeuFrXYdp-b3V9BS9K8O3k1y7tULwERhT-_v3i5_KTOazNEEexNC85">
+</div>
+
+
 First beer using fresh hops from the yard. I believe they're Cascade, though hop variety obviously can't be confirmed from appearance alone.
 
 The goal was to make the fresh hops the interesting part and keep everything else simple and difficult to screw up: neutral American malt, clean yeast, known-alpha bittering hops, and all of the homegrown hops late in the process.
