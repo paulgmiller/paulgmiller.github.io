@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smith Brothers Locality
-date: 2015-10-15
+date: 2026-10-15
 ---
 
 To be clear, I think America's food distribution system is amazing. It's also October, which is probably past peak produce box season in the Pacific Northwest.
@@ -49,3 +49,5 @@ I'll come back with reviews of the produce. The big question: **Can you actually
 Here's an older screenshot of my Smith Brothers cart. This wasn't the final order and doesn't exactly reflect what arrived. For example, cucumbers were substituted for eggplant.
 
 <img width="665" height="1492" alt="Smith Brothers Farms shopping cart" src="https://github.com/user-attachments/assets/db43052c-bb4d-496a-99b7-d6d487de330f" />
+
+Also copy editing and formatting [assistited by chatgpt see original here ](https://chatgpt.com/share/6ad10137-87a8-83e8-b048-1464fb079c5b)
