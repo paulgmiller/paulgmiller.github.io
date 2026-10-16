@@ -1,0 +1,123 @@
+:root {
+  color-scheme: light;
+  --ink: #123c44;
+  --muted: #4a6468;
+  --paper: #f7f8f2;
+  --accent: #f4cb61;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: 17px/1.6 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+a { color: inherit; text-underline-offset: 4px; }
+a:hover { text-decoration-thickness: 2px; }
+a:focus-visible, summary:focus-visible, button:focus-visible {
+  outline: 3px solid #b95c20;
+  outline-offset: 5px;
+}
+h1, h2, p { margin: 0 0 1rem; }
+h1, h2 { letter-spacing: -.04em; line-height: 1.1; }
+h1 { font-weight: 800; }
+h1 em { color: var(--accent); font-style: normal; }
+.eyebrow {
+  text-transform: uppercase;
+  font-size: .75rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+}
+.button {
+  display: inline-block;
+  background: var(--accent);
+  color: var(--ink);
+  font-size: 1rem;
+  font-weight: 700;
+  padding: 12px 24px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.button:hover { background: #ffdc83; }
+.skibus { max-width: 1040px; margin: 32px auto; }
+.hero {
+  position: relative;
+  overflow: hidden;
+  padding: 42px 48px 72px;
+  background: var(--ink);
+  color: var(--paper);
+  border-radius: 12px 12px 0 0;
+}
+.hero-copy { position: relative; z-index: 1; }
+.skibus h1 { font-size: clamp(3rem, 7vw, 4.8rem); margin-bottom: 20px; }
+.hero-copy > p:not(.eyebrow) { margin-bottom: 24px; }
+.mountains {
+  position: absolute;
+  width: 80%;
+  height: auto;
+  right: -20%;
+  bottom: 0;
+  opacity: .65;
+}
+.highlights {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  padding: 24px 48px;
+  background: #e7eee8;
+  border-radius: 0 0 12px 12px;
+}
+.highlights span, .highlights strong, .highlights small { display: block; }
+.highlights span { text-transform: uppercase; letter-spacing: .1em; font-size: .7rem; }
+.highlights strong { font-size: 1.5rem; letter-spacing: -.04em; margin: 4px 0; }
+.highlights small { color: var(--muted); font-size: .78rem; }
+.content { padding: 32px 48px 0; }
+.day h2 { font-size: 1.7rem; }
+.program { margin: 20px 0 0; }
+.program > div {
+  display: grid;
+  grid-template-columns: 90px 1fr;
+  gap: 12px;
+  padding: 13px 0;
+  border-bottom: 1px solid #cdd8d2;
+}
+.program dt { font-weight: 700; }
+.program dd { margin: 0; }
+.program dd span { font-size: .88rem; color: var(--muted); }
+.registration-note { color: var(--muted); font-size: .9rem; margin-top: 18px; }
+.skibus details { font-size: .9rem; margin: 16px 0 26px; }
+.skibus summary { cursor: pointer; }
+.skibus details p { margin: 12px 0 0; overflow-wrap: anywhere; }
+.questions { border-top: 1px solid #cdd8d2; padding-top: 22px; font-size: .95rem; }
+.skibus footer { border-top: 1px solid #cdd8d2; margin-top: 24px; padding-top: 20px; }
+.skibus nav { display: flex; flex-wrap: wrap; gap: 10px 22px; font-size: .85rem; }
+.skibus footer p { color: var(--muted); font-size: .75rem; margin: 18px 0 0; }
+@media (max-width: 700px) {
+  .skibus { margin: 0; }
+  .hero { padding: 32px 24px 95px; border-radius: 0; }
+  .hero-copy > p:not(.eyebrow) { max-width: 320px; }
+  .mountains { width: 130%; right: -50%; opacity: .4; }
+  .highlights { padding: 22px 24px; gap: 16px; border-radius: 0; }
+  .highlights strong { font-size: 1.15rem; }
+  .highlights span { font-size: .6rem; }
+  .highlights small { font-size: .7rem; }
+  .content { padding: 28px 24px; }
+  .program > div { grid-template-columns: 65px 1fr; gap: 10px; }
+  .questions a { overflow-wrap: anywhere; }
+}
+@media (max-width: 480px) {
+  .highlights { grid-template-columns: 1fr; gap: 14px; }
+  .highlights > div { display: grid; grid-template-columns: 1fr 1.5fr; column-gap: 12px; align-items: baseline; }
+  .highlights strong { margin: 0; }
+  .highlights small { grid-column: 2; }
+}
+@media print {
+  body { background: white; }
+  .skibus { max-width: none; margin: 0; }
+  .hero { padding: 20px 0; background: white; color: var(--ink); }
+  .hero h1 { font-size: 40px; }
+  .hero h1 em { color: var(--ink); }
+  .mountains, .hero .button { display: none; }
+  .highlights, .content { padding: 20px 0; }
+  .skibus footer nav { display: none; }
+}
