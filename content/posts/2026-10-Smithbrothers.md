@@ -31,7 +31,7 @@ Here's where my groceries came from.
 
 ## Other or Unclear Origins
 
-- **Chicken:** Sourced through [Porter & York](https://porterandyork.com/), an online meat company, but the actual origin is unclear.
+- **Chicken:** Sourced through [Porter & York](https://porterandyork.com/), which seesm to be woodinville, wa compman though meat source unclear.
 - **Cucumbers:** Origin unclear.
 - **Pears:** Origin unclear.
 - **Yogurt:** Chobani, a national brand. I missed that Zoi appears to be a local alternative, so that's my fault.
