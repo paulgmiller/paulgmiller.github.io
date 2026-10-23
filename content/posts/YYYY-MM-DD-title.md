@@ -1,0 +1,102 @@
+# Three-Node Talos Kubernetes Cluster
+
+## Goal
+
+Build a self-contained, three-node Kubernetes appliance for developers to experiment with distributed systems, high availability, and cluster administration.
+
+**Target retail price: ~$1,000**
+
+The prototype will use commodity hardware inside a desktop cube, with one AC power connection and one Ethernet uplink.
+
+## Hardware
+
+| Component | Specification | Estimated cost |
+|---|---|---:|
+| Compute | 3× Beelink SER3, Ryzen 3 3200U, 16GB RAM, 500GB SSD | $660 |
+| Network | Waveshare Gigabit-Switch-5P, 5-port Gigabit | $25 |
+| Power | Shared regulated 19V/250W DC supply | $100–185 |
+| Distribution | Four fused DC outputs, cables, connectors | $20–40 |
+| Enclosure | 2020 aluminum extrusion desktop cube | $50–90 |
+| Cooling/mounting | 2× 120mm fans, brackets, shelves | $25–50 |
+| **Total** | | **$880–1,050** |
+
+Optional: 600–850VA AC UPS (~$100).
+
+Reference hardware:
+- [Beelink SER3](https://www.ebay.com/itm/206594282885)
+- [Waveshare Gigabit-Switch-5P](https://www.waveshare.com/product/gigabit-switch-5p.htm)
+- [XP Power 19V/250W supply](https://www.digikey.com/en/products/detail/xp-power/AQM250PS19/16351188)
+
+## Power Architecture
+
+All three SER3 computers and the Ethernet switch run from one 19V DC supply.
+
+- Each SER3: 19V × 3.42A = 65W adapter rating.
+- Three SER3s: 195W combined adapter rating.
+- Waveshare switch: accepts 5–36V DC, including 19V.
+- Fans: use 19V-compatible fans or a DC-DC converter for 12V fans.
+- Supply: regulated 19V/250W, subject to startup and full-load testing.
+
+Use a fused distribution block with four independently protected outputs: three barrel connectors for the Beelinks and one screw-terminal connection for the switch.
+
+Verify barrel dimensions, polarity, wire ratings, and power consumption before assembling.
+
+No power redundancy is required.
+
+## Enclosure
+
+Build an approximately 300mm desktop cube using 2020 aluminum extrusion.
+
+- Three independently mounted Beelinks, retaining their original cases initially.
+- Waveshare switch mounted internally.
+- Two 120mm fans providing front-to-back airflow.
+- Shared DC supply and distribution.
+- One external Ethernet uplink and one AC power connection.
+- Accessible node power buttons and replaceable components.
+
+Final dimensions depend on thermal and mechanical testing.
+
+## Kubernetes Software
+
+Install [Talos Linux](https://www.talos.dev/) on all three nodes.
+
+| Component | Configuration |
+|---|---|
+| Kubernetes | Talos-managed |
+| Control plane | 3 schedulable control-plane nodes |
+| etcd | 3 members, tolerates 1 node failure |
+| Networking | Talos default CNI initially |
+| Ingress | Traefik |
+| Load balancer | MetalLB or equivalent |
+| Storage | Local SSD initially |
+| Observability | Optional OpenTelemetry/Grafana |
+
+The cluster provides 6 physical CPU cores, 48GB total RAM, and 1.5TB raw SSD capacity.
+
+Storage is not automatically replicated. Distributed storage such as Longhorn or Ceph can be installed experimentally.
+
+## Prototype Milestones
+
+1. **Compute:** Acquire three identical SER3s and install Talos.
+2. **Cluster:** Establish a working HA Kubernetes control plane and test node failure/recovery.
+3. **Power:** Measure consumption and implement the shared 19V supply with four fused outputs.
+4. **Enclosure:** Assemble the cube, mount the computers and switch, and install cooling.
+5. **Validation:** Test simultaneous startup, thermal behavior, sustained load, power recovery, upgrades, and node replacement.
+6. **Productization:** Develop repeatable setup, LAN discovery, secure credential provisioning, factory reset, and recovery documentation.
+
+## Path to a $1,000 Product
+
+The prototype uses retail hardware and may cost as much as the intended selling price.
+
+For production, target **$600–650 hardware and assembly cost** by:
+
+- Sourcing complete mini PCs directly from an OEM.
+- Eliminating redundant cases and individual power adapters.
+- Purchasing the switch as a bare PCB.
+- Standardizing shared DC power distribution.
+- Replacing the extrusion frame with an inexpensive manufactured enclosure.
+- Automating Talos provisioning and hardware testing.
+
+The product's primary differentiator is a ready-to-use, physically distributed Kubernetes environment, not raw CPU performance.
+
+**Success criterion:** A developer can connect one power cable and one Ethernet cable, initialize the cluster, and immediately begin running and breaking real distributed workloads.
