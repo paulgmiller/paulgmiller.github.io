@@ -2,7 +2,7 @@
 layout: post
 title: DB/SQL history since college
 tags: [tech]
-date: 2026-11-3
+ddate: 2026-11-03
 ---
 This is the endpoint of a late nitght discussion with chatgpt about the evolution of sql since I was in the industry with fun links at the end. Not my own writing. 
 
