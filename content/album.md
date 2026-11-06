@@ -8,7 +8,7 @@ aliases:
 ---
 
 
-  <form action="https://api.northbriton.net/album" method="POST">
+  <form action="https://album.northbriton.net/album" method="POST">
     <label for="album">Album:</label>
     <input type="text" id="album" name="album" required>
     <button type="submit">Submit</button>
