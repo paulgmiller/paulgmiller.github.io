@@ -7,6 +7,8 @@ aliases:
   - /2025/08/18/wireguard-kubernetes.html
 ---
 
+2026 update. I am doing this outside of azure with flatcar/k3s/cockroachdb in https://github.com/paulgmiller/infestation
+
 What if you built your kubernetes cluster with wireguard/tailscale from  the ground up. 
 
 * Api servers are always private except for wireguard port
