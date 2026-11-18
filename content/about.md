@@ -13,7 +13,9 @@ I may sometimes post on [bluesky as northbriton.net](https://bsky.app/profile/no
 
 ## Projects
 * [Careme](https://careme.cooking/) - Whats for dinner. Local ingredients. Ai chef.
+* [Infestation](https://github.com/paulgmiller/infestation) --  Tailnet connected k8s cluster for your friends home compute. 
 * [Nicevites](http://nicevites.northbriton.net)/[Aggorvites](http://aggrovites.northbriton.net) - no ads invite service
+* [Factoria Table](https://factoria.northbriton.net/) -- Ethnic dining guide for my neighbor hood
 * [Horsebets](https://horsebets.northbriton.net/) - bet with friends. No house cut. 
 * [Lets Meet Up](http://meet.northbriton.net) - Where are we going? 
 * [Why is the stock market down?](http://whyisthestockmarketdown.com) - the eternal question. 
