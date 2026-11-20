@@ -31,3 +31,5 @@ Finally got to watch Nolan's *Odyssey* after much delay. Kind of funny, because 
 ## Ambivalent
 
 - **Odysseus's PTSD.** Making the Trojan War something he regrets didn't really stick with me, but maybe that says more about me than Homer. The whole "we are the Sea Peoples" angle seemed a bit much.
+
+[![Sad Odysseus](https://images.northbriton.net/cdn-cgi/image/width=800/https://images.northbriton.net/AP1GczPJtHYwAhRt6NszK16L7a-YmUcb73xrxUYkN7oIzPao77Ln_e0j0kmmYHj8wHcsfTnNwkJWbgV7jd3xymnvo4Y85x7hGmVLK0c3BWc5jKJWTJshYs1O)](https://photos.app.goo.gl/RqeqDsLXUVS9HdwF9)
