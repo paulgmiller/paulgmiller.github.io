@@ -1,6 +1,6 @@
 ---
 layout: post
-title: dinner rolls
+title: Dinner rolls
 date: 2026-11-22
 tags: ["family", "cooking"]
 ---
