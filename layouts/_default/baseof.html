@@ -1,17 +1,18 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
 	{{ partial "head.html" . }}
 	<body>
+		<a class="skip-link" href="#content">Skip to content</a>
 		<div id="container">
-			<div id="side">
-				<a href="/" id="home" title="home" alt="home"><img src="https://images.weserv.nl/?w=200&url=https://blog.northbriton.net/img/logo.png" alt="Site Name" /></a>
+			<aside id="side" aria-label="Site navigation">
+				<a href="/" id="home" title="Home"><img src="/img/logo.png" alt="Home" width="112" /></a>
 				<div id="hometext"><a href="/" >{{ .Site.Title }}</a></div>
-				<div class="section">
+				<nav class="section" aria-label="Browse the blog">
 					<ul>
 						<li><a href="/about/">about</a></li>
-						<li><a href="/rss.xml"><img src="/img/25.png" />feed</a></li>
+						<li><a href="/rss.xml">feed</a></li>
 						<li><a id="new-post" href="{{.Site.Params.giturl}}/new/master/content/posts?filename=YYYY-MM-DD-title.md&value=%2D%2D%2D%0Alayout%3A%20post%0Atitle%3A%20%0Adate%3A%20YYYY-MM-DD%0A%2D%2D%2D%0A">post</a></li>
-						<li>Tags:
+						<li class="tag-section"><span class="nav-label">Tags</span>
 							<ul>
 							<li><a href="/tags/beer">beer</a></li>
 							<li><a href="/tags/hiking">hiking</a></li>
@@ -22,12 +23,13 @@
 							<li><a href="/tags/bets">bets</a></li>
 							<li><a href="/tags/photos">photos</a></li>
 							</ul>
+						</li>
 					</ul>
-				</div>
-			</div>
-			<div id="content">
+				</nav>
+			</aside>
+			<main id="content" tabindex="-1">
 				{{ block "main" . }}{{ end }}
-			</div>
+			</main>
 		</div>
 		<script src="/js/new-post.js"></script>
 		<script src="//cdn.jsdelivr.net/highlight.js/9.4.0/highlight.min.js"></script>

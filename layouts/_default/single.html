@@ -1,30 +1,18 @@
 {{ define "main" }}
 <div class="entry-container">
-	<div class='entry'>
-		<h1> {{ .Title }} </h1>
-		{{ if not .Date.IsZero }}
-		<span class="postdate">{{ .Date.Format "2 January, 2006" }}
-			{{ with .Params.tags }}
-				{{ if reflect.IsSlice . }}
-					{{ range . }}
-						<li><a href="/tags/{{ . | urlize }}">{{ . }}</a></li>
-					{{ end }}
-				{{ end }}
-			{{ end }}
-			<!-- https://github.com/jekyll/jekyll-help/issues/5 -->
-			<a href="{{$.Site.Params.giturl}}/edit/master/content/{{ .File.Path }}">Edit this page</a>
-		</span>
-		{{ end }}
-		{{ .Content }}
+	<article class="entry">
+		<h1 class="post-title">{{ .Title }}</h1>
+		{{ partial "post-meta.html" . }}
+		<div class="post-body">{{ .Content }}</div>
 		{{ with .Params.images }}
+		<ul class="post-images">
 			{{ range . }}
-				<li><a href="{{ .src }}">
-				{{ .caption }}<br/>
-				<img alt="{{ .alttext }}" src="https://images.weserv.nl/?w=650&url={{ .src }}"> 
-				</a></li>
+			<li><a href="{{ .src }}">{{ .caption }}<img alt="{{ .alttext }}" loading="lazy" src="https://images.weserv.nl/?w=650&url={{ .src }}"></a></li>
 			{{ end }}
-   		{{ end }}
-	</div>
+		</ul>
+		{{ end }}
+		{{ with .File }}<a class="post-comments" href="{{$.Site.Params.giturl}}/edit/master/content/{{ .Path }}">Edit this page</a>{{ end }}
+	</article>
 </div>
 <div id="page-navigation"> 
 	<div class="left"> {{ with .PrevInSection }} <a href="{{ .RelPermalink }}" title="Previous Post: {{ .Title }}">&larr; {{ .Title }}</a> {{ end }} </div> 

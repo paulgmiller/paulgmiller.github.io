@@ -10,7 +10,8 @@
 		
 		<meta charset="utf-8" />
 		<meta content="en-au" http-equiv="Content-Language" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="color-scheme" content="dark" />
 		
 		<!-- Title and Description -->
 		<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
@@ -42,8 +43,7 @@
 		
 		<!-- Stylesheets -->
 		<link rel="stylesheet" type="text/css" href="/css/style.css" />
-		<link rel="stylesheet" href="//cdn.jsdelivr.net/highlight.js/9.4.0/styles/default.min.css" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-		<link rel="stylesheet" href="//cdn.jsdelivr.net/highlight.js/9.4.0/styles/dark.min.css" media="(prefers-color-scheme: dark)" />
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/highlight.js/9.4.0/styles/dark.min.css" />
 		
 		<!-- Fotorama -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" ></script>

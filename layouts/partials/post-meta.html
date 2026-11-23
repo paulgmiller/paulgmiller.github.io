@@ -1,0 +1,10 @@
+<div class="postdate">
+	{{ if not .Date.IsZero }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January, 2006" }}</time>{{ end }}
+	{{ with .Params.tags }}
+		{{ if reflect.IsSlice . }}
+		<ul aria-label="Post tags">
+			{{ range . }}<li><a href="/tags/{{ . | urlize }}/">{{ . }}</a></li>{{ end }}
+		</ul>
+		{{ end }}
+	{{ end }}
+</div>
