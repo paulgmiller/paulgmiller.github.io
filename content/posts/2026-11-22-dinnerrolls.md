@@ -5,7 +5,7 @@ date: 2026-11-22
 tags: ["family", "cooking"]
 ---
 
-# Three Dinner Roll Recipes
+My mom sent these before thanksgiving. Let chatgpt critique. 
 
 # Classic Soft Dinner Rolls
 
