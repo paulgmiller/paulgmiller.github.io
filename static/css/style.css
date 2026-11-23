@@ -24,8 +24,8 @@ body {
 
 #container {
 	display: grid;
-	grid-template-columns: minmax(0, 46rem) 13rem;
-	gap: 5rem;
+	grid-template-columns: minmax(0, 46rem) 16rem;
+	gap: 4rem;
 	max-width: 70rem;
 	margin: 0 auto;
 	padding: 4rem 2rem 6rem;
@@ -75,7 +75,7 @@ a:focus-visible { outline: 2px solid var(--link-color); outline-offset: 4px; bor
 	align-self: start;
 }
 
-#home { display: block; width: 9rem; margin-bottom: 1.25rem; }
+#home { display: block; width: 14rem; max-width: 100%; margin-bottom: 1.25rem; }
 #home img { display: block; width: 100%; height: auto; }
 #hometext a { display: block; color: var(--heading-color); font-size: 1rem; font-weight: 600; line-height: 1.5; }
 #side .section { margin-top: 1.5rem; }

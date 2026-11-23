@@ -42,7 +42,7 @@
 		{{ with .Params.images }}{{ range first 1 . }}<meta name="twitter:image" content="{{ .src | absURL }}" />{{ end }}{{ end }}
 		
 		<!-- Stylesheets -->
-		<link rel="stylesheet" type="text/css" href="/css/style.css" />
+		<link rel="stylesheet" type="text/css" href="/css/style.css?v={{ readFile "static/css/style.css" | md5 }}" />
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/highlight.js/9.4.0/styles/dark.min.css" />
 		
 		<!-- Fotorama -->
