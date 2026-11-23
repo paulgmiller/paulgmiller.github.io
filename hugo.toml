@@ -1,6 +1,7 @@
 baseURL = 'https://blog.northbriton.net'
 languageCode = 'en-us'
 title = 'The gyrations of a pointless and uncaring universe'
+summaryLength = 180
 
 [author]
   name = 'Paul Miller'

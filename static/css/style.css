@@ -117,6 +117,7 @@ img { max-width: 100%; height: auto; border: 0; }
 .post-images img { display: block; margin-top: .5rem; }
 .post-images a { font-size: .9375rem; }
 .post-comments { display: inline-block; margin-top: 1rem; font-size: .875rem; }
+.post-more { display: inline-block; margin: 1rem 1.25rem 0 0; font-size: .875rem; font-weight: 600; }
 
 pre, code { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: .875em; }
 code { background: var(--surface-color); padding: .15em .35em; border-radius: 3px; }
